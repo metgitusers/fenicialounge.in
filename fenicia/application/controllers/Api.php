@@ -5366,4 +5366,424 @@ $access_token_result=1;
     }
     $this->displayOutput($response);
   }
+
+  /**********************added by ishani on 25.09.2020 Apple sign up login *****************************/
+  //apple login
+  public function appleLogin()
+  {
+    $ap = json_decode(file_get_contents('php://input'), true);
+    if ($this->checkHttpMethods($this->http_methods[0])) {
+      if (sizeof($ap)) {
+        if (empty($ap['device_type'])) {
+          $response['status']['error_code'] = 1;
+          $response['status']['message']    = 'Device type is required.';
+         
+          $this->displayOutput($response);
+        }
+        
+        
+        if (empty($ap['device_token'])) {
+          $response['status']['error_code'] = 1;
+          $response['status']['message']    = 'Device token is required.';
+          $this->displayOutput($response);
+        }
+        if (empty($ap['apple_id'])) {
+          $response['status']['error_code'] = 1;
+          $response['status']['message']    = 'Apple id is required.';
+          $this->displayOutput($response);
+        }
+        $apple_id=$ap['apple_id'];
+        $email="";
+        $memberdetails          = array(); 
+        $loggedIn=0;
+        /***** chk with email id *************************/
+        if(isset($ap['email'])&&$ap['email']!='')
+        {
+          $email=$ap['email'];
+          $check_member_condition = array('email' => $email);
+          $memberdetails          = $this->mcommon->getRow('master_member', $check_member_condition);
+
+          if(!empty($memberdetails))
+          {
+            //////////////update apple id in member row
+            $update_data=array();
+            $update_data['apple_id']=$apple_id;
+            $this->mcommon->update('master_member', $check_member_condition,$update_data);
+            $loggedIn=1;
+          }
+          else
+          {
+             $check_member_appleid = array('apple_id' => $apple_id);
+              $memberdetails          = $this->mcommon->getRow('master_member', $check_member_appleid);
+          }
+        }
+        else
+        {
+           $check_member_appleid = array('apple_id' => $apple_id);
+            $memberdetails          = $this->mcommon->getRow('master_member', $check_member_appleid);
+        }
+
+        /*****chk with apple id *************************/
+        if(empty($memberdetails))
+        {
+          
+          $check_member_appleid = array('apple_id' => $apple_id);
+          $memberdetails          = $this->mcommon->getRow('master_member', $check_member_appleid);
+          //echo $this->db->last_query(); die;
+            if(empty($memberdetails)){
+              // $response['status']['error_code'] = 1;
+              // $response['status']['message']    = 'Invalid Apple id';
+              // $this->displayOutput($response);
+
+              /********************signup user*******************************************/
+              $data=array();
+              $data['email']=$email;
+              $data['apple_id']=$apple_id;
+              $data = array(    
+      
+                'email'                 => $email, 
+               
+                'status'                => '1',
+                'registration_type'     => 2,
+                'added_form'            => 'front',
+                'login_status'          => '1',
+                'apple_id'              => $apple_id,
+                'created_by'            => '',     
+                'created_ts'            => date('Y-m-d H:i:s'),       
+              );
+              
+              $member_id = $this->mapi->insert('master_member', $data); 
+              if($member_id>0)
+              {
+                   
+                    $condition      = array('member_id' =>$member_id);
+
+                     $memberdetails          = $this->mcommon->getRow('master_member', $condition);
+                    $update_arr     = array('login_status' =>'1');
+                    $update_result  = $this->mapi->update('master_member',$condition,$update_arr);
+
+                    if($update_result){              
+                        $response['status']['error_code'] = 0;
+                        $response['status']['message']    = 'Login Successfully';
+                        $response['response']['member']   = $memberdetails;
+                        $api_token_details                = $this->mapi->getRow('api_token', $condition);
+                        $device_token_details             = $this->mapi->getRow('device_token', $condition);
+
+                        if (empty($api_token_details) && empty($device_token_details)) {
+
+                          $device_token_data['member_id']          = $memberdetails['member_id'];
+                          $device_token_data['device_type']        = $ap['device_type'];
+                          $device_token_data['device_token']       = '';
+                          $device_token_data['fcm_token']          = $ap['device_token'];
+                          $device_token_data['login_status']       = '1';
+                          $device_token_data['date_of_creation']   = date('Y-m-d H:i:s');
+                          $device_token_data['session_start_time'] = date('Y-m-d H:i:s');
+                          $device_token_data['session_end_time']   = '';
+
+                          $insert_data          = $this->mapi->insert('device_token', $device_token_data);
+
+                          $api_token_data['member_id']          = $memberdetails['member_id'];
+                          $api_token_data['device_type']        = $ap['device_type'];
+                          $api_token_data['access_token']       = md5(mt_rand() . '_' . $memberdetails['member_id']);
+                          $api_token_data['date_of_creation']   = date('Y-m-d H:i:s');
+                          $api_token_data['session_start_time'] = date('Y-m-d H:i:s');
+                          $api_token_data['session_end_time']   = '';
+
+                          $insert_data  = $this->mapi->insert('api_token', $api_token_data);
+                          $all_member   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $member_id));
+                          if(!empty($all_member)){
+                            if($all_member[0]['membership_id'] ==''){
+                              $all_member_details = $all_member[0];
+                            }
+                            else{
+                              foreach($all_member as $val){
+                                  $all_member_datas   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $val['member_id'],'package_membership_mapping.status' => '1'));
+                                  if(!empty($all_member_datas)){
+                                      $all_member_details = $all_member_datas[0];
+                                  }
+                                  else{
+                                      $all_member_details = $all_member[0];
+                                      $all_member_details['membership_id'] = null;
+                                  }
+                              }
+                            }                       
+                          }
+                          else {
+                            $response['status']['error_code'] = 1;
+                            $response['status']['message']    = 'Unable to generate access token';                    
+                          }
+                          if ($all_member_details) {
+                            if($all_member_details['profile_img'] !='' ){
+                              $all_member_details['profile_pic_updated'] = '1';
+                            }
+                            else{
+                              $all_member_details['profile_pic_updated'] = '0';
+                            }
+                            $response['status']['error_code'] = 0;
+                            $response['status']['message']    = 'Login Successfully';
+                            $response['response']['member']   = $all_member_details;
+                            
+                          } else {
+                            $response['status']['error_code'] = 1;
+                            $response['status']['message']    = 'Unable to generate access token';                    
+                          }
+                        } else {
+                          $condition_token                    = array('member_id' =>$member_id);
+                          $api_token_updata['device_type']    = $ap['device_type'];
+                          $api_token_updata['access_token']   = $api_token_details['access_token'];
+                          $update_data  = $this->mapi->update('api_token', $condition_token, $api_token_updata);
+
+                          $device_token_updata['device_type']     = $ap['device_type'];
+                          $device_token_updata['fcm_token']       = $ap['device_token'];
+                          $update_data  = $this->mapi->update('device_token', $condition_token, $device_token_updata);
+
+                          $all_member_details   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $member_id));
+                          $all_member   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $member_id));
+                          if(!empty($all_member)){
+                            if($all_member[0]['membership_id'] ==''){
+                              $all_member_details = $all_member[0];
+                            }
+                            else{
+                              foreach($all_member as $val){
+                                  $all_member_datas   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $val['member_id'],'package_membership_mapping.status' => '1'));
+                                  if(!empty($all_member_datas)){
+                                      $all_member_details = $all_member_datas[0];
+                                  }
+                                  else{
+                                      $all_member_details = $all_member[0];
+                                      $all_member_details['membership_id'] = null;
+                                  }
+                              }
+                            }                       
+                          }
+                          else {
+                            $response['status']['error_code'] = 1;
+                            $response['status']['message']    = 'Unable to generate access token';                    
+                          }
+                          if ($all_member_details) {
+                            if($all_member_details['profile_img'] !='' ){
+                              $all_member_details['profile_pic_updated'] = '1';
+                            }
+                            else{
+                              $all_member_details['profile_pic_updated'] = '0';
+                            }
+                            $response['status']['error_code'] = 0;
+                            $response['status']['message']    = 'Login Successfully';
+                            $response['response']['member']   = $all_member_details;
+                          } else {
+                            $response['status']['error_code'] = 1;
+                            $response['status']['message']    = 'Unable to update access token';                   
+                          }
+                        }
+                    }
+                    else {
+                      $response['status']['error_code'] = 1;
+                      $response['status']['message']    = 'Oops!something went wrong to login';
+                    }   
+                
+                // $response['status']['error_code'] = 0;
+                // $response['status']['message']    = 'Sign up Successfully';
+                // $response['response']['member']   = $memberdetails;
+              }
+              /*****************************************************************************/
+          }
+          else
+          {
+            $loggedIn=1;
+          }
+        }
+        else
+        {
+          
+            if($memberdetails['is_delete'] != '0'){
+                $response['status']['error_code'] = 1;
+                $response['status']['message']    = 'Member account is removed by admin';
+                $this->displayOutput($response);
+            }
+            elseif($memberdetails['status'] == '0'){
+                $response['status']['error_code'] = 1;
+                $response['status']['message']    = 'Member account is not inactive status';
+                $this->displayOutput($response);
+            }
+          
+           
+            else{
+                    $member_id      = $memberdetails['member_id'];
+                    $condition      = array('member_id' =>$member_id);
+                    $update_arr     = array('login_status' =>'1');
+                    $update_result  = $this->mapi->update('master_member',$condition,$update_arr);
+
+                    if($update_result){              
+                        $response['status']['error_code'] = 0;
+                        $response['status']['message']    = 'Login Successfully';
+                        $response['response']['member']   = $memberdetails;
+                        $api_token_details                = $this->mapi->getRow('api_token', $condition);
+                        $device_token_details             = $this->mapi->getRow('device_token', $condition);
+
+                        if (empty($api_token_details) && empty($device_token_details)) {
+
+                          $device_token_data['member_id']          = $memberdetails['member_id'];
+                          $device_token_data['device_type']        = $ap['device_type'];
+                          $device_token_data['device_token']       = '';
+                          $device_token_data['fcm_token']          = $ap['device_token'];
+                          $device_token_data['login_status']       = '1';
+                          $device_token_data['date_of_creation']   = date('Y-m-d H:i:s');
+                          $device_token_data['session_start_time'] = date('Y-m-d H:i:s');
+                          $device_token_data['session_end_time']   = '';
+
+                          $insert_data          = $this->mapi->insert('device_token', $device_token_data);
+
+                          $api_token_data['member_id']          = $memberdetails['member_id'];
+                          $api_token_data['device_type']        = $ap['device_type'];
+                          $api_token_data['access_token']       = md5(mt_rand() . '_' . $memberdetails['member_id']);
+                          $api_token_data['date_of_creation']   = date('Y-m-d H:i:s');
+                          $api_token_data['session_start_time'] = date('Y-m-d H:i:s');
+                          $api_token_data['session_end_time']   = '';
+
+                          $insert_data  = $this->mapi->insert('api_token', $api_token_data);
+                          $all_member   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $member_id));
+                          if(!empty($all_member)){
+                            if($all_member[0]['membership_id'] ==''){
+                              $all_member_details = $all_member[0];
+                            }
+                            else{
+                              foreach($all_member as $val){
+                                  $all_member_datas   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $val['member_id'],'package_membership_mapping.status' => '1'));
+                                  if(!empty($all_member_datas)){
+                                      $all_member_details = $all_member_datas[0];
+                                  }
+                                  else{
+                                      $all_member_details = $all_member[0];
+                                      $all_member_details['membership_id'] = null;
+                                  }
+                              }
+                            }                       
+                          }
+                          else {
+                            $response['status']['error_code'] = 1;
+                            $response['status']['message']    = 'Unable to generate access token';                    
+                          }
+                          if ($all_member_details) {
+                            if($all_member_details['profile_img'] !='' ){
+                              $all_member_details['profile_pic_updated'] = '1';
+                            }
+                            else{
+                              $all_member_details['profile_pic_updated'] = '0';
+                            }
+                            $response['status']['error_code'] = 0;
+                            $response['status']['message']    = 'Login Successfully';
+                            $response['response']['member']   = $all_member_details;
+                            
+                          } else {
+                            $response['status']['error_code'] = 1;
+                            $response['status']['message']    = 'Unable to generate access token';                    
+                          }
+                        } else {
+                          $condition_token                    = array('member_id' =>$member_id);
+                          $api_token_updata['device_type']    = $ap['device_type'];
+                          $api_token_updata['access_token']   = $api_token_details['access_token'];
+                          $update_data  = $this->mapi->update('api_token', $condition_token, $api_token_updata);
+
+                          $device_token_updata['device_type']     = $ap['device_type'];
+                          $device_token_updata['fcm_token']       = $ap['device_token'];
+                          $update_data  = $this->mapi->update('device_token', $condition_token, $device_token_updata);
+
+                          $all_member_details   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $member_id));
+                          $all_member   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $member_id));
+                          if(!empty($all_member)){
+                            if($all_member[0]['membership_id'] ==''){
+                              $all_member_details = $all_member[0];
+                            }
+                            else{
+                              foreach($all_member as $val){
+                                  $all_member_datas   = $this->mapi->getMemberDetailsRow(array('mm.member_id' => $val['member_id'],'package_membership_mapping.status' => '1'));
+                                  if(!empty($all_member_datas)){
+                                      $all_member_details = $all_member_datas[0];
+                                  }
+                                  else{
+                                      $all_member_details = $all_member[0];
+                                      $all_member_details['membership_id'] = null;
+                                  }
+                              }
+                            }                       
+                          }
+                          else {
+                            $response['status']['error_code'] = 1;
+                            $response['status']['message']    = 'Unable to generate access token';                    
+                          }
+                          if ($all_member_details) {
+                            if($all_member_details['profile_img'] !='' ){
+                              $all_member_details['profile_pic_updated'] = '1';
+                            }
+                            else{
+                              $all_member_details['profile_pic_updated'] = '0';
+                            }
+                            $response['status']['error_code'] = 0;
+                            $response['status']['message']    = 'Login Successfully';
+                            $response['response']['member']   = $all_member_details;
+                          } else {
+                            $response['status']['error_code'] = 1;
+                            $response['status']['message']    = 'Unable to update access token';                   
+                          }
+                        }
+                    }
+                    else {
+                      $response['status']['error_code'] = 1;
+                      $response['status']['message']    = 'Oops!something went wrong...';
+                    }          
+                }
+            }
+              
+      }
+      else {
+        $response['status']['error_code'] = 1;
+        $response['status']['message']    = 'Please fill up all required fields';        
+      }
+    }
+    else{
+        $response['status']['error_code'] = 1;
+        $response['status']['message']    = 'Wrong http method type.';        
+    }
+    $this->displayOutput($response);  
+  }
+
+    public function viewProfilebyEmail()
+  {
+    $ap = json_decode(file_get_contents('php://input'), true);
+    if ($this->checkHttpMethods($this->http_methods[0])) {
+      if (sizeof($ap)) {
+        if (empty($ap['email'])) {
+          $response['status']['error_code'] = 1;
+          $response['status']['message']    = 'Email is required.';
+         
+          $this->displayOutput($response);
+        }
+          $email          = $ap['email'];
+           
+          $member_details   = $this->mapi->getMemberDetailsRow(array('email' => $email));
+            
+          if(!empty($member_details)){
+          
+          $response['status']['error_code'] = 0;
+            $response['status']['message']    = 'Member Details';
+            $response['response']['member']   = $member_details;
+          }
+          else{
+            $response['status']['error_code'] = 1;
+              $response['status']['message']    = 'User does not exist';        
+        
+          }
+      }
+      else {
+      $response['status']['error_code'] = 1;
+      $response['status']['message']    = 'Please fill up all required fields.';
+        }
+    } else {
+        $response['status']['error_code'] = 1;
+        $response['status']['message']    = 'Wrong http method type.';
+        //$response['response']   = $this->obj;
+      
+    }
+  $this->displayOutput($response);
+  }
 }
