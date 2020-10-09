@@ -1,0 +1,4 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+750,Walk-in,"ALINA ",,'918334035292',"Thursday 09 Jul 2020","04:00 PM",Dome3,12000,7,Confirmed,
+747,Phone,"sasrat goenka BORAR",,'918777395819',"Thursday 09 Jul 2020","01:30 PM","Bed Lounge2",2500,2,Confirmed,
+746,Phone,"SOUMYAPARNA SAMANTA",,'919681131338',"Thursday 09 Jul 2020","12:00 PM","Bed Lounge3",2500,2,NO-show,

@@ -1,0 +1,172 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Booking Confirmation</title>
+
+<style>
+	body{
+		padding: 0;
+		margin: 0;
+		background-color: #fff;
+		font-family: 'Open Sans', sans-serif;
+	}
+	table{
+		margin: 0;
+		padding: 0;
+	}
+	.brt-table{
+		width: 100%;
+	}
+	.logo-wrapper{
+		text-align: center;
+		padding: 45px 0 0 0;
+	}
+	.user-name{
+		text-align: center;
+		color: #045393;
+		font-size: 17px;
+		font-weight: 600;
+		padding: 10px 0;
+	}
+	.user-name span{
+		color: #000;
+	}
+	
+	.key-logo{
+		text-align: center;
+	}
+	.content-body{
+		margin: 0 10%;
+	}
+	.content-body p{
+		font-size: 13px;
+		color: #000;
+		line-height: 22px;
+		margin: 0 0 20px 0;
+	}
+	.content-body p span{
+		color: #045393;
+	}
+	
+	.reset-btn{
+		text-align: center;
+	}
+	.reset-btn a.reset-password-btn,
+	.reset-btn a.reset-password-btn:hover,
+	.reset-btn a.reset-password-btn:focus{
+    background-color: #fd5c63;
+    width: 180px;
+    margin: 17px auto;
+    text-align: center;
+    display: block;
+    padding: 12px 22px;
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+	.spe-span{
+		display: block;
+	}
+	.footer-wrapper{
+		width: 100%;
+	}
+	.footer-wrapper tr td{
+		text-align: center;
+		color: #fff;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 13px;
+		padding: 25px 0;
+	}
+</style>
+</head>
+
+<body>
+
+<table width="100%" align="center">
+	<tbody>
+		<tr>
+		  <td>
+		  	<table style="width: 600px; margin: 5% auto;background: #000;" align="center">
+		  		<tbody>
+		  			<tr>
+		  				<td style="color: #fff;">
+		  					<!-- Top Part -->
+		  						<table class="brt-table">
+		  							<tbody>
+		  								<tr>
+		  									<td>
+		  										<div class="logo-wrapper">
+		  											<a href="{web_url}"><img src="{logo}" alt="logo"></a>
+		  										</div>
+		  									</td>
+		  								</tr>
+		  								<tr>
+		  									<td class="user-name" style="color: #f9b92d; font-family:Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana,' sans-serif'">
+		  										Hi <span style="color: #fff;">{name}</span>
+		  										<div style="width: 160px;margin: 3px auto 15px auto;	height: 1px; background-color: #f9b92d;"></div>
+		  									</td>
+		  								</tr>
+		  								<tr>
+		  									<td>
+		  										<div class="content-body" style="font-family:Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana,' sans-serif'">
+		  											<p style="color:#f9b92d;font-family:Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana,' sans-serif';">
+														  Thank you for your support. We're here to help! 
+														  <br>
+														  <span style="color: #f9b92d">Here is your booking details- </span>
+														  <br>
+														  <strong>Transaction Id: </strong><span style="color: #fff">{transaction_id}</span>
+														  <br>
+														  <strong>Meeting Id: </strong><span style="color: #fff">{meeting_id}</span>
+														  <br> 
+														  <strong>Session Name: </strong><span style="color: #fff">{session_name}</span>
+														  <br> 
+														  <strong>Session Date: </strong><span style="color: #fff">{session_date}</span>
+														  <br> 
+														  <strong>Session Time: </strong><span style="color: #fff">{session_time}</span>
+		  											</p>
+		  											
+		  											<!-- <table width="100%">
+		  											
+		  											<tr>
+		  												<td style="width:10%"></td>
+		  												<td style="width:80%">
+		  													<div style="background-color: #79C3DF; width: 180px; margin: 17px auto; text-align: center;  display: block; padding: 12px 22px; color: #fff; font-size:14px; text-decoration: none;font-family:Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana,' sans-serif'">
+		  														<a href="{link}" style="text-align: center; text-decoration: none; color: #fff;">Activate</a>
+		  													</div>
+		  												</td>
+		  												<td style="width:10%"></td>
+		  											</tr>	
+		  											</table> -->
+		  											
+		  											<!--<p style="font-family:Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana,' sans-serif';">
+		  												If you didn't ask to change your password, don't worry! Your password is still safe and you can delete this email. 
+		  											</p>-->		  											 
+												   
+		  										</div>
+		  									</td>
+		  								</tr>
+		  							</tbody>
+		  						</table>
+		  					<!-- Top Part end -->
+		  					
+		  					<!-- Bottom Part -->
+		  						<table class="footer-wrapper" style="font-family:Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana,' sans-serif'">
+		  							<tr>
+		  								<td style="color: #f9b92d;">
+		  									&copy; Schrool {current_year} Designed by fitser.
+		  								</td>
+		  							</tr>
+		  						</table>
+		  					<!-- Bottom Part End -->
+		  				</td>
+		  			</tr>
+		  		</tbody>
+		  	</table>
+		  </td>
+		</tr>
+	</tbody>
+	
+</table>
+</body>
+</html>

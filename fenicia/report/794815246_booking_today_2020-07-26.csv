@@ -1,0 +1,20 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+837,Walk-in,"RESHMI GHOSH",,'919432431536',"Sunday 26 Jul 2020","07:00 PM",PM-4,1000,2,Confirmed,
+836,Walk-in,"NIDHI MURARKA",,'919007007501',"Sunday 26 Jul 2020","07:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+835,Walk-in,"HASAN  ALI ",,'919051378498',"Sunday 26 Jul 2020","06:00 PM",Dome3,7000,3,Confirmed,
+834,Phone,"GAURAV BHUTORIA",,'919748077787',"Sunday 26 Jul 2020","06:00 PM",Dome3,10000,4,Cancelled,FEF:SANJAY
+833,Walk-in,"NILESH  MASKARA ",,'919051066333',"Sunday 26 Jul 2020","05:30 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+832,Phone,"NEHA  AGARWAL",,'919830005915',"Sunday 26 Jul 2020","08:30 PM",MH-1,1000,2,NO-show,
+831,Walk-in,"SAMARJIT ",,'919123021759',"Sunday 26 Jul 2020","03:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+830,Walk-in,"ALSAD HOSSAIN",,'918777768636',"Sunday 26 Jul 2020","05:00 PM","Bed Lounge2",2500,2,Confirmed,
+829,Phone,"ANUS SIDDIQUE",,'919038892855',"Sunday 26 Jul 2020","05:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+828,Phone,"FIZA ALAM",,'919674625923',"Sunday 26 Jul 2020","05:00 PM","Glint | Luxury Lounge",1000,4,Cancelled,"DOUBLE ENTRY "
+827,Phone,"FIZA ALAM",,'919674625923',"Sunday 26 Jul 2020","05:00 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+826,Phone,"PRAKASH SINGHI",,'919830521664',"Sunday 26 Jul 2020","08:30 PM",Dome1,10000,4,Confirmed,
+825,Phone,"SARFARAZ ALAM",,'919836696156',"Sunday 26 Jul 2020","07:00 PM",PM-1,0,2,Confirmed,
+824,Walk-in,"SAMARJIT ",,'919123021759',"Sunday 26 Jul 2020","02:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+823,Phone,"YASH BHAYANI",,'919831496609',"Sunday 26 Jul 2020","03:00 PM","Bed Lounge3",2500,2,Confirmed,
+822,Phone,"NAVEEN JAIWAL",,'919830162846',"Sunday 26 Jul 2020","07:30 PM",PM-2,1000,2,NO-show,
+821,Phone,"NEHA AGARWAL",,'919051192998',"Sunday 26 Jul 2020","04:00 PM","Bed Lounge3",2500,4,NO-show,
+814,Phone,"sonal  AGARWAL",,'919874253502',"Sunday 26 Jul 2020","07:00 PM","VIP Dome",20000,10,Confirmed,
+662,Phone,"DIYA BHADURI",,'919836677130',"Sunday 26 Jul 2020","04:30 PM",Dome3,7000,3,NO-show,

@@ -1,0 +1,7 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+686,Walk-in,"ANIK KHAN",,'916290909211',"Tuesday 30 Jun 2020","06:00 PM","Cabana 1",4000,4,Confirmed,
+684,Phone,"SHASHWATT GOENKA",,'918017275480',"Tuesday 30 Jun 2020","02:00 PM","Bed Lounge3",2500,2,Confirmed,
+683,Phone,"HARSH DROLIA",,'919836222223',"Tuesday 30 Jun 2020","07:30 PM",Dome1,7000,2,Confirmed,
+678,Phone,"JENIL THANKY",,'919830063250',"Tuesday 30 Jun 2020","04:00 PM","Lords | Member's room",0,2,NO-show,
+677,Phone,"RISHIKA  PODDAR",,'919903888535',"Tuesday 30 Jun 2020","06:30 PM",Dome3,7000,2,NO-show,
+667,Phone,"MD AZHAR",,'917003390188',"Tuesday 30 Jun 2020","04:00 PM",Dome1,10000,4,Confirmed,

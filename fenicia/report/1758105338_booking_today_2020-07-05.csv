@@ -1,0 +1,15 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+727,Walk-in,"MAYANK  AGARWAL",,'918420980304',"Sunday 05 Jul 2020","07:30 PM","Cabana 4",6000,6,Confirmed,
+726,Walk-in,"ASIF  KHAN",,'918697014851',"Sunday 05 Jul 2020","05:30 PM",Dome2,12000,7,Confirmed,
+725,Walk-in,"SWAPNAIA MONDAL",,'919830954780',"Sunday 05 Jul 2020","06:30 PM","Cabana 2",5000,5,Confirmed,
+724,Phone,"KAINAT SHABAZ",,'919123097872',"Sunday 05 Jul 2020","07:00 PM","Bed Lounge2",2500,4,Confirmed,
+723,Phone,"HEMANT  GOENKA",,'919836065550',"Sunday 05 Jul 2020","05:00 PM","Lords | Member's room",0,2,Confirmed,
+722,Phone,"ANKIT AGARWAL",,'919804839665',"Sunday 05 Jul 2020","04:30 PM","Bed Lounge3",2500,2,Confirmed,
+721,Phone,"ALIFIA ZAMAN",,'916291705508',"Sunday 05 Jul 2020","07:00 PM",PM-1,0,4,Confirmed,
+719,Phone,"DEEP COOMER",,'917980509599',"Sunday 05 Jul 2020","07:00 PM",Dome2,7000,2,Confirmed,
+718,Phone,"ABHISHEK  GHARA",,'919836196498',"Sunday 05 Jul 2020","05:00 PM","Bed Lounge2",2500,2,Confirmed,
+717,Walk-in,"RASHMI SINGH",,'919830058887',"Sunday 05 Jul 2020","12:00 PM","Bed Lounge2",2500,2,Confirmed,
+716,Phone,"VIJYAINT  SHAH",,'919163213162',"Sunday 05 Jul 2020","08:00 PM",Dome3,7000,2,Cancelled,"DECIDED NOT TO COME "
+714,Phone,"altamash ilias",,'919674882740',"Sunday 05 Jul 2020","05:00 PM",PM-2,1000,2,NO-show,
+688,Phone,"vikash  mohta ",,'919007221191',"Sunday 05 Jul 2020","06:00 PM",Dome3,7000,2,Cancelled,"they changed their mind"
+658,Walk-in,"AMIT SHAH",,'919883999995',"Sunday 05 Jul 2020","06:00 PM",Dome3,10000,4,NO-show,

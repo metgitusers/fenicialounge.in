@@ -1,0 +1,10 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+901,Walk-in,"ADITYA VASUDEV",,'919101348016',"Monday 03 Aug 2020","09:00 PM",PM-2,1000,2,Confirmed,
+900,Walk-in,"DANISH SEIKH",,'919674281324',"Monday 03 Aug 2020","08:00 PM",Dome1,7000,2,Confirmed,
+899,Phone,"ARMAAN MALLICK",,'919748309899',"Monday 03 Aug 2020","07:00 PM",DN-1,1000,4,Confirmed,
+898,Walk-in,"SAHIL AHMED  MOLLA",,'919874541776',"Monday 03 Aug 2020","06:00 PM",DN-2,1,4,Confirmed,
+896,Phone,"ANZAR KALAM",,'919163763081',"Monday 03 Aug 2020","05:30 PM","Bed Lounge3",2500,2,Confirmed,
+895,Walk-in,"MANOWAR  ",,'919007710555',"Monday 03 Aug 2020","04:15 PM",Dome3,10000,5,Confirmed,
+894,Walk-in,"INSHA NAUSHAD",,'918585811504',"Monday 03 Aug 2020","02:45 PM","Lords | Member's room",0,4,Confirmed,
+893,Walk-in,"priya sawarn",,'918584874282',"Monday 03 Aug 2020","02:15 PM","Cabana 4",6000,6,Confirmed,
+876,Phone,"MD RAZA",,'91931312367',"Monday 03 Aug 2020","04:30 PM",Dome1,10000,4,Confirmed,

@@ -1,0 +1,12 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+976,Walk-in,"Rohit  Sultania",,'919903205355',"Tuesday 11 Aug 2020","09:00 PM","Lords | Member's room",0,3,Confirmed,
+975,Walk-in,"ZAHID LASKAR",,'919830270457',"Tuesday 11 Aug 2020","08:45 PM",PM-2,1000,2,Confirmed,
+974,Walk-in,"ANIL ",,'919831778880',"Tuesday 11 Aug 2020","08:00 PM",PM-1,0,2,Confirmed,
+973,Phone,"MANISH KR MAHAJAN",,'919331026339',"Tuesday 11 Aug 2020","08:00 PM",DN-1,1000,4,Cancelled,"THEY WILL NOT COME TODAY "
+972,Walk-in,"NEHA  KEJRIWAL",,'919007597457',"Tuesday 11 Aug 2020","04:45 PM",Dome2,7000,3,Confirmed,
+971,Walk-in,"ashwariya ",,'918017832196',"Tuesday 11 Aug 2020","04:45 PM","Bed Lounge3",2500,2,Confirmed,
+970,Walk-in,"ARUMITA  GHOSH",,'919804808021',"Tuesday 11 Aug 2020","04:15 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+968,Walk-in,"SHABUDDIN MALLIK",,'919830600716',"Tuesday 11 Aug 2020","03:45 PM",Dome2,12000,8,Confirmed,
+967,Walk-in,"DR.J MUKHERJEE",,'919769058910',"Tuesday 11 Aug 2020","03:15 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+966,Phone,"SK SAHIL",,'919674510902',"Tuesday 11 Aug 2020","06:00 PM",PM-1,0,2,Confirmed,
+947,Phone,"SK. WASIM UDDIN",,'918777493147',"Tuesday 11 Aug 2020","02:00 PM",Dome3,10000,5,Confirmed,

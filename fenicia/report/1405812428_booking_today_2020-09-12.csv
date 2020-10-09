@@ -1,0 +1,22 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1473,Walk-in,"IMRAN HUSSAIN",,'919875663027',"Saturday 12 Sep 2020","10:00 PM",Dome1,7000,3,Confirmed,
+1469,Walk-in,"ABHISHEK JAISWAL",,'919038213499',"Saturday 12 Sep 2020","08:15 PM","Bed Lounge2",2500,2,Confirmed,
+1468,Walk-in,"ADITI RAJGARIA",,'919123020769',"Saturday 12 Sep 2020","08:15 PM","Bed Lounge2",2500,2,Confirmed,
+1467,Walk-in,"ZOYA KHAN",,'918420213249',"Saturday 12 Sep 2020","07:30 PM",DN-2,1,4,Confirmed,
+1466,Walk-in,"ARUP DUTTA",,'919883651202',"Saturday 12 Sep 2020","07:00 PM",PM-1,0,2,Confirmed,
+1464,Phone,"MRIDUL SHAH",,'917003661411',"Saturday 12 Sep 2020","07:30 PM","Glint | Luxury Lounge",1000,2,Cancelled,"CHANGE IN MIND "
+1463,Phone,"ARPITA BASAK",,'917003836147',"Saturday 12 Sep 2020","08:15 PM",LV-1,1000,2,Confirmed,
+1460,Phone,"ANKIT KOTHARI",,'918100411522',"Saturday 12 Sep 2020","09:00 PM","Glint | Luxury Lounge",1000,3,Cancelled,"NO SHOW "
+1458,Phone,"NISHANT SINGH ",,'919883332537',"Saturday 12 Sep 2020","05:15 PM",PM-2,1000,3,Confirmed,
+1456,Walk-in,"R GUPTA",,'919748080440',"Saturday 12 Sep 2020","04:00 PM",G-1,1000,3,Confirmed,
+1455,Walk-in,"SHIRAN ALAM",,'919051788121',"Saturday 12 Sep 2020","04:00 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+1454,Walk-in,"KADER  ABDUL",,'917059678801',"Saturday 12 Sep 2020","01:45 PM",Dome3,7000,2,Confirmed,
+1453,Walk-in,"DIVYA JAIN",,'919051084200',"Saturday 12 Sep 2020","01:15 PM","Cabana 2",6000,6,Confirmed,
+1452,Walk-in,"JAGDISH BHATT",,'919836711007',"Saturday 12 Sep 2020","01:00 PM",Dome3,10000,4,Confirmed,
+1451,Phone,"SAURAV CHATTERJEE",,'919891333333',"Saturday 12 Sep 2020","07:00 PM",Dome2,7000,2,Confirmed,
+1449,Phone,"ISHRAT KAUR",,'919748412613',"Saturday 12 Sep 2020","03:30 PM",Dome1,7000,2,Confirmed,
+1448,Phone,"AATIF SHADAB",,'918981114101',"Saturday 12 Sep 2020","05:00 PM",Dome1,10000,5,Confirmed,
+1447,Phone,"Rohit  Sultania",,'919903205355',"Saturday 12 Sep 2020","08:30 PM","Cabana 1",5000,5,Confirmed,
+1445,Phone,"RIDHI KEDIA",,'919903616032',"Saturday 12 Sep 2020","04:30 PM",Dome3,10000,4,Confirmed,
+1443,Phone,"SYED RIZWAN AHMED",,'918088766846',"Saturday 12 Sep 2020","08:30 PM",DN-1,1000,4,Cancelled,"CANT MAKE IT TODAY"
+1442,Phone,"SWETA SAHA",,'919836431154',"Saturday 12 Sep 2020","08:30 PM",Dome3,7000,2,Confirmed,

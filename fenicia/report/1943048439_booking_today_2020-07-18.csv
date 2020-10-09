@@ -1,0 +1,8 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+793,Walk-in,"PRACHETA BISWAS",,'918017055757',"Saturday 18 Jul 2020","07:30 PM","Bed Lounge3",2500,2,Confirmed,
+792,Walk-in,"ALKA gupta",,'918961339988',"Saturday 18 Jul 2020","05:30 AM","Bed Lounge2",2500,4,Confirmed,
+791,Walk-in,"AVIK MUKHERJEE",,'919163305986',"Saturday 18 Jul 2020","06:00 PM","Prego | Modern Fusion Dining Experience",1000,1,Confirmed,
+790,Walk-in,"A SARKAR",,'919339463438',"Saturday 18 Jul 2020","06:00 PM","Cabana 1",5000,2,Confirmed,
+788,Phone,"SWARNALI SEN",,'918420215566',"Saturday 18 Jul 2020","03:00 PM","Cabana 1",6000,6,Cancelled,CANCELLED
+787,Phone,"moumita CHOWDHURY",,'918337061072',"Saturday 18 Jul 2020","07:30 PM",Dome3,7000,2,Confirmed,
+783,Phone,"SHAHZEB ALAM",,'919330168593',"Saturday 18 Jul 2020","04:00 PM",LV-1,1000,4,Confirmed,

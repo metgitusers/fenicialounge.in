@@ -1,0 +1,5 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+622,Walk-in,"Ritika ",,'919748267530',"Thursday 18 Jun 2020","04:30 PM",Dome1,7000,2,Confirmed,
+621,Phone,"fawad halim",,'919830737777',"Thursday 18 Jun 2020","07:30 PM","Cabana 2",5000,5,Confirmed,
+619,Phone,"SRIJIT KUMAR",,'919830077577',"Thursday 18 Jun 2020","07:00 PM",Dome1,7000,2,Confirmed,
+618,Phone,"vinay Agarwal",,'919831348626',"Thursday 18 Jun 2020","01:30 PM",Dome1,7000,2,Confirmed,

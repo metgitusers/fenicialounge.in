@@ -1,0 +1,13 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1260,Phone,"ROHIT MOLLA",,'919123970814',"Tuesday 01 Sep 2020","06:00 PM","Lords | Member's room",0,2,Cancelled,"CANCELLED "
+1259,Walk-in,"fariduin KHAN",,'917980764142',"Tuesday 01 Sep 2020","03:45 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1258,Walk-in,"arif KHAN",,'918910837217',"Tuesday 01 Sep 2020","03:00 PM",Dome3,7000,2,Cancelled,"double entry"
+1257,Walk-in,"arif KHAN",,'918910837217',"Tuesday 01 Sep 2020","03:00 PM",Dome3,7000,2,Cancelled,"double entry"
+1256,Walk-in,"arif KHAN",,'918910837217',"Tuesday 01 Sep 2020","03:00 PM",Dome3,7000,2,Confirmed,
+1255,Phone,"RITESH  GOEL",,'91',"Tuesday 01 Sep 2020","06:15 PM","VIP Dome",20000,10,Confirmed,
+1252,Phone,"SOLONI SUREKA",,'919903846144',"Tuesday 01 Sep 2020","07:30 PM",Dome1,7000,2,Confirmed,
+1251,Phone,"meghna SAHU",,'91842059582',"Tuesday 01 Sep 2020","07:30 PM",Dome3,10000,5,Confirmed,
+1250,Phone,"md tauseef",,'918697087959',"Tuesday 01 Sep 2020","05:00 PM","Lords | Member's room",0,3,NO-show,
+1249,Phone,"MOHSIN ",,'919831087099',"Tuesday 01 Sep 2020","02:30 PM","Lords | Member's room",0,3,Confirmed,
+1215,Phone,"roshan JAIN",,'917044638646',"Tuesday 01 Sep 2020","07:00 PM","Celebrity Cabana",15000,12,Confirmed,
+1208,Phone,"SHAHZEB ASLAM",,'918777804838',"Tuesday 01 Sep 2020","04:30 PM",Dome1,10000,5,Confirmed,

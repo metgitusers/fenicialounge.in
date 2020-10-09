@@ -1,0 +1,8 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+599,Phone,"DEEPAK NENWANI",,'919967098432',"Saturday 21 Mar 2020","08:00 PM",PM-2,1000,2,Confirmed,
+598,Phone,"ARSH MALHOTRA",,'919853155555',"Saturday 21 Mar 2020","04:00 PM","Glint | Luxury Lounge",1000,3,Cancelled,"GOT RESERVED TWICE "
+597,Phone,"ARSH MALHOTRA",,'919853155555',"Saturday 21 Mar 2020","04:00 PM",DN-2,1,3,Confirmed,
+596,Phone,"SYED ALI",,'917003455355',"Saturday 21 Mar 2020","04:30 PM",PM-2,1000,2,Confirmed,
+595,Walk-in,"BANSAL ",,'919073140430',"Saturday 21 Mar 2020","02:30 PM","Bed Lounge2",2500,2,Confirmed,
+591,Walk-in,"A SHARMA",,'919830215211',"Saturday 21 Mar 2020","07:30 PM",PM-4,1000,2,Confirmed,
+588,Phone,"AZHAR FIROZ",,'919831901403',"Saturday 21 Mar 2020","11:30 PM",Dome1,7000,2,Confirmed,

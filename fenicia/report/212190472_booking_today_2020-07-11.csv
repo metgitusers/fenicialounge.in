@@ -1,0 +1,5 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+756,Walk-in,"MD Rehan",,'917003452837',"Saturday 11 Jul 2020","07:00 AM","Lords | Member's room",0,2,Confirmed,
+755,Walk-in,"MEGHNA KATODIA",,'919096176762',"Saturday 11 Jul 2020","01:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+754,Phone,"DIKSHITA PAREKH",,'919051572510',"Saturday 11 Jul 2020","08:00 PM",Dome3,10000,5,Confirmed,
+751,Phone,"AKASH CHANDGOTIA",,'917977063219',"Saturday 11 Jul 2020","05:00 PM",Dome3,7000,2,Confirmed,

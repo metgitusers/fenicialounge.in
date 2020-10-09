@@ -1,0 +1,20 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1320,Walk-in,"SHYAM BAJAJ",,'919830141127',"Friday 04 Sep 2020","08:15 PM",G-1,1000,2,Confirmed,
+1319,Walk-in,"VIKASH ",,'919903509848',"Friday 04 Sep 2020","08:00 PM",MH-2,1000,4,Confirmed,
+1318,Walk-in,"ANISHA BURMA",,'919007530450',"Friday 04 Sep 2020","08:00 PM",PM-2,1000,3,Confirmed,
+1317,Walk-in,"SAHIL ALI",,'918420419717',"Friday 04 Sep 2020","07:45 PM","Bed Lounge2",2500,6,Cancelled,"DOUBLE ENTRY "
+1316,Walk-in,"SAHIL ALI",,'918420419717',"Friday 04 Sep 2020","07:45 PM","Bed Lounge2",2500,6,Confirmed,
+1315,Walk-in,"SHAILASH ",,'918961463753',"Friday 04 Sep 2020","06:45 PM","Bed Lounge2",2500,2,Confirmed,
+1314,Walk-in,"VINAY ",,'919432185789',"Friday 04 Sep 2020","06:30 PM",PM-1,0,2,Confirmed,
+1313,Walk-in,"Gautam Gautam",,'919769058910',"Friday 04 Sep 2020","01:00 PM",PM-4,1000,2,Cancelled,"Test reservation by Sharad"
+1312,Walk-in,"EKTA  AGARWAL",,'917003441405',"Friday 04 Sep 2020","05:30 PM","Bed Lounge3",2500,2,Confirmed,
+1308,Walk-in,"SOHINI KAUR",,'919681347418',"Friday 04 Sep 2020","04:00 PM",PM-1,0,2,Confirmed,
+1304,Phone,"micael ondoa ",,'919073647612',"Friday 04 Sep 2020","09:00 PM","Bed Lounge2",2500,5,Confirmed,
+1303,Phone,"SANGITA MAJUNDAR",,'919674912916',"Friday 04 Sep 2020","05:30 PM",Dome3,7000,2,Cancelled,"change in plan "
+1302,Phone,"VIKRAM GHOSH",,'919073733333',"Friday 04 Sep 2020","06:00 PM",DN-1,1000,4,NO-show,
+1301,Phone,"P KHEMKA",,'917008401559',"Friday 04 Sep 2020","04:30 PM","Bed Lounge2",2500,2,Confirmed,
+1298,Phone,"PRIYASHA AGARWAL",,'919163460634',"Friday 04 Sep 2020","04:00 PM","Bed Lounge3",2500,2,Confirmed,
+1297,Phone,"RAJEEV GOENKA",,'919831622822',"Friday 04 Sep 2020","09:00 PM",Dome3,12000,8,Confirmed,
+1282,Phone,"AYAN CHATTERJEE",,'918017455713',"Friday 04 Sep 2020","08:00 PM",Dome1,10000,5,Confirmed,
+1279,Phone,"SYED HUSSAIN",,'919831129132',"Friday 04 Sep 2020","07:30 PM",Dome1,7000,3,Cancelled,"DUE TO HEALTH ISSUE "
+1276,Phone,"TANISI ",,'919830709982',"Friday 04 Sep 2020","05:00 PM","VIP Dome",20000,10,Confirmed,

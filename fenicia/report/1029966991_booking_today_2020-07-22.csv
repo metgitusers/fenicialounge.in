@@ -1,0 +1,4 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+811,Phone,"harsh JAISWAL",,'91',"Wednesday 22 Jul 2020","09:00 PM",Dome1,7000,3,Confirmed,
+810,Walk-in,"amardeep das",,'9187709332299',"Wednesday 22 Jul 2020","07:30 AM","Bed Lounge2",2500,3,Confirmed,
+748,Phone,"SUKHANWAR ALI",,'919748981155',"Wednesday 22 Jul 2020","05:00 PM",Dome3,7000,3,Confirmed,

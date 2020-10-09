@@ -1,0 +1,9 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+807,Walk-in,"A SARKAR",,'919339463438',"Monday 20 Jul 2020","06:30 PM",PM-1,0,2,Confirmed,
+806,Walk-in,"HEMANT BORAR",,'919830319940',"Monday 20 Jul 2020","06:00 PM","Bed Lounge2",2500,4,Confirmed,
+805,Phone,"SHUBHAM SHARMA",,'919804817853',"Monday 20 Jul 2020","06:00 PM",DN-1,1000,5,Confirmed,
+804,Phone,"SRIJIT KUMAR SUR",,'918585087636',"Monday 20 Jul 2020","04:30 PM",Dome3,7000,3,Confirmed,
+803,Phone,"MR AMAN",,'919831023520',"Monday 20 Jul 2020","04:30 PM",P-6,1000,3,Confirmed,
+802,Phone,"MADHUSHREE BANERJEE",,'917980896104',"Monday 20 Jul 2020","04:30 PM","Cabana 4",7000,7,Confirmed,
+801,Phone,"SIMRAN KAUR",harsimran.kaur2408@gmail.com,'919606262060',"Monday 20 Jul 2020","05:00 AM",Dome1,7000,3,Confirmed,
+778,Phone,"AVIK MUKHERJEE",,'919163305986',"Monday 20 Jul 2020","04:30 PM","Lords | Member's room",0,2,Confirmed,

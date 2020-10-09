@@ -1,0 +1,16 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+892,Walk-in,"SAURAV IRANI",,'919903838460',"Sunday 02 Aug 2020","09:00 PM",Dome1,7000,3,Confirmed,
+891,Walk-in,"Rohit  Sultania",,'919903205355',"Sunday 02 Aug 2020","08:30 PM","Lords | Member's room",0,1,Confirmed,
+890,Phone,"NAYAB HUSSAIN",,'918981222786',"Sunday 02 Aug 2020","08:30 PM",Dome1,7000,2,Confirmed,
+889,Walk-in,"RAMESH AGARWAL",,'919830090410',"Sunday 02 Aug 2020","07:30 PM",PM-3,1000,2,Confirmed,
+888,Walk-in,"SURYA BHATTACHARYA",,'918981660511',"Sunday 02 Aug 2020","07:00 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+887,Phone,"SARFARAZ ALAM",,'919836696156',"Sunday 02 Aug 2020","07:15 PM","Cabana 2",8000,8,Confirmed,
+886,Walk-in,"FATIMA MARFIA",,'919903514452',"Sunday 02 Aug 2020","06:30 PM",DN-1,1000,8,Confirmed,
+885,Walk-in,"FEROZ SEIKH",,'919051517176',"Sunday 02 Aug 2020","06:15 PM",PM-2,1000,2,Confirmed,
+884,Phone,"POOJA SAHA",,'918017608487',"Sunday 02 Aug 2020","07:00 PM","Cabana 4",5000,5,Cancelled,"CHANGE IN PLAN"
+883,Walk-in,"JAVED ALAM",,'918334867671',"Sunday 02 Aug 2020","04:45 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+882,Walk-in,"SHRIJ DAS GUPTA",,'919903081670',"Sunday 02 Aug 2020","03:30 PM","Bed Lounge3",2500,2,Confirmed,
+881,Phone,"SOURAV IRANE",,'919392385367',"Sunday 02 Aug 2020","08:00 PM",Dome1,7000,3,NO-show,
+880,Phone,"KRITIKA ROY CHOUDHURY",,'919830278360',"Sunday 02 Aug 2020","08:30 PM",PM-3,1000,2,Confirmed,
+879,Phone,"GAURAV BHUTORIA",,'919748077787',"Sunday 02 Aug 2020","05:00 PM",Dome3,10000,4,Confirmed,
+878,Phone,"AMEESHA PATEL",,'918240716532',"Sunday 02 Aug 2020","01:45 PM","Bed Lounge3",2500,2,Confirmed,

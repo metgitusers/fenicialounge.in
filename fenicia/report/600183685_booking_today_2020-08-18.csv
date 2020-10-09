@@ -1,0 +1,7 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1080,Phone,"ROHIT MOLLA",,'919123970814',"Tuesday 18 Aug 2020","06:00 PM",Dome2,10000,4,NO-show,
+1079,Phone,"Rohit  Sultania",,'919903205355',"Tuesday 18 Aug 2020","07:30 PM","Lords | Member's room",0,4,Cancelled,"DUE TO RAIN"
+1078,Phone,"SK SAHIL",,'919674510902',"Tuesday 18 Aug 2020","05:00 PM",Dome1,7000,3,Cancelled,"DUE TO RAIN"
+1077,Walk-in,"AKASH JAIN",,'919002121215',"Tuesday 18 Aug 2020","01:45 PM",Dome1,7000,2,Confirmed,
+1076,Phone,"PRACHI SARAOGI",,'919830601350',"Tuesday 18 Aug 2020","08:30 PM",DN-1,1000,4,Confirmed,
+1072,Phone,"ALEX ",,'919831581026',"Tuesday 18 Aug 2020","04:00 PM",Dome3,12000,7,Confirmed,

@@ -1,0 +1,14 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1213,Walk-in,"MANISH SUREKHA ",,'919830244747',"Saturday 29 Aug 2020","07:15 PM","Bed Lounge3",2500,3,Confirmed,
+1212,Walk-in,"RUPAM DAS",,'919831144758',"Saturday 29 Aug 2020","07:15 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+1211,Phone,"REHAN KHAN",,'919748009020',"Saturday 29 Aug 2020","08:30 PM",PM-2,1000,2,Cancelled,CANCELLED
+1210,Walk-in,"MIHIR MEHTA",,'919831030266',"Saturday 29 Aug 2020","06:45 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1209,Walk-in,"KOUSHIKI GUHATHAKURTA",,'917059042428',"Saturday 29 Aug 2020","06:30 PM",MH-1,1000,2,Confirmed,
+1207,Walk-in,"HEMA LAKHARI",,'919681391789',"Saturday 29 Aug 2020","05:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1206,Walk-in,"VIDHI DHANUKA",,'919674380521',"Saturday 29 Aug 2020","05:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1205,Walk-in,"PRIYA  CHOWDHURY",,'917980002083',"Saturday 29 Aug 2020","05:30 PM",PM-2,1000,2,Confirmed,
+1204,Walk-in,"Mr.Arijit ",,'919599679100',"Saturday 29 Aug 2020","05:30 AM","Glint | Luxury Lounge",1000,2,Confirmed,
+1202,Walk-in,"ARUSHI RATHORE",,'919873081475',"Saturday 29 Aug 2020","01:15 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1201,Phone,"TARUN TIWARI",,'918910614100',"Saturday 29 Aug 2020","04:00 PM","Glint | Luxury Lounge",1000,2,Cancelled,"due to emergency"
+1189,Phone,"ANKIT AGARWAL",,'919433025656',"Saturday 29 Aug 2020","08:00 PM","Celebrity Cabana",15000,10,Confirmed,
+1164,Phone,"rajasi saha",,'919051615025',"Saturday 29 Aug 2020","01:30 PM","Cabana 2",5000,5,NO-show,

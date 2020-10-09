@@ -1,0 +1,55 @@
+
+/********************@media only screen and (min-width:200px) and (max-width:767px)********************/
+@media only screen and (min-width:200px) and (max-width:767px) {
+.box-body {
+	overflow: scroll;
+}
+.login-form {
+  margin: 25% auto ;
+  width: 95%;
+}
+	
+}
+
+@media only screen and (min-width:200px) and (max-width:767px) and (orientation:landscape) {
+}
+
+/********************@media only screen and (min-width:200px) and (max-width:767px)********************/
+
+
+
+/********************@media only screen and (min-width:768px) and (max-width:991px)********************/
+@media only screen and (min-width:768px) and (max-width:1024px) {
+.box-body {
+	overflow: scroll;
+}
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:portrait) {
+}
+
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:landscape) {
+}
+
+/********************@media only screen and (min-width:768px) and (max-width:991px)********************/
+
+
+
+/********************@media only screen and (min-width:992px) and (max-width:1023px)********************/
+@media only screen and (min-width:992px) and (max-width:1023px) {
+}
+
+/********************@media only screen and (min-width:992px) and (max-width:1023px)********************/
+
+
+/********************@media only screen and (min-width:1024px) and (max-width:1200px)********************/
+@media only screen and (min-width:1024px) and (max-width:1200px) {
+}
+
+/********************@media only screen and (min-width:1024px) and (max-width:1200px)********************/
+
+
+/********************@media only screen and (min-width:1201px)********************/
+@media only screen and (min-width:1201px) {
+}
+/********************@media only screen and (min-width:1201px)********************/

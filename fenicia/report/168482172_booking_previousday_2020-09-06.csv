@@ -1,0 +1,33 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1350,Walk-in,"SANYAL MANDAL",,'919831191265',"Saturday 05 Sep 2020","08:00 PM",MH-3,1000,2,Confirmed,
+1349,Phone,"ZEESHAN ",,'918017053124',"Saturday 05 Sep 2020","08:00 PM",PM-3,1000,2,Confirmed,
+1348,Phone,"SANDIP GOSHI",,'918910349307',"Saturday 05 Sep 2020","07:15 PM",PM-1,0,3,Confirmed,
+1347,Phone,"S SHAH",,'91',"Saturday 05 Sep 2020","08:00 PM","Cabana 3",8000,8,Confirmed,
+1345,Phone,"GAURAV JALAN",,'919831839498',"Saturday 05 Sep 2020","08:30 PM",MH-2,1000,2,Cancelled,CANCELLED
+1344,Phone,"SANA THAKUR",,'916290973916',"Saturday 05 Sep 2020","09:00 PM","Bed Lounge2",2500,9,Confirmed,
+1343,Walk-in,"YASH ",,'919831034560',"Saturday 05 Sep 2020","06:15 PM",PM-2,1000,2,Confirmed,
+1342,Walk-in,"S ROY",,'918334983639',"Saturday 05 Sep 2020","06:15 PM",PM-3,1000,2,Confirmed,
+1341,Phone,"AMRITA BORAR",,'919830381680',"Saturday 05 Sep 2020","05:45 PM","Celebrity Cabana",15000,10,Confirmed,
+1340,Walk-in,"HOHIT AGARWAL",,'919007347449',"Saturday 05 Sep 2020","05:45 PM",PM-1,0,2,Confirmed,
+1339,Phone,"AMIT KHANDELWAL",,'91',"Saturday 05 Sep 2020","06:00 PM",DN-2,1,4,Confirmed,
+1338,Walk-in,"K KHANDAR",,'919830881182',"Saturday 05 Sep 2020","05:00 PM","Bed Lounge2",2500,4,Cancelled,"PRICE ARE SO HIGH"
+1337,Walk-in,"K KHANDAR",,'919830881182',"Saturday 05 Sep 2020","05:00 PM","Bed Lounge2",2500,4,Confirmed,
+1336,Walk-in,"SUMIT DUTTA",,'919831902140',"Saturday 05 Sep 2020","05:45 PM",PM-4,1000,2,Confirmed,
+1335,Phone,"ZOYA ",,'919163020559',"Saturday 05 Sep 2020","05:30 PM",MH-1,1000,3,Confirmed,
+1333,Phone,"MARTINA SHAW",,'916290469095',"Saturday 05 Sep 2020","07:00 PM",PM-1,0,2,Confirmed,
+1332,Phone,"ABHISHEK  MUKHERJEE",,'919836411986',"Saturday 05 Sep 2020","06:00 PM","Cabana 1",5000,5,Confirmed,
+1331,Phone,"ANGELA RAHA",,'919330304407',"Saturday 05 Sep 2020","06:00 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+1330,Walk-in,"MD FAROUQUE",,'919163771493',"Saturday 05 Sep 2020","02:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1329,Phone,"RIYA SHARMA",,'919123612494',"Saturday 05 Sep 2020","05:00 PM",Dome1,10000,5,Confirmed,
+1327,Phone,"SAURAV CHATTERJEE",,'919891333333',"Saturday 05 Sep 2020","03:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1326,Phone,"SAURAV CHATTERJEE",,'919891333333',"Saturday 05 Sep 2020","03:30 PM","Cabana 3",5000,5,Cancelled,CANCELLED
+1325,Phone,"BARSANJIT DUTTA",,'918240540239',"Saturday 05 Sep 2020","05:00 PM",DN-2,1,5,Cancelled,"CHANGE IN PLAN"
+1324,Phone,"SAURAV CHATTERJEE",,'919891333333',"Saturday 05 Sep 2020","03:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1323,Phone,"PRAGETI KHERIA",,'919830909482',"Saturday 05 Sep 2020","08:00 PM","Cabana 2",5000,5,Confirmed,
+1322,Phone,"sanjoy GHOSH",,'919830042293',"Saturday 05 Sep 2020","08:30 PM",DN-2,1,8,Cancelled,"CANCELLED NOT ATTENDING CALL"
+1321,Phone,"NAVIN DIDWANIA",,'919831078375',"Saturday 05 Sep 2020","08:00 PM","Celebrity Cabana",15000,10,Cancelled,"CANCELLED "
+1299,Phone,"SANYAL MANDAL",,'919831191265',"Saturday 05 Sep 2020","08:00 PM",PM-1,0,2,Confirmed,
+1296,Phone,"ROHIT  MADHUR",,'91',"Saturday 05 Sep 2020","07:30 PM","VIP Dome",20000,20,Confirmed,
+1295,Phone,"MANOJ SISARIA",,'918860092321',"Saturday 05 Sep 2020","09:00 PM",Dome1,12000,6,Cancelled,"CANCELLED "
+1275,Phone,"NAMRITA  SAHA",,'919674086123',"Saturday 05 Sep 2020","04:30 PM",DN-1,1000,4,Confirmed,
+1254,Phone,"KAUSHAL RAJ GOEL",,'919836388350',"Saturday 05 Sep 2020","07:30 PM",Dome3,7000,2,Confirmed,

@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+584,Walk-in,"ASHISH MODI",,'919830210991',"Thursday 19 Mar 2020","09:00 PM",P-6,1000,4,Confirmed,
+583,Walk-in,"AKSHAY ANCHALIA",,'919830333440',"Thursday 19 Mar 2020","09:00 PM",Dome3,7000,3,Confirmed,
+581,Phone,"PRIYA  PAUL",,'917259143592',"Thursday 19 Mar 2020","07:30 PM",DN-1,1000,5,Confirmed,
+580,Phone,"SHRUTI MATHUR",,'919830322141',"Thursday 19 Mar 2020","04:30 PM",P-7,1000,2,Confirmed,
+579,Phone,"VARUN  AGARWAL",,'917980107350',"Thursday 19 Mar 2020","03:00 PM","Cabana 2",5000,5,Confirmed,

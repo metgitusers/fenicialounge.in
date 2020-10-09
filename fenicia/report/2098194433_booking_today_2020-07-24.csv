@@ -1,0 +1,8 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+820,Walk-in,"DANISH RAHMAN",,'919831367537',"Friday 24 Jul 2020","08:00 PM",Dome3,10000,5,Confirmed,
+819,Phone,"MD FAIZAN",,'919836867731',"Friday 24 Jul 2020","04:30 PM",PM-3,1000,2,Confirmed,
+818,Walk-in,"AFTAB HUSSAIN",,'919051153610',"Friday 24 Jul 2020","04:30 PM",Dome3,7000,2,Confirmed,
+817,Walk-in,"RAMSHA  ALI",,'916290341851',"Friday 24 Jul 2020","04:00 PM","Cabana 1",4000,4,Confirmed,
+816,Phone,"DAPINDER SATBIR",,'919871848706',"Friday 24 Jul 2020","07:00 PM",Dome3,12000,7,Confirmed,
+813,Phone,"amit chaudhuri",,'919830005806',"Friday 24 Jul 2020","02:00 PM",Dome3,7000,3,Confirmed,
+812,Phone,"imran jan",,'919051391178',"Friday 24 Jul 2020","04:30 PM",Dome1,7000,2,Cancelled,"GUEST FEELING NOT WELL"

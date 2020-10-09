@@ -1,0 +1,10 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1074,Phone,"PRACHI SAIGHAL",,'919830750599',"Monday 17 Aug 2020","05:45 PM",DN-2,1,3,Confirmed,
+1073,Phone,"PAUSHALI BHATTACHRYA",,'919748510201',"Monday 17 Aug 2020","06:45 PM",DN-1,1000,3,NO-show,
+1071,Phone,"IMRAN  ANSARI",,'919339719356',"Monday 17 Aug 2020","08:00 PM","Celebrity Cabana",15000,16,NO-show,
+1070,Walk-in,"S K ROHIT",,'916290583028',"Monday 17 Aug 2020","04:15 PM",Dome3,12000,7,Confirmed,
+1069,Phone,"SHADAB AHMED",,'918617287212',"Monday 17 Aug 2020","05:00 PM",Dome3,10000,4,Confirmed,
+1068,Phone,"vivek ",,'919681197750',"Monday 17 Aug 2020","05:00 PM","Lords | Member's room",0,4,Confirmed,
+1067,Walk-in,"IMRAN ALI",,'919007990786',"Monday 17 Aug 2020","03:45 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+1066,Phone,"AKASH ",,'919836944478',"Monday 17 Aug 2020","02:30 PM","Cabana 3",6000,6,Confirmed,
+1065,Phone,"SASHWAT GOENKA",,'918777395819',"Monday 17 Aug 2020","03:30 PM",Dome2,10000,5,Confirmed,

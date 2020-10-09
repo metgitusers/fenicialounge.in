@@ -1,0 +1,21 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1102,Walk-in,"ABHIJEET BESRA",,'918981715430',"Wednesday 19 Aug 2020","08:00 PM","Glint | Luxury Lounge",1000,1,Confirmed,
+1100,Walk-in,"AKASH AGARWAL",,'917762819200',"Wednesday 19 Aug 2020","06:30 PM","Bed Lounge3",2500,3,Confirmed,
+1098,Phone,"SHARAD AGARWAL",,'919748510001',"Wednesday 19 Aug 2020","07:00 PM",Dome1,7000,2,Confirmed,
+1097,Phone,"MD JAMSHED",,'919051500825',"Wednesday 19 Aug 2020","06:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1096,Walk-in,"SYAN ARIF",,'917044147550',"Wednesday 19 Aug 2020","06:30 PM","Glint | Luxury Lounge",1000,2,Cancelled,"WALK OFF "
+1095,Walk-in,"K MOLLA",,'916290617574',"Wednesday 19 Aug 2020","06:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1094,Walk-in,"rameez ",,'919674107775',"Wednesday 19 Aug 2020","06:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1093,Walk-in,"md raj KUMAR",,'919874439942',"Wednesday 19 Aug 2020","05:30 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+1092,Walk-in,"SK WASIM AZIZ ",,'918697109021',"Wednesday 19 Aug 2020","05:30 PM",PM-1,0,3,Confirmed,
+1091,Walk-in,"JOSIM RAJA",,'918910559266',"Wednesday 19 Aug 2020","05:30 PM",DN-1,1000,4,Confirmed,
+1090,Walk-in,"VICKY SONI",,'919051714250',"Wednesday 19 Aug 2020","05:00 PM",MH-2,1000,2,Confirmed,
+1089,Phone,"IMRAN MOLLA",,'917003291834',"Wednesday 19 Aug 2020","04:30 PM",Dome3,7000,3,Confirmed,
+1088,Phone,"FARHAN ",,'919123858162',"Wednesday 19 Aug 2020","04:30 PM","Glint | Luxury Lounge",1000,4,Cancelled,"UNDER AGE FOR HOOKAH"
+1087,Phone,"ABID MONDAL",,'919830025820',"Wednesday 19 Aug 2020","04:15 PM","Bed Lounge3",2500,4,Confirmed,
+1086,Walk-in,"INADUAL ",,'917003715824',"Wednesday 19 Aug 2020","04:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1085,Phone,"RONAK JAIN",,'919898858770',"Wednesday 19 Aug 2020","07:30 PM",Dome3,7000,2,Confirmed,
+1084,Phone,"ANINDIYA ROY",,'919830229119',"Wednesday 19 Aug 2020","04:30 PM",Dome1,7000,2,Confirmed,
+1083,Phone,"TARUN BASAK",,'917980648498',"Wednesday 19 Aug 2020","07:30 PM","Cabana 3",8000,8,Cancelled,"DOUBLE ENTRY"
+1081,Phone,"TARUN BASAK",,'917980648498',"Wednesday 19 Aug 2020","07:30 PM",Dome2,12000,8,Confirmed,
+1075,Phone,"mayur jaiswal",,'919831835917',"Wednesday 19 Aug 2020","02:00 PM","Celebrity Cabana",15000,12,Confirmed,

@@ -1,0 +1,5 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+617,Walk-in,"HEMANT BORAR",,'919831431308',"Wednesday 17 Jun 2020","06:00 PM",LV-1,1000,2,Confirmed,
+616,Phone,"NEERAJ KUMAR",,'917439214053',"Wednesday 17 Jun 2020","05:30 PM",Dome3,7000,2,Confirmed,
+615,Walk-in,"SUDIP RAY",,'919671462958',"Wednesday 17 Jun 2020","03:00 PM",Dome3,7000,2,Confirmed,
+614,Phone,"prabha shaw",,'919073916774',"Wednesday 17 Jun 2020","04:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,

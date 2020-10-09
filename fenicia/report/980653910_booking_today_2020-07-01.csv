@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+695,Phone,"syed HUSSAIN",,'919831129132',"Wednesday 01 Jul 2020","07:30 PM","Lords | Member's room",0,2,Confirmed,
+693,Walk-in,"WAQAR YOUNUS",,'919903504996',"Wednesday 01 Jul 2020","07:00 PM",PM-2,1000,2,Confirmed,
+691,Walk-in,"raquib halder",,'918910402410',"Wednesday 01 Jul 2020","05:00 PM",Dome3,10000,4,Confirmed,
+687,Phone,"SANANDA SEN",,'919874316015',"Wednesday 01 Jul 2020","07:00 PM",PM-1,0,2,Confirmed,
+685,Phone,"ARPITA SARKAR",,'919681213310',"Wednesday 01 Jul 2020","07:30 PM",Dome3,10000,4,Cancelled,"due to some emergency"

@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+845,Walk-in,"R BOSE",,'919903883752',"Tuesday 28 Jul 2020","08:00 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+844,Phone,"SIMRAN KAUR",,'919606262060',"Tuesday 28 Jul 2020","08:00 PM",Dome1,7000,2,Confirmed,
+843,Phone,"RAKESH ",,'917205789163',"Tuesday 28 Jul 2020","04:30 PM","Glint | Luxury Lounge",1000,1,Confirmed,
+842,Walk-in,"PIYUSH BENGANI",,'916289417110',"Tuesday 28 Jul 2020","01:30 PM",Dome3,7000,2,Confirmed,
+794,Phone,"ANKIT SONKAR",,'917003537351',"Tuesday 28 Jul 2020","05:00 PM","VIP Dome",20000,10,Confirmed,

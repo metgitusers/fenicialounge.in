@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Fenicia</title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <!-- Bootstrap 3.3.6 -->
+  <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="author" content="">
+  <title>Club Fenicia</title>
+  <link rel="shortcut icon" type="image/png" href="<?= base_url('public/images/logo.png') ?>">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-touch-fullscreen" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900%7CMontserrat:300,400,500,600,700,800,900" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/fonts/feather/style.min.css') ?>">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/fonts/simple-line-icons/style.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/fonts/font-awesome/css/font-awesome.min.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/vendors/css/perfect-scrollbar.min.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/vendors/css/prism.min.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/vendors/css/pickadate/pickadate.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/vendors/css/tables/datatable/datatables.min.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/css/app.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/css/custom.css') ?>">
+  <link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/css/bootstrap-select.min.css') ?>">
+  <link href='<?php echo base_url()?>public/admin_assets/css/fullcalendar.min.css' rel='stylesheet' />
+  <link href='<?php echo base_url()?>public/admin_assets/css/fullcalendar.print.min.css' rel='stylesheet' media='print' />    
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" /> 
+
+<script src='<?php echo base_url()?>public/admin_assets/js/moment.min.js'></script>
+<script src="<?=base_url('public/admin_assets/vendors/js/core/jquery-3.2.1.min.js')?>"></script>
+<script src="<?=base_url('public/admin_assets/vendors/js/core/bootstrap.min.js')?>"></script>
+<link rel="stylesheet" type="text/css" href="<?= base_url('public/admin_assets/vendors/css/switchery.min.css') ?>">
+<script src="<?php echo base_url().'public/admin_assets/vendors/js/switchery.min.js';?>"></script>
+<script src="<?php echo base_url().'public/admin_assets/js/switch.min.js';?>"></script>
+<style>
+   .info_area{
+	width: 100%;
+	height: 100%;
+	background: #000;
+	padding: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	text-align: center;
+}
+
+.logo_area{
+	width: 180px;
+	height: auto;
+	margin: 0 auto 30px auto;
+}
+
+.logo_area img{
+	width: 180px;
+}
+
+.contact_area h4 {
+	font-size: 16px;
+	color: #d0d0d0;
+	font-weight: 300;
+}
+
+.contact_area h4 strong{
+    	font-weight: 700;
+}
+
+.contact_area h4 a{
+	color: #d0d0d0;
+	text-decoration: none;
+}
+
+.contact_area h4 a:focus{
+	color: #d9a643;
+	text-decoration: none;
+}
+
+.info {
+	vertical-align: middle;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	width: 100%;
+	height: 302px;
+	padding: 0 25px;
+}
+
+@media only screen and (min-width:320px) and (max-width:479px) {
+	.info {
+	height: 233px;
+}
+	.logo_area {
+	width: 130px;
+	height: auto;
+	margin: 0 auto 15px auto;
+}
+	.logo_area img {
+	width: 130px;
+}
+	.contact_area h4 {
+	font-size: 14px;
+}
+	
+}
+
+</style>
+</head>
+
+<body role="document">
+
+	
+	
+
+<!--Header Top Start-->
+<div class="col-md-6 col-md-offset-3">
+		<div class="info_area">
+			<div class="info">
+				<div class="logo_area">
+				<a href=""><img src="<?php echo base_url().'public/images/logo.png'?>"/></a>
+			</div>
+			<div class="contact_area">
+				<h4><strong>Address:</strong> Godrej Waterside, Tower 1, 10th Floor, Sector V, Kolkata - 700091</h4>
+				<h4><strong>Mobile No:</strong> <a href="tel:917980191955">917980191955</a></h4>
+				<h4><strong>Landline No:</strong> <a href="tel:913346002002">+91 33 4600 2002</a> / <a href="tel:913346022002">+91 33 4602 2002</a></h4>
+				<h4><strong>Email Address:</strong> <a href="mailto:grm@fenicialounge.in">grm@fenicialounge.in</a></h4>
+			</div>
+			</div>
+			
+		</div>
+</div>
+</body>
+</html>

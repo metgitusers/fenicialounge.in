@@ -1,0 +1,10 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+858,Walk-in,"RAKHI JHUNJHUNWALA",,'919831493801',"Thursday 30 Jul 2020","08:30 PM",DN-1,1000,4,Confirmed,
+857,Walk-in,"SYED HUSSAIN",,'919831129132',"Thursday 30 Jul 2020","07:45 PM","Lords | Member's room",0,2,Confirmed,
+856,Walk-in,"D AHMED",,'919123727441',"Thursday 30 Jul 2020","07:45 PM",Dome1,7000,2,Confirmed,
+855,Walk-in,"VAISABI ",,'917981777106',"Thursday 30 Jul 2020","07:30 PM","VIP Dome",20000,10,Confirmed,
+854,Walk-in,"T BHATTACHARYA",,'919038213866',"Thursday 30 Jul 2020","06:30 PM",PM-4,1000,2,Confirmed,
+853,Phone,"Rohit  Sultania",,'919903205355',"Thursday 30 Jul 2020","06:30 PM","Lords | Member's room",0,2,Confirmed,
+851,Walk-in,"NEETU DEY",,'919836036044',"Thursday 30 Jul 2020","02:30 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+848,Phone,"ARSHIA SARKAR",,'918697885588',"Thursday 30 Jul 2020","06:00 PM",Dome3,12000,6,Confirmed,
+846,Phone,"SAIRAM ILILDRA",,'919163651576',"Thursday 30 Jul 2020","05:30 PM","VIP Dome",20000,10,NO-show,

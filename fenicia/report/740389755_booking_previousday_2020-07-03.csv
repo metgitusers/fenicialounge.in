@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+699,Walk-in,"PRASUM KEDIA",,'919748261419',"Thursday 02 Jul 2020","03:00 PM","Bed Lounge3",2500,3,Confirmed,
+697,Phone,"SARLA SINGHKA",,'917605894279',"Thursday 02 Jul 2020","02:00 AM","Bed Lounge2",2500,2,Confirmed,
+694,Phone,"SHALINI MASKARA",,'919903031313',"Thursday 02 Jul 2020","08:00 PM",Dome1,10000,4,Confirmed,
+692,Phone,"NILESH  TOSNIWAL",,'919903862896',"Thursday 02 Jul 2020","02:30 PM","Celebrity Cabana",15000,10,Confirmed,
+689,Phone,"ananya Agarwal",,'918697014034',"Thursday 02 Jul 2020","04:00 PM","Cabana 2",10000,10,Confirmed,

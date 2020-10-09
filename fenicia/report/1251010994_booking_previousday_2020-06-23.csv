@@ -1,0 +1,3 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+636,Phone,"T ROY",,'919231807350',"Monday 22 Jun 2020","04:00 PM",Dome1,10000,4,Confirmed,
+613,Phone,"MUKID AHMED",,'917059940500',"Monday 22 Jun 2020","05:00 PM","VIP Dome",20000,10,NO-show,

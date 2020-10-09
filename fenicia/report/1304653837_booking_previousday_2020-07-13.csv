@@ -1,0 +1,5 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+761,Phone,"FERNANDA KESSLER",,'919073085781',"Sunday 12 Jul 2020","05:30 AM","Lords | Member's room",0,1,Confirmed,
+760,Walk-in,"NAVEEN GUPTA",,'919748246825',"Sunday 12 Jul 2020","04:30 PM","Bed Lounge2",2500,2,Confirmed,
+759,Phone,"VIDISHA  KHANDELWAL",,'919836699594',"Sunday 12 Jul 2020","05:30 PM",PM-2,1000,2,Confirmed,
+758,Phone,"RAJDEEP MAZUMDAR",,'919831113098',"Sunday 12 Jul 2020","02:30 PM",Dome3,7000,2,Confirmed,

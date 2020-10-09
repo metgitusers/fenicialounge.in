@@ -1,0 +1,9 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+708,Phone,"SRIJIT KUMAR",,'919830077577',"Friday 03 Jul 2020","08:30 PM","Lords | Member's room",0,2,Confirmed,
+707,Walk-in,"SAYANTANI BANERJEE",,'917602842462',"Friday 03 Jul 2020","08:00 PM","Bed Lounge3",2500,2,Confirmed,
+706,Walk-in,"NANDAN PERMA",,'919687471072',"Friday 03 Jul 2020","07:30 PM",Dome3,7000,2,Confirmed,
+705,Phone,"TASIM MOLLA",,'917003949779',"Friday 03 Jul 2020","05:30 PM","Bed Lounge3",2500,4,Confirmed,
+704,Walk-in,"P. GHOSHAL",,'919038132245',"Friday 03 Jul 2020","04:00 PM",PM-1,0,2,Confirmed,
+703,Phone,"SUKRITI  AGARWAL",,'917003273194',"Friday 03 Jul 2020","06:30 PM","Lords | Member's room",0,2,Confirmed,
+702,Phone,"ADIL KHAYYAM",,'918420624323',"Friday 03 Jul 2020","02:30 PM","Bed Lounge3",2500,2,Confirmed,
+700,Phone,"ASHMI  MAITRA ",,'918240456591',"Friday 03 Jul 2020","06:00 PM",Dome1,7000,2,NO-show,

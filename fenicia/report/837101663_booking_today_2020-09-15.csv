@@ -1,0 +1,21 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1545,Walk-in,"MD MIRAZ",,'919748024494',"Tuesday 15 Sep 2020","09:30 PM",Dome1,12000,6,Confirmed,
+1544,Walk-in,"ADITYA ",,'919830943400',"Tuesday 15 Sep 2020","08:45 PM",PM-2,1000,2,Confirmed,
+1543,Walk-in,"HIMANSHU ",,'919830819987',"Tuesday 15 Sep 2020","08:00 PM",PM-1,0,2,Confirmed,
+1542,Walk-in,"PRASHANSHA  ",,'917507500879',"Tuesday 15 Sep 2020","08:45 PM",PM-2,1000,3,Confirmed,
+1541,Phone,"M PANDEY",,'919836855537',"Tuesday 15 Sep 2020","09:00 PM",DN-1,1000,3,Confirmed,
+1540,Walk-in,"IFTEKHAR AHMED",,'918240781176',"Tuesday 15 Sep 2020","07:00 PM",DN-1,1000,4,Confirmed,
+1539,Walk-in,"SAHIDUL REHMAN",,'917003366310',"Tuesday 15 Sep 2020","06:15 PM",PM-2,1000,2,Confirmed,
+1538,Walk-in,"ANKIT JHUNJHUNWALA",,'919830296936',"Tuesday 15 Sep 2020","04:45 PM",PM-1,0,2,Confirmed,
+1537,Walk-in,"ROCKY MOLLA",,'918777294053',"Tuesday 15 Sep 2020","05:30 PM",DN-2,1,3,Confirmed,
+1536,Phone,"HEMANT AGARWAL",,'919831002195',"Tuesday 15 Sep 2020","05:15 PM",PM-3,1000,2,Confirmed,
+1535,Phone,"SHIVAM DEY",,'919830454258',"Tuesday 15 Sep 2020","08:00 PM",PM-2,1000,2,Cancelled,"WRONG ENTRY"
+1534,Phone,"SHIVAM DEY",,'919830454258',"Tuesday 15 Sep 2020","08:00 PM",PM-2,1000,2,Confirmed,
+1533,Walk-in,"NIRAJ KAKKAD",,'919007007889',"Tuesday 15 Sep 2020","02:30 PM","Lords | Member's room",0,2,Confirmed,
+1532,Walk-in,"ARPITA DAS",,'918013546042',"Tuesday 15 Sep 2020","02:15 PM","Bed Lounge3",2500,5,Confirmed,
+1531,Phone,"YASH MORE",,'918582827099',"Tuesday 15 Sep 2020","03:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1530,Walk-in,"NIKHIL BIDWATKA",,'919831178326',"Tuesday 15 Sep 2020","01:15 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1529,Phone,"AKASH MOLLA",,'919051461480',"Tuesday 15 Sep 2020","07:30 PM",Dome1,12000,7,Cancelled,CANCELLED
+1527,Phone,"SK SAHIL",,'919674510902',"Tuesday 15 Sep 2020","06:00 PM",Dome2,10000,5,Confirmed,
+1479,Phone,"ANSHUL JAISWAL",,'917003943009',"Tuesday 15 Sep 2020","06:30 PM",Dome3,7000,2,Confirmed,
+1475,Phone,"TANVIR LASKAR",,'919830783467',"Tuesday 15 Sep 2020","05:00 PM",Dome1,10000,5,Confirmed,

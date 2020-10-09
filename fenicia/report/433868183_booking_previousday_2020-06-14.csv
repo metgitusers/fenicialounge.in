@@ -1,0 +1,9 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+609,Walk-in,"SOUMITA ",,'919062362476',"Saturday 13 Jun 2020","07:00 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+608,Phone,"ANIRUDH PODDAR",anirudh@saavushnu.com,'919830278881',"Saturday 13 Jun 2020","06:30 PM","Lords | Member's room",0,2,NO-show,
+607,Phone,"JENIL THANKY",,'919830063250',"Saturday 13 Jun 2020","06:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+605,Phone,"ANKITA GUPTA",,'919767663543',"Saturday 13 Jun 2020","04:30 PM",Dome3,10000,4,Confirmed,
+603,Phone,"AYMAN NADIM",,'916289844765',"Saturday 13 Jun 2020","05:00 PM","Celebrity Cabana",15000,10,Confirmed,
+602,Phone,"MANISHA MALLICK",,'918442819279',"Saturday 13 Jun 2020","05:00 PM",P-1,1000,2,Confirmed,
+601,Phone,"RAKESH CHOWDHARY",,'919831911816',"Saturday 13 Jun 2020","06:00 PM",Dome1,7000,2,Confirmed,
+600,Phone,"AKASH CHOWDHURY",,'919874276967',"Saturday 13 Jun 2020","01:30 PM",Dome1,7000,2,Confirmed,

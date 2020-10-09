@@ -1,0 +1,19 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1596,Walk-in,"S NANDI",,'919830259530',"Thursday 17 Sep 2020","10:00 PM","Cabana 2",5000,5,Confirmed,
+1595,Walk-in,"GOPIKA KHERIA",,'919830094031',"Thursday 17 Sep 2020","08:45 PM","Cabana 3",5000,5,Cancelled,"DOUBLE ENTRY"
+1594,Walk-in,"ISHI CHOWDHURY",,'919051046603',"Thursday 17 Sep 2020","08:00 PM","Cabana 2",5000,5,Confirmed,
+1593,Walk-in,"S NAG",,'918017411345',"Thursday 17 Sep 2020","08:00 PM",DN-1,1000,3,Confirmed,
+1592,Walk-in,"RITESH ",,'919096296000',"Thursday 17 Sep 2020","07:45 PM",DN-2,1,3,Confirmed,
+1591,Phone,"RAJ ",,'919051648677',"Thursday 17 Sep 2020","07:45 PM","Cabana 1",5000,4,Confirmed,
+1588,Walk-in,"MISTA ARORA",,'918777066679',"Thursday 17 Sep 2020","06:30 PM","Prego | Modern Fusion Dining Experience",1000,3,Confirmed,
+1587,Walk-in,"SHAHBAZ MOLLAH",,'917980063550',"Thursday 17 Sep 2020","06:30 PM","VIP Dome",20000,10,Confirmed,
+1586,Walk-in,"ALISHA ",,'918910121441',"Thursday 17 Sep 2020","05:45 PM",DN-2,1,3,Confirmed,
+1585,Walk-in,"MD ZEESHAN",,'917003264595',"Thursday 17 Sep 2020","04:15 PM",PM-1,0,2,Confirmed,
+1584,Phone,"SRIJIT ",,'919051403040',"Thursday 17 Sep 2020","06:30 PM",Dome3,12000,6,Confirmed,
+1583,Phone,"SUBHODEEP GHOSH",,'918240529937',"Thursday 17 Sep 2020","06:00 PM","Bed Lounge1",1000,5,NO-show,
+1582,Walk-in,"SK AZAR UDDIN",,'917044618540',"Thursday 17 Sep 2020","03:45 PM","Prego | Modern Fusion Dining Experience",1000,2,Confirmed,
+1581,Walk-in,"vinod agarwal",,'917980717802',"Thursday 17 Sep 2020","03:00 PM","Cabana 2",5000,5,Confirmed,
+1580,Phone,"ANISHA ",,'919007520450',"Thursday 17 Sep 2020","08:00 PM","Cabana 2",5000,5,NO-show,
+1578,Phone,"AKASH DAS",,'917980572885',"Thursday 17 Sep 2020","05:45 PM",PM-1,0,2,NO-show,
+1555,Phone,"GOPIKA KHERIA",,'919903315799',"Thursday 17 Sep 2020","08:00 PM","Cabana 3",5000,5,Confirmed,
+1526,Phone,"ANAND TODI",,'919830026494',"Thursday 17 Sep 2020","08:15 PM","Cabana 2",6000,6,Cancelled,"CANCELLED "

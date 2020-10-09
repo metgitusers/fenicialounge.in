@@ -1,0 +1,7 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+786,Walk-in,"ROHIT RISHAB",,'918017979886',"Friday 17 Jul 2020","06:30 PM",DN-2,1,4,Confirmed,
+785,Walk-in,"S BHOWMICK",,'919836172225',"Friday 17 Jul 2020","06:00 PM",PM-2,1000,2,Confirmed,
+784,Walk-in,"STUTI SHARMA",,'919163146767',"Friday 17 Jul 2020","05:30 PM",DN-1,1000,4,Confirmed,
+782,Phone,"SAIF  REHMAN",,'917303123345',"Friday 17 Jul 2020","05:30 PM",PM-2,1000,2,NO-show,
+781,Phone,"GAURAV BANSALKI",,'919830475333',"Friday 17 Jul 2020","04:30 PM",PM-1,0,2,NO-show,
+773,Phone,"SAGNIK DUTTA ",,'916291175509',"Friday 17 Jul 2020","04:00 PM","Cabana 1",6000,6,Confirmed,

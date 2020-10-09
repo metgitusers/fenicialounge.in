@@ -1,0 +1,8 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+675,Walk-in,"NAVIN  GUPTA",,'919836977222',"Sunday 28 Jun 2020","06:30 PM","Cabana 1",4000,4,Confirmed,
+674,Walk-in,"REJWAN ",,'918017491218',"Sunday 28 Jun 2020","05:00 PM","Bed Lounge2",2500,2,Confirmed,
+673,Walk-in,"PRAKRITI ",,'918240108166',"Sunday 28 Jun 2020","05:00 PM","Cabana 2",5000,5,Confirmed,
+672,Walk-in,"SHALINI  SARKAR",,'919775919936',"Sunday 28 Jun 2020","03:30 PM","Cabana 1",5000,2,Confirmed,
+665,Phone,"FAHAD PARVEZ",,'919836917204',"Sunday 28 Jun 2020","06:00 PM",Dome2,12000,7,Confirmed,
+661,Phone,"ROHIT CHATTERJEE",,'918861001826',"Sunday 28 Jun 2020","03:00 PM",Dome3,7000,2,Confirmed,
+656,Phone,"FARHAN JAKI",,'917604092611',"Sunday 28 Jun 2020","04:30 PM",Dome1,10000,4,NO-show,

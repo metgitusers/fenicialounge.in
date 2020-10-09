@@ -1,0 +1,10 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+922,Walk-in,"SAIFUDDIN ",,'919123347921',"Thursday 06 Aug 2020","07:15 PM",Dome2,10000,5,Confirmed,
+920,Phone,"syed HUSSAIN",,'919831129132',"Thursday 06 Aug 2020","07:30 PM","Lords | Member's room",0,3,Confirmed,
+919,Walk-in,"SIMRAN KAUR",harsimran.kaur2408@gmail.com,'919606262060',"Thursday 06 Aug 2020","07:00 PM",Dome1,7000,2,Confirmed,
+918,Phone,"MD SALMAN",,'916291573078',"Thursday 06 Aug 2020","07:00 PM",Dome3,7000,3,Confirmed,
+915,Walk-in,"AAID AHMED",,'917044923058',"Thursday 06 Aug 2020","05:15 PM",PM-2,1000,2,Confirmed,
+914,Phone,"ASIF SAEED",,'918910268358',"Thursday 06 Aug 2020","04:30 PM",Dome3,7000,3,Confirmed,
+909,Phone,"SK RAJ",,'919674108759',"Thursday 06 Aug 2020","03:30 PM",PM-4,1000,3,Cancelled,"GUEST CALL AND CANCELLED"
+908,Phone,"SHAFFY DAFFY",,'917596928516',"Thursday 06 Aug 2020","03:00 PM",Dome3,7000,3,NO-show,
+907,Phone,"NUMAN RASOOL",,'917980458650',"Thursday 06 Aug 2020","03:00 PM",Dome1,10000,4,Confirmed,

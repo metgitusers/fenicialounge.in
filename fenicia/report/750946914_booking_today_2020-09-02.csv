@@ -1,0 +1,11 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1274,Walk-in,"SHARMISTA BASAK",,'919674685109',"Wednesday 02 Sep 2020","06:45 PM","Bed Lounge3",2500,2,Confirmed,
+1273,Walk-in,"NILANJANA ",,'917900810965',"Wednesday 02 Sep 2020","06:45 PM",PM-2,1000,2,Confirmed,
+1272,Walk-in,"SOUVIK PAL",,'917908475338',"Wednesday 02 Sep 2020","06:30 PM",PM-1,0,2,Confirmed,
+1271,Phone,"SHAHJAMAL ",,'919836654265',"Wednesday 02 Sep 2020","06:00 PM",DN-1,1000,6,Confirmed,
+1270,Walk-in,"SHAGUFTA KHATOON",,'917003594673',"Wednesday 02 Sep 2020","04:00 PM",Dome2,7000,2,Confirmed,
+1269,Walk-in,"KAUSHIK BAJAJ",,'917044131123',"Wednesday 02 Sep 2020","03:45 PM",Dome1,7000,2,Confirmed,
+1267,Phone,"Rohit  Sultania",,'919903205355',"Wednesday 02 Sep 2020","07:30 PM","VIP Dome",20000,10,Confirmed,
+1264,Phone,"MOHOSIN MOLLA",,'916289235303',"Wednesday 02 Sep 2020","05:00 PM",Dome3,7000,3,Confirmed,
+1263,Phone,"AKASH DAGA",,'919007383188',"Wednesday 02 Sep 2020","06:00 PM",Dome1,7000,2,Confirmed,
+1261,Phone,"SURAJIT DUTTA",,'917003372474',"Wednesday 02 Sep 2020","01:00 PM","Bed Lounge3",2500,3,Confirmed,

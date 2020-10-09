@@ -1,0 +1,7 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+633,Phone,"RAZI KHAN",,'919831889434',"Saturday 20 Jun 2020","08:00 PM","Lords | Member's room",0,4,Confirmed,
+632,Walk-in,"syed HUSSAIN",,'919831129132',"Saturday 20 Jun 2020","07:30 PM","Lords | Member's room",0,3,Confirmed,
+629,Walk-in,"PAYAL SUNLAL",,'919073412035',"Saturday 20 Jun 2020","05:00 PM","Cabana 1",4000,4,Confirmed,
+628,Phone,"MD ARIF",,'917003131560',"Saturday 20 Jun 2020","04:30 PM",Dome2,7000,2,Confirmed,
+627,Phone,"PARUL BUBNA",,'919903696048',"Saturday 20 Jun 2020","05:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+626,Phone,"PRAKASH SINGHI",,'919830521664',"Saturday 20 Jun 2020","07:00 PM",Dome3,10000,4,NO-show,

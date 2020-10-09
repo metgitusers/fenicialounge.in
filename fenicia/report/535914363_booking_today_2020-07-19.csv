@@ -1,0 +1,9 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+800,Walk-in,"AFFRIN KHAN",,'917003713342',"Sunday 19 Jul 2020","06:30 PM",PM-1,0,2,Confirmed,
+799,Phone,"JAIBANJANI J",,'918334068069',"Sunday 19 Jul 2020","07:00 PM",DN-1,1000,4,Confirmed,
+798,Walk-in,"alvira parveen",,'917006094305',"Sunday 19 Jul 2020","03:00 PM","Cabana 1",5000,5,Confirmed,
+797,Walk-in,"s.k wasim ahamead",,'917980073629',"Sunday 19 Jul 2020","04:00 PM",P-7,1000,3,Confirmed,
+796,Phone,"imran jan",,'919051391178',"Sunday 19 Jul 2020","07:30 PM","Cabana 1",4000,4,Confirmed,
+789,Phone,"JIGYASA LOHIA",,'918240797747',"Sunday 19 Jul 2020","08:00 PM",Dome3,7000,2,Confirmed,
+774,Phone,"TANYA HUSSAIN",,'916290111341',"Sunday 19 Jul 2020","06:00 PM",Dome1,10000,4,Confirmed,
+771,Phone,"ZIYA KHAN",,'919875655711',"Sunday 19 Jul 2020","06:00 PM",Dome3,10000,4,Confirmed,

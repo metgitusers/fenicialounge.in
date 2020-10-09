@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+770,Walk-in,"ARMAAN MALLICK",,'919051117843',"Tuesday 14 Jul 2020","05:00 PM",G-1,1000,2,Confirmed,
+769,Phone,"bushra rehman",,'918584054188',"Tuesday 14 Jul 2020","05:00 PM",Dome3,7000,3,Confirmed,
+768,Phone,"RAHUL  KHANNA ",,'919830692254',"Tuesday 14 Jul 2020","07:00 PM",Dome3,12000,6,Cancelled,"CHANGED THEIR PLANNED "
+765,Phone,"KANPURIYA BAGRI",,'919874163294',"Tuesday 14 Jul 2020","04:30 PM",Dome1,7000,2,Confirmed,
+762,Phone,"SURAJ  TIWARI",,'918820254635',"Tuesday 14 Jul 2020","05:00 PM","VIP Dome",20000,12,Confirmed,

@@ -1,0 +1,25 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1616,Phone,"Soumina MUKHERJEE",,'919836147047',"Friday 18 Sep 2020","11:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1615,Walk-in,"MANISH ",,'917506111100',"Friday 18 Sep 2020","09:30 PM",MH-3,1000,2,Confirmed,
+1614,Walk-in,"MIKKI BANERJEE",,'917044173566',"Friday 18 Sep 2020","09:45 PM","Cabana 4",5000,5,Confirmed,
+1613,Walk-in,"KALPAJIT ",,'918697112802',"Friday 18 Sep 2020","09:15 PM",G-2,1000,2,Confirmed,
+1612,Walk-in,"MOHSIN KEORIA",,'917003865120',"Friday 18 Sep 2020","08:00 PM",MH-2,1000,5,Confirmed,
+1611,Walk-in,"ANKIT PATWANI",,'919830339538',"Friday 18 Sep 2020","08:15 PM","Cabana 3",5000,5,Confirmed,
+1609,Phone,"PRIYANKA  ",,'919831031233',"Friday 18 Sep 2020","08:00 PM",DN-1,1000,4,Confirmed,
+1607,Walk-in,"SRIJATA GANGULY",,'919831609868',"Friday 18 Sep 2020","07:30 PM","Cabana 1",5000,4,Confirmed,
+1606,Walk-in,"ARYAN ",,'917059864859',"Friday 18 Sep 2020","07:00 PM",DN-2,1,2,Confirmed,
+1605,Walk-in,"ABHAY SINGH",,'917982652807',"Friday 18 Sep 2020","07:00 PM","Glint | Luxury Lounge",1000,4,Cancelled,CANCELLED
+1604,Walk-in,"ROCKY ",,'918638585920',"Friday 18 Sep 2020","07:00 PM","Cabana 2",5000,5,Confirmed,
+1603,Phone,"MR. DAS",,'919434065016',"Friday 18 Sep 2020","10:00 PM",Dome1,10000,5,Confirmed,
+1602,Phone,"shobna ",,'917002098612',"Friday 18 Sep 2020","06:30 PM",PM-1,0,2,Cancelled,WALKED/OFF
+1601,Phone,"CHANDRANIL GHOSH",,'919674212686',"Friday 18 Sep 2020","08:00 PM",PM-4,1000,2,Confirmed,
+1599,Phone,"ASIF ",,'917003832029',"Friday 18 Sep 2020","05:00 PM","Cabana 4",5000,5,Confirmed,
+1597,Phone,"ASHOK DHANANIA",,'919830216662',"Friday 18 Sep 2020","08:30 PM","Bed Lounge1",1000,4,Confirmed,
+1579,Phone,"AAQUIB AHMED",,'916289946363',"Friday 18 Sep 2020","06:00 PM","Cabana 1",5000,5,Cancelled,"DOUBLE ENTRY"
+1570,Phone,"AAQUIB AHMED",,'91',"Friday 18 Sep 2020","06:00 PM","Cabana 1",5000,5,Confirmed,
+1547,Phone,"SANJAY JAISWAL",,'919830174124',"Friday 18 Sep 2020","07:30 PM","Prego | Modern Fusion Dining Experience",1000,15,Confirmed,
+1520,Phone,"ROHIT LADIA",,'918981895031',"Friday 18 Sep 2020","07:00 PM",G-1,1000,2,Confirmed,
+1433,Phone,"DIVIJA TAYAL",,'917003050119',"Friday 18 Sep 2020","06:30 PM",Dome3,12000,6,Confirmed,
+1432,Phone,"DIVIJA TAYAL",,'917003050119',"Friday 18 Sep 2020","07:30 PM",Dome3,10000,4,Cancelled,"AUTOMATIC IS TAKING DOUBLE ENTRY"
+1283,Phone,"MADONA DAS",,'917980879428',"Friday 18 Sep 2020","07:30 PM","VIP Dome",20000,10,Confirmed,
+944,Phone,"DOLL  SAHA",,'919804602677',"Friday 18 Sep 2020","05:00 PM",Dome1,7000,2,Confirmed,

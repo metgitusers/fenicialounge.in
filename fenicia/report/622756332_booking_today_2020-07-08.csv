@@ -1,0 +1,11 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+745,Walk-in,"WAILBUR LUCAS",,'919163805442',"Wednesday 08 Jul 2020","06:30 PM","Bed Lounge2",2500,3,Confirmed,
+744,Walk-in,"SUBHAM  SHAW",,'917003560438',"Wednesday 08 Jul 2020","05:00 PM","Bed Lounge2",2500,2,Confirmed,
+743,Phone,"RAUNAK CHAWRASIA",,'919874672928',"Wednesday 08 Jul 2020","05:30 PM",PM-1,0,2,Confirmed,
+742,Phone,"JYOTI ",,'919903039335',"Wednesday 08 Jul 2020","08:00 PM","Lords | Member's room",0,4,Cancelled,"DUE TO MEDICIAL ISSUE"
+741,Phone,"R. CHAKRABORTY",,'919331961481',"Wednesday 08 Jul 2020","05:00 PM","Bed Lounge3",2500,2,Confirmed,
+740,Phone,"ABHISHEK  BASU",,'918013815279',"Wednesday 08 Jul 2020","06:30 PM",PM-1,0,3,Confirmed,
+739,Phone,"ANKUR  AGARWAL",,'919831854148',"Wednesday 08 Jul 2020","07:00 PM","Bed Lounge3",2500,2,Confirmed,
+738,Phone,"SOUMITA CHAKRABORTY",,'919019749214',"Wednesday 08 Jul 2020","05:30 PM","Lords | Member's room",0,3,Cancelled,"THEIR FRIENDS ARE NOT COMFORTABLE TO COME "
+737,Walk-in,"RITA BOSE",,'918777362502',"Wednesday 08 Jul 2020","02:00 PM","Bed Lounge3",2500,2,Confirmed,
+736,Phone,"ROHIT ",,'917596846410',"Wednesday 08 Jul 2020","05:00 PM","Cabana 1",5000,5,Confirmed,

@@ -1,0 +1,15 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1294,Phone,"UTTAM NAYAK",,'919090221121',"Thursday 03 Sep 2020","08:00 PM",PM-2,1000,2,Confirmed,
+1293,Walk-in,"KARAN SHAH",,'919903027072',"Thursday 03 Sep 2020","07:45 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+1292,Walk-in,"SUNNY S.  REHMAN",,'919830115839',"Thursday 03 Sep 2020","07:15 PM","Cabana 1",6000,6,Confirmed,
+1291,Phone,"PRIYANKA AGARWAL",,'919836222283',"Thursday 03 Sep 2020","08:30 PM","Cabana 4",7000,7,Confirmed,
+1290,Walk-in,"FARHAN MEHFOOZ",,'917278718607',"Thursday 03 Sep 2020","05:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1289,Walk-in,"RAHUL KHAITAN",,'917980340046',"Thursday 03 Sep 2020","05:15 PM",PM-1,0,2,Confirmed,
+1288,Phone,"FARHAN AHMED",,'919903543784',"Thursday 03 Sep 2020","08:00 PM",Dome1,10000,4,Confirmed,
+1286,Phone,"anna ",,'919221574746',"Thursday 03 Sep 2020","08:00 PM","Glint | Luxury Lounge",1000,2,NO-show,
+1284,Phone,"srj ",,'919836446508',"Thursday 03 Sep 2020","05:15 PM",MH-6,1000,4,Confirmed,
+1281,Phone,"RAHUL SINGH",,'919163333318',"Thursday 03 Sep 2020","04:00 PM",Dome2,12000,7,Confirmed,
+1280,Phone,"ANKIT AGARWAL",,'919433025656',"Thursday 03 Sep 2020","08:00 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+1277,Phone,"SHAHBAZ UL-HAQUE",,'918442872283',"Thursday 03 Sep 2020","08:00 PM",PM-1,0,2,Cancelled,"AFTER CONFIRMATION NO SHOW "
+1266,Phone,"AQUIB AHMED",,'919038221152',"Thursday 03 Sep 2020","03:00 PM",P-1,1000,2,Confirmed,
+1265,Phone,"MAYANK/NISHIKA SUREKHA",,'919836518180',"Thursday 03 Sep 2020","07:30 PM","Cabana 1",5000,5,Confirmed,

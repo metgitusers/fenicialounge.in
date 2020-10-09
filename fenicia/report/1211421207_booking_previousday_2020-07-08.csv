@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+735,Walk-in,"PREMANJAN BANERJEE",,'919830196547',"Tuesday 07 Jul 2020","07:30 PM","Bed Lounge2",2500,2,Confirmed,
+734,Walk-in,"syed HUSSAIN",,'919831129132',"Tuesday 07 Jul 2020","07:30 PM","Lords | Member's room",0,2,Confirmed,
+733,Phone,"AKASH AGARWAL",,'919830059032',"Tuesday 07 Jul 2020","06:30 PM","Bed Lounge3",2500,2,Confirmed,
+732,Phone,"ISHA CHANDNA ARORA ",,'919654674652',"Tuesday 07 Jul 2020","07:30 PM","Bed Lounge3",2500,2,Confirmed,
+731,Phone,"syed HUSSAIN",,'919831129132',"Tuesday 07 Jul 2020","07:00 PM",Dome1,7000,2,Cancelled,"DOUBLE ENTRY"

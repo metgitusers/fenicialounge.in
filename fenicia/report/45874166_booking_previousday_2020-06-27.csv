@@ -1,0 +1,7 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+657,Walk-in,"RESHMA KHATOON",,'918334052387',"Friday 26 Jun 2020","06:30 PM",Dome3,10000,4,Confirmed,
+654,Walk-in,"PINKY  SHAW",,'918910918540',"Friday 26 Jun 2020","04:00 PM","Bed Lounge2",2500,2,Confirmed,
+652,Walk-in,"TANMOY CHAKRABORTY",,'919874150999',"Friday 26 Jun 2020","01:30 PM","Bed Lounge2",2500,2,Confirmed,
+649,Phone,"DIPANKAR MUKHERJEE",,'919163038360',"Friday 26 Jun 2020","01:00 PM","Cabana 1",3000,3,NO-show,
+648,Phone,"DEV MONDAL",,'917003788943',"Friday 26 Jun 2020","06:00 PM",Dome1,7000,2,Confirmed,
+643,Phone,"DIPANKAR MUKHERJEE",,'919163038360',"Friday 26 Jun 2020","01:00 PM","Cabana 4",5000,5,Confirmed,

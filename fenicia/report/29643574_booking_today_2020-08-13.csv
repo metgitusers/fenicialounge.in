@@ -1,0 +1,14 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1000,Phone,"RISHAB BANTHIA ",,'919836777773',"Thursday 13 Aug 2020","08:30 PM","Lords | Member's room",0,4,Confirmed,
+999,Walk-in,"RAKESH ",,'919331077048',"Thursday 13 Aug 2020","08:15 PM",Dome2,12000,7,Confirmed,
+998,Phone,"DR. IMAAN RUMANI",,'919773161599',"Thursday 13 Aug 2020","08:00 PM","Bed Lounge3",2500,2,Confirmed,
+997,Walk-in,"PRAKASH KUMAR",,'919681201114',"Thursday 13 Aug 2020","07:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+996,Walk-in,"SALIL ",,'919886833303',"Thursday 13 Aug 2020","07:00 PM","Glint | Luxury Lounge",1000,7,Confirmed,
+995,Walk-in,"NASIR  HUSSAIN",,'919930820772',"Thursday 13 Aug 2020","08:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+994,Walk-in,"ANISA FARHEEN",,'919874751891',"Thursday 13 Aug 2020","05:30 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+993,Walk-in,"SUPRIYA NAYAK",,'917980902043',"Thursday 13 Aug 2020","04:30 PM","Bed Lounge2",2500,2,Confirmed,
+992,Walk-in,"ATUL GUPTA",,'918013924587',"Thursday 13 Aug 2020","02:15 PM","Bed Lounge3",2500,2,Confirmed,
+991,Phone,"ANKUR GUPTA",,'919330881238',"Thursday 13 Aug 2020","07:45 PM",Dome3,7000,2,Confirmed,
+990,Phone,"MEENAN BAJAJ",,'919836511579',"Thursday 13 Aug 2020","01:15 PM","Bed Lounge3",2500,2,Confirmed,
+860,Walk-in,"ROHIT  RATHORE",,'918777345234',"Thursday 13 Aug 2020","04:00 PM","VIP Dome",20000,15,Cancelled,CANCELLED
+852,Phone,"JAITRI BOSE",,'919831092018',"Thursday 13 Aug 2020","08:30 PM",Dome1,10000,4,Confirmed,

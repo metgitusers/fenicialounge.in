@@ -1,0 +1,19 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1410,Walk-in,"CHANDAN ROUTH",,'919038517738',"Tuesday 08 Sep 2020","08:15 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+1409,Walk-in,"MRIDUL LAKAR",,'919748731423',"Tuesday 08 Sep 2020","08:00 PM","Glint | Luxury Lounge",1000,2,Cancelled,"HIGH PRICE OF SISHA"
+1408,Walk-in,"N.K. JAIN",,'919831640711',"Tuesday 08 Sep 2020","07:45 PM",PM-2,1000,2,Confirmed,
+1407,Walk-in,"PRINCE SEKH",,'919051880332',"Tuesday 08 Sep 2020","07:15 PM",PM-1,0,2,Confirmed,
+1406,Walk-in,"ASHA SONI",,'919874859999',"Tuesday 08 Sep 2020","06:45 PM",PM-3,1000,2,Confirmed,
+1404,Walk-in,"SAKIL MALLICK",,'919874450543',"Tuesday 08 Sep 2020","06:00 PM","Cabana 2",5000,5,Confirmed,
+1403,Walk-in,"P CHAKRABORTY",,'919874733312',"Tuesday 08 Sep 2020","05:00 PM","Bed Lounge2",2500,2,Confirmed,
+1401,Walk-in,"SANDIP MITRA",,'917044156469',"Tuesday 08 Sep 2020","05:00 PM","Bed Lounge2",2500,2,Confirmed,
+1399,Phone,"SOURAV PODDAR",,'919776766666',"Tuesday 08 Sep 2020","06:45 PM","Bed Lounge2",2500,2,Confirmed,
+1398,Phone,"SANKESH JAIN",,'918017171818',"Tuesday 08 Sep 2020","08:00 PM","Bed Lounge2",2500,3,Confirmed,
+1396,Walk-in,"KAZI IRFAN",,'919073440160',"Tuesday 08 Sep 2020","03:00 PM","Glint | Luxury Lounge",1000,2,Cancelled,"DOUBLE ENTRY "
+1395,Walk-in,"KAZI IRFAN",,'919073440160',"Tuesday 08 Sep 2020","03:00 PM","Glint | Luxury Lounge",1000,2,NO-show,
+1394,Walk-in,"KAZI IRFAN",,'919073440160',"Tuesday 08 Sep 2020","03:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1393,Phone,"SAUMYADEEP JALDATA",,'919078292156',"Tuesday 08 Sep 2020","06:45 PM","Cabana 1",5000,5,Confirmed,
+1390,Phone,"PAWAN LOHIA",,'919903800354',"Tuesday 08 Sep 2020","07:45 PM",Dome3,10000,5,Cancelled,"CANCELLED DUE TO WEATHER "
+1388,Phone,"susan gurung",,'916291167843',"Tuesday 08 Sep 2020","05:30 PM","VIP Dome",20000,10,Cancelled,CANCELLED
+1383,Phone,"KAUSTAV KONAR",,'917908373365',"Tuesday 08 Sep 2020","04:30 PM",DN-1,1000,8,Cancelled,CANCELLED
+1334,Phone,"ROHIT MOLLA",,'919123970814',"Tuesday 08 Sep 2020","06:30 PM",Dome1,10000,5,Cancelled,"NOT RECEIVING CALLS"

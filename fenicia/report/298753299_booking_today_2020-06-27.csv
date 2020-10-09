@@ -1,0 +1,13 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+670,Walk-in,"MD SOHAIL",,'918981496283',"Saturday 27 Jun 2020","06:30 PM","Bed Lounge2",2500,4,Confirmed,
+669,Phone,"DR. SAPNA SIROHIA",,'919830028710',"Saturday 27 Jun 2020","07:30 PM","Bed Lounge2",2500,2,Confirmed,
+668,Phone,"ALIFIA ",,'916291705508',"Saturday 27 Jun 2020","06:00 PM","Cabana 3",5000,5,Confirmed,
+666,Phone,"RAJU GHOSAL",,'919830655536',"Saturday 27 Jun 2020","06:30 PM",PM-2,1000,2,Cancelled,"NOT RECEIVING THE CALL"
+664,Phone,"G MAJUMDER",,'919473198178',"Saturday 27 Jun 2020","04:30 PM",Dome2,10000,5,Confirmed,
+663,Phone,"AMARJEET GORAI",,'918443860233',"Saturday 27 Jun 2020","06:00 PM",LV-4,1000,2,Cancelled,"WONT POSSIBLE TO REACH"
+660,Phone,"MEGHNA AGARWAL",,'918777238091',"Saturday 27 Jun 2020","04:00 PM","Bed Lounge3",2500,2,Confirmed,
+659,Phone,"AKRITI GUPTA",,'918697377211',"Saturday 27 Jun 2020","02:00 PM","Bed Lounge2",2500,2,Cancelled,"did not receive the call"
+655,Phone,"SHUBHASH DAS",,'919176277267',"Saturday 27 Jun 2020","06:00 PM","Bed Lounge3",2500,2,Confirmed,
+653,Phone,"DR. T GOSWAMI",,'917003472274',"Saturday 27 Jun 2020","05:00 PM",Dome1,7000,2,Confirmed,
+651,Phone,"MANOJ KHEMKA",manojkhemka1@gmail.com,'919331412001',"Saturday 27 Jun 2020","07:00 PM",Dome3,10000,4,Cancelled,"already done a booking by his end"
+647,Phone,"MANOJ KHEMKA",manojkhemka1@gmail.com,'919331412001',"Saturday 27 Jun 2020","07:00 PM",Dome3,10000,4,Confirmed,

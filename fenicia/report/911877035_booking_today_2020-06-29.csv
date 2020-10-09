@@ -1,0 +1,7 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+682,Walk-in,"PRACHI SAIGHAL",,'919830750599',"Monday 29 Jun 2020","07:00 PM","Cabana 1",5000,2,Confirmed,
+681,Walk-in,"syed HUSSAIN",,'919831129132',"Monday 29 Jun 2020","07:00 PM","Lords | Member's room",0,2,Confirmed,
+680,Phone,"VISHAKA  ",,'919073791390',"Monday 29 Jun 2020","07:30 PM",Dome1,7000,2,Confirmed,
+679,Walk-in,"RUMITA  ROY CHOUDHURY",,'919830990118',"Monday 29 Jun 2020","06:00 PM",PM-1,0,2,Confirmed,
+676,Phone,"A khard",,'919830858058',"Monday 29 Jun 2020","12:30 PM",Dome3,7000,2,Confirmed,
+671,Phone,"ADITYA MALU",,'918420113149',"Monday 29 Jun 2020","06:00 PM",Dome3,7000,2,Confirmed,

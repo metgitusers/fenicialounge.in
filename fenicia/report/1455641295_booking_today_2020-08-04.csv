@@ -1,0 +1,5 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+906,Phone,"SIMRAN KAUR",harsimran.kaur2408@gmail.com,'919606262060',"Tuesday 04 Aug 2020","08:30 PM",Dome1,7000,2,Confirmed,
+905,Walk-in,"RAEHAN ",,'919051811870',"Tuesday 04 Aug 2020","05:00 PM",Dome1,10000,4,Confirmed,
+904,Walk-in,"SUSHMITA ",,'918334970237',"Tuesday 04 Aug 2020","07:15 PM",PM-2,1000,2,Confirmed,
+902,Phone,"DEBANJAN ROY",,'917003724526',"Tuesday 04 Aug 2020","08:00 PM","Bed Lounge3",2500,2,Confirmed,

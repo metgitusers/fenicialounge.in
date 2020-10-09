@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+642,Walk-in,"KUNIL  RUTH",,'919836589108',"Tuesday 23 Jun 2020","07:30 PM","Lords | Member's room",0,4,Confirmed,
+641,Walk-in,"PRAKASH JAIN",,'919674060465',"Tuesday 23 Jun 2020","06:30 PM",Dome3,7000,2,Confirmed,
+640,Phone,"SUPARNA DEY",,'917980687901',"Tuesday 23 Jun 2020","02:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+639,Phone,"MIDRUL KEJRIWAL",,'919674147016',"Tuesday 23 Jun 2020","04:00 PM",Dome1,10000,5,Confirmed,
+630,Phone,"MD ARIF",,'917294916266',"Tuesday 23 Jun 2020","04:30 PM",Dome3,7000,2,Confirmed,

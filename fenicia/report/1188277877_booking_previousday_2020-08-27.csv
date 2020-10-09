@@ -1,0 +1,21 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1185,Walk-in,"ABHISHEK AGARWAL",,'919831123310',"Wednesday 26 Aug 2020","09:00 PM","Cabana 2",6000,6,Confirmed,
+1184,Walk-in,"DIMA KHATOON",,'917044172086',"Wednesday 26 Aug 2020","08:30 PM","Cabana 2",5000,5,Confirmed,
+1183,Walk-in,"IPSHITA DUTTA",,'919052066653',"Wednesday 26 Aug 2020","08:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1182,Walk-in,"SIMRAN KAUR",harsimran.kaur2408@gmail.com,'919606262060',"Wednesday 26 Aug 2020","08:30 PM","Lords | Member's room",0,1,Confirmed,
+1181,Phone,"syed HUSSAIN",,'919831129132',"Wednesday 26 Aug 2020","08:30 PM","Lords | Member's room",0,3,Confirmed,
+1180,Phone,"AAQUIB ",,'916289946363',"Wednesday 26 Aug 2020","07:45 PM","Lords | Member's room",0,2,Confirmed,
+1179,Walk-in,"ESHA ROY",,'917590817409',"Wednesday 26 Aug 2020","05:15 PM",G-1,1000,2,Cancelled,"DOUBLE ENTRY "
+1178,Walk-in,"ESHA ROY",,'917590817409',"Wednesday 26 Aug 2020","05:15 PM",G-1,1000,2,Confirmed,
+1177,Walk-in,"SHAYAD ",,'919123667330',"Wednesday 26 Aug 2020","05:15 PM","VIP Dome",20000,5,Confirmed,
+1176,Phone,"THANKY ",,'919830068250',"Wednesday 26 Aug 2020","04:30 PM","Lords | Member's room",0,2,Confirmed,
+1175,Walk-in,"ONDRILLA CHATTERJEE",,'918220108121',"Wednesday 26 Aug 2020","03:45 PM","Bed Lounge3",2500,2,Confirmed,
+1174,Walk-in,"RADHIKA PANT",,'919675678130',"Wednesday 26 Aug 2020","04:00 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+1173,Walk-in,"SK AMAN",,'919674720391',"Wednesday 26 Aug 2020","04:15 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+1172,Walk-in,"NAZIA KHAN",,'918240168311',"Wednesday 26 Aug 2020","04:15 PM","Glint | Luxury Lounge",1000,4,Confirmed,
+1170,Walk-in,"ADNAN SIDEQUI",,'917685084576',"Wednesday 26 Aug 2020","02:45 PM","Cabana 4",8000,8,Confirmed,
+1169,Walk-in,"DISHARI NEOJI",,'918584013940',"Wednesday 26 Aug 2020","01:15 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1167,Phone,"PIYUSH JAISWAL",,'919903937181',"Wednesday 26 Aug 2020","06:00 PM","VIP Dome",20000,10,Cancelled,NOTN
+1166,Phone,"SK RAJ",,'919674108759',"Wednesday 26 Aug 2020","04:00 PM",Dome2,7000,2,Confirmed,
+1144,Phone,"PRATIK JALAN",,'919073313444',"Wednesday 26 Aug 2020","06:00 PM",Dome1,7000,2,Confirmed,
+1099,Phone,"JANET CHOWDHURY",,'919830120785',"Wednesday 26 Aug 2020","07:00 PM",Dome3,10000,4,Confirmed,

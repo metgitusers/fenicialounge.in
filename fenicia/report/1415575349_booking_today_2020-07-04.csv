@@ -1,0 +1,10 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+715,Phone,"hassan ",,'919831707869',"Saturday 04 Jul 2020","08:00 PM","Cabana 1",5000,5,Confirmed,
+713,Phone,"vikash  mohta ",,'919007221191',"Saturday 04 Jul 2020","06:00 PM",MH-4,1000,2,Confirmed,
+712,Phone,"VIJYAINT  SHAH",,'919163213162',"Saturday 04 Jul 2020","04:00 PM",Dome1,7000,2,Cancelled,"DOUBLE ENTRY"
+711,Phone,"VIJYAINT  SHAH",,'919163213162',"Saturday 04 Jul 2020","04:00 PM",Dome1,7000,2,Confirmed,
+710,Walk-in,"D ROY",,'919674308114',"Saturday 04 Jul 2020","04:00 PM",Dome3,10000,4,Confirmed,
+709,Phone,"mahtab  akhter",,'918240670569',"Saturday 04 Jul 2020","04:30 PM",Dome2,12000,6,Confirmed,
+701,Phone,"DHIRAJ DAGA",,'919163022428',"Saturday 04 Jul 2020","08:00 PM",Dome1,10000,4,NO-show,
+698,Phone,"JYOTI  MUNDRA",,'919830250596',"Saturday 04 Jul 2020","06:30 PM",PM-1,0,2,Confirmed,
+690,Phone,"hussain  ALI",,'919681103317',"Saturday 04 Jul 2020","07:00 PM",Dome3,12000,6,Cancelled,"DUE TO SOME PERSONAL ISSUE"

@@ -1,0 +1,9 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+965,Phone,"SIMRAN KAUR",harsimran.kaur2408@gmail.com,'919606262060',"Monday 10 Aug 2020","07:30 PM","Lords | Member's room",0,4,Confirmed,
+963,Phone,"Soumina MUKHERJEE",,'919836147047',"Monday 10 Aug 2020","07:30 PM","Cabana 2",5000,5,Confirmed,
+962,Phone,"NILESH  MASKARA ",,'919051066333',"Monday 10 Aug 2020","04:00 PM","Cabana 1",5000,4,Cancelled,"gust not pickup the call"
+961,Walk-in,"eich mondal",,'919830440299',"Monday 10 Aug 2020","04:15 PM","Cabana 3",5000,5,Confirmed,
+960,Phone,"john doe",,'919051153610',"Monday 10 Aug 2020","02:00 PM",Dome3,12000,6,Confirmed,
+916,Phone,"PARICHITA SINGHANIA",,'918621017088',"Monday 10 Aug 2020","08:00 PM",Dome1,7000,2,Confirmed,
+913,Phone,"BUSHRA AMEEN",,'919836866812',"Monday 10 Aug 2020","05:00 PM","VIP Dome",20000,15,Confirmed,
+877,Phone,"DEBANJAN SAHA",,'918420028132',"Monday 10 Aug 2020","07:00 PM",DN-1,1000,3,Confirmed,

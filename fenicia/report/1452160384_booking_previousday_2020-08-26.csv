@@ -1,0 +1,14 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1165,Phone,"farhan ",,'919903543784',"Tuesday 25 Aug 2020","09:00 PM","Cabana 1",5000,5,Confirmed,
+1162,Walk-in,"samin ",,'919239344470',"Tuesday 25 Aug 2020","03:45 PM",LV-4,1000,2,Confirmed,
+1161,Phone,"RAHUL KHANNA ",,'91',"Tuesday 25 Aug 2020","07:45 PM","VIP Dome",20000,10,Confirmed,
+1160,Walk-in,"Mr.Vivek ",,'919007838644',"Tuesday 25 Aug 2020","05:30 AM","Glint | Luxury Lounge",1000,2,Confirmed,
+1137,Phone,"SIMRAN KAUR",harsimran.kaur2408@gmail.com,'919606262060',"Tuesday 25 Aug 2020","07:00 PM","Lords | Member's room",0,4,Confirmed,
+1133,Phone,"SHAZEB  SULTAN",,'918961833086',"Tuesday 25 Aug 2020","03:30 PM",Dome3,12000,6,Confirmed,
+1129,Phone,"PRATEEK AGARWAL",,'919831522932',"Tuesday 25 Aug 2020","07:00 PM",Dome3,12000,7,Confirmed,
+1116,Phone,"SARTHAK RAI",,'918240702451',"Tuesday 25 Aug 2020","04:00 PM","Cabana 1",6000,6,Confirmed,
+1105,Phone,"MD.ZISHAN ALI",,'919619060237',"Tuesday 25 Aug 2020","07:00 PM",Dome1,7000,2,Confirmed,
+1082,Phone,"SHAZEB  ",,'918961833086',"Tuesday 25 Aug 2020","06:00 PM","VIP Dome",20000,12,Cancelled,"GOT AN ACCIDENT"
+1037,Phone,"SONU KKC",,'919836583862',"Tuesday 25 Aug 2020","04:00 PM","Lords | Member's room",0,25,Confirmed,
+1012,Phone,"ANZAR KALAM",,'919163763081',"Tuesday 25 Aug 2020","05:00 PM","VIP Dome",20000,25,Cancelled,"DOUBLE ENRTY "
+849,Phone,"SHABA QAMAR",,'917595982037',"Tuesday 25 Aug 2020","03:00 PM","VIP Dome",20000,10,Confirmed,

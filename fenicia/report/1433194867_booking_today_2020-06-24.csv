@@ -1,0 +1,4 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+646,Phone,"UTTAM NAYAK",,'919090221121',"Wednesday 24 Jun 2020","08:00 PM",Dome1,7000,2,Confirmed,
+645,Phone,"PARAKSHIT MIMANI",,'916375792826',"Wednesday 24 Jun 2020","08:00 PM","Glint | Luxury Lounge",1000,5,Confirmed,
+644,Walk-in,"MD ARIF",,'919650969611',"Wednesday 24 Jun 2020","04:00 PM",Dome1,7000,3,Confirmed,

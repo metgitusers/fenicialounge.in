@@ -1,0 +1,7 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+594,Walk-in,"SIMRAN KAUR",,'919606262060',"Friday 20 Mar 2020","10:30 PM",Dome1,10000,4,Confirmed,
+593,Walk-in,"SUBHAM KANDOI",,'919681552446',"Friday 20 Mar 2020","08:30 PM",PM-1,0,2,Confirmed,
+592,Walk-in,"PRIYANKA HARLALKA",,'918369318266',"Friday 20 Mar 2020","08:00 PM",MH-1,1000,4,Confirmed,
+590,Phone,"MR VISHAL",,'919830142429',"Friday 20 Mar 2020","08:00 PM","VIP Dome",20000,10,Confirmed,
+589,Walk-in,"AMAN JAISWAL",,'919831939222',"Friday 20 Mar 2020","04:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+582,Phone,"SANJAY PURI",,'919830112905',"Friday 20 Mar 2020","05:30 PM","VIP Dome",20000,10,Cancelled,"CANCEL DUE TO CORONA VIRUS"

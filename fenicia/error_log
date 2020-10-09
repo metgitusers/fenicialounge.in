@@ -1,0 +1,714 @@
+[04-Sep-2018 08:18:21 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Sep-2018 10:34:40 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Sep-2018 10:34:49 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Sep-2018 13:34:04 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Sep-2018 13:40:28 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Sep-2018 15:07:49 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Sep-2018 15:07:56 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 01:20:20 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 05:11:03 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 13:57:38 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 13:58:03 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 13:58:05 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 13:59:45 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 13:59:46 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 13:59:49 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 13:59:52 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 13:59:59 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 14:00:02 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 14:01:39 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 14:01:42 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 14:01:44 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 14:01:46 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 14:01:48 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 14:01:51 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Sep-2018 14:01:56 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Sep-2018 04:54:12 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Sep-2018 12:39:20 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Sep-2018 12:39:20 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Sep-2018 12:39:21 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Sep-2018 12:39:38 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Sep-2018 14:12:20 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Sep-2018 14:14:20 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[06-Sep-2018 14:15:49 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[07-Sep-2018 03:16:41 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[07-Sep-2018 03:16:42 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[07-Sep-2018 05:34:48 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[07-Sep-2018 08:13:00 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[07-Sep-2018 08:13:07 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[07-Sep-2018 10:44:23 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[07-Sep-2018 10:44:23 Africa/Lagos] PHP Fatal error:  Call to undefined function mysqli_init() in /home/filmfes2/public_html/advantagecardmobileapp.com.au/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[10-Feb-2020 20:26:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:29:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:31:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:32:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:32:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:32:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:32:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:32:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:33:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:33:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:37:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:37:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:39:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[10-Feb-2020 20:39:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2678
+[11-Feb-2020 15:06:42 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mapi.php on line 32
+[11-Feb-2020 15:08:16 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mapi.php on line 32
+[11-Feb-2020 15:15:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 2303
+[12-Feb-2020 12:44:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:45:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:45:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:46:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:46:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:47:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:53:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:53:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:53:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:53:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:53:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:54:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '12' (T_LNUMBER), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/models/admin/Muser.php on line 45
+[12-Feb-2020 12:59:49 Asia/Kolkata] PHP Fatal error:  Call to a member function check_email_exist() on null in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Users.php on line 181
+[12-Feb-2020 13:00:06 Asia/Kolkata] PHP Fatal error:  Call to a member function check_email_exist() on null in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Users.php on line 181
+[12-Feb-2020 15:49:10 Asia/Kolkata] PHP Fatal error:  Call to a member function joinQuery() on null in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Users.php on line 128
+[17-Feb-2020 12:05:34 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mevent::get_events_calendar() in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Event.php on line 339
+[17-Feb-2020 12:05:43 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mevent::get_events_calendar() in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Event.php on line 339
+[02-Mar-2020 16:11:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$current_dt' (T_VARIABLE), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Reservation.php on line 209
+[02-Mar-2020 16:11:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$current_dt' (T_VARIABLE), expecting function (T_FUNCTION) in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Reservation.php on line 209
+[03-Mar-2020 17:41:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 18:00:10 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 18:04:26 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[03-Mar-2020 18:04:28 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[03-Mar-2020 18:05:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 18:11:55 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 18:12:29 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[03-Mar-2020 18:14:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 18:15:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 18:27:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 18:49:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[03-Mar-2020 18:56:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 18:56:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[03-Mar-2020 19:00:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[04-Mar-2020 06:45:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[04-Mar-2020 06:49:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[07-Mar-2020 19:36:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[07-Mar-2020 22:50:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[08-Mar-2020 16:32:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[09-Mar-2020 01:23:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[12-Mar-2020 00:45:35 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[12-Mar-2020 00:47:48 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[12-Mar-2020 06:17:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[12-Mar-2020 12:04:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[12-Mar-2020 20:23:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mreservation::getReservationData() in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Cron.php on line 99
+[12-Mar-2020 20:23:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mreservation::getReservationData() in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Cron.php on line 99
+[12-Mar-2020 20:24:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mreservation::getReservationData() in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Cron.php on line 99
+[12-Mar-2020 20:24:57 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mreservation::getReservationData() in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Cron.php on line 99
+[12-Mar-2020 21:49:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[12-Mar-2020 21:50:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[13-Mar-2020 01:08:00 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3916
+[13-Mar-2020 23:27:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[14-Mar-2020 08:40:06 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[15-Mar-2020 14:07:11 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 47
+[15-Mar-2020 17:30:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[16-Mar-2020 17:24:30 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mpermission.php on line 133
+[17-Mar-2020 01:27:32 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[17-Mar-2020 19:56:49 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[20-Mar-2020 17:21:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[20-Mar-2020 17:24:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[20-Mar-2020 18:55:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[20-Mar-2020 18:55:45 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[01-Apr-2020 20:35:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[09-Apr-2020 22:56:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[12-May-2020 16:14:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[12-May-2020 16:17:58 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[12-May-2020 16:19:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[12-May-2020 16:22:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[07-Jun-2020 11:39:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[07-Jun-2020 11:39:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[07-Jun-2020 18:10:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[07-Jun-2020 18:37:58 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[07-Jun-2020 18:38:07 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[07-Jun-2020 20:09:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[11-Jun-2020 11:29:48 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[11-Jun-2020 11:33:11 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[12-Jun-2020 14:36:46 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[12-Jun-2020 20:22:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare TermsCondition::menu_veg() in /home/fenicialounge/public_html/fenicia/application/controllers/TermsCondition.php on line 19
+[12-Jun-2020 20:22:41 Asia/Kolkata] PHP Fatal error:  Cannot redeclare TermsCondition::menu_veg() in /home/fenicialounge/public_html/fenicia/application/controllers/TermsCondition.php on line 19
+[12-Jun-2020 20:22:41 Asia/Kolkata] PHP Fatal error:  Cannot redeclare TermsCondition::menu_veg() in /home/fenicialounge/public_html/fenicia/application/controllers/TermsCondition.php on line 19
+[12-Jun-2020 20:22:50 Asia/Kolkata] PHP Fatal error:  Cannot redeclare TermsCondition::menu_veg() in /home/fenicialounge/public_html/fenicia/application/controllers/TermsCondition.php on line 19
+[12-Jun-2020 20:22:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare TermsCondition::menu_veg() in /home/fenicialounge/public_html/fenicia/application/controllers/TermsCondition.php on line 19
+[12-Jun-2020 20:23:33 Asia/Kolkata] PHP Fatal error:  Cannot redeclare TermsCondition::menu_veg() in /home/fenicialounge/public_html/fenicia/application/controllers/TermsCondition.php on line 19
+[12-Jun-2020 20:41:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[13-Jun-2020 00:19:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[13-Jun-2020 00:21:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[13-Jun-2020 12:19:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[14-Jun-2020 12:19:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[15-Jun-2020 18:57:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[16-Jun-2020 17:45:29 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[19-Jun-2020 14:45:46 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[19-Jun-2020 14:57:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[19-Jun-2020 15:19:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[19-Jun-2020 19:50:51 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/fenicialounge/public_html/fenicia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Jun-2020 19:50:57 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/fenicialounge/public_html/fenicia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Jun-2020 19:51:02 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/fenicialounge/public_html/fenicia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Jun-2020 19:51:11 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/fenicialounge/public_html/fenicia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Jun-2020 19:51:15 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/fenicialounge/public_html/fenicia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[19-Jun-2020 19:51:17 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/fenicialounge/public_html/fenicia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[22-Jun-2020 15:12:54 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[22-Jun-2020 15:13:08 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[22-Jun-2020 15:13:21 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[22-Jun-2020 15:14:21 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[22-Jun-2020 15:16:23 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[22-Jun-2020 15:16:59 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[22-Jun-2020 15:17:06 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[22-Jun-2020 15:17:30 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[22-Jun-2020 15:17:38 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/admin/Mmembership.php on line 25
+[23-Jun-2020 18:40:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[25-Jun-2020 18:10:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3917
+[26-Jun-2020 15:17:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function stringify() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1992
+[26-Jun-2020 15:17:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function stringify() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1992
+[26-Jun-2020 16:27:06 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3918
+[26-Jun-2020 17:46:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1834
+[26-Jun-2020 18:43:45 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3918
+[27-Jun-2020 12:19:43 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3918
+[27-Jun-2020 16:55:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3918
+[28-Jun-2020 15:52:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3918
+[29-Jun-2020 20:30:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3918
+[29-Jun-2020 20:31:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3918
+[01-Jul-2020 23:15:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3918
+[03-Jul-2020 20:05:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3920
+[03-Jul-2020 20:05:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3920
+[04-Jul-2020 16:40:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3920
+[04-Jul-2020 18:22:07 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3920
+[07-Jul-2020 12:25:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[09-Jul-2020 11:53:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[10-Jul-2020 13:43:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1863
+[10-Jul-2020 13:43:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[11-Jul-2020 19:07:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[13-Jul-2020 20:01:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[14-Jul-2020 16:53:07 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[15-Jul-2020 17:10:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[16-Jul-2020 11:31:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[17-Jul-2020 18:17:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[17-Jul-2020 23:45:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[18-Jul-2020 09:42:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[18-Jul-2020 09:43:45 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[18-Jul-2020 19:52:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[18-Jul-2020 22:33:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[20-Jul-2020 00:17:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1863
+[20-Jul-2020 00:22:57 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[23-Jul-2020 15:44:29 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[27-Jul-2020 18:49:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[27-Jul-2020 18:50:26 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[27-Jul-2020 19:21:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 3947
+[29-Jul-2020 18:31:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[29-Jul-2020 19:17:19 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4085
+[30-Jul-2020 06:11:28 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[31-Jul-2020 08:06:00 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[31-Jul-2020 11:15:19 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[31-Jul-2020 11:18:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[31-Jul-2020 11:19:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[31-Jul-2020 11:58:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[02-Aug-2020 20:44:57 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[03-Aug-2020 10:23:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[03-Aug-2020 21:18:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[03-Aug-2020 21:19:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[03-Aug-2020 21:43:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[04-Aug-2020 16:14:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[06-Aug-2020 21:51:15 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[07-Aug-2020 15:34:56 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[07-Aug-2020 15:37:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[07-Aug-2020 18:40:05 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[09-Aug-2020 19:17:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[10-Aug-2020 01:52:48 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[10-Aug-2020 03:25:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[10-Aug-2020 11:44:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[10-Aug-2020 11:48:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[10-Aug-2020 18:46:32 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[11-Aug-2020 15:48:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[11-Aug-2020 17:13:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[12-Aug-2020 01:52:49 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[12-Aug-2020 15:35:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[13-Aug-2020 13:46:31 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 47
+[13-Aug-2020 13:46:31 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 47
+[14-Aug-2020 16:50:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[15-Aug-2020 14:46:58 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[15-Aug-2020 14:53:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[15-Aug-2020 20:28:58 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[15-Aug-2020 20:31:46 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[15-Aug-2020 22:31:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[16-Aug-2020 17:42:40 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[16-Aug-2020 18:06:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[16-Aug-2020 19:01:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[16-Aug-2020 19:02:28 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[16-Aug-2020 22:11:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[17-Aug-2020 16:41:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[17-Aug-2020 20:31:07 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[18-Aug-2020 11:35:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[18-Aug-2020 11:35:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[19-Aug-2020 13:19:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[19-Aug-2020 23:34:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[20-Aug-2020 14:22:07 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[20-Aug-2020 16:07:32 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[21-Aug-2020 14:07:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[21-Aug-2020 14:29:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[22-Aug-2020 16:27:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[22-Aug-2020 18:16:53 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[23-Aug-2020 12:39:55 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[23-Aug-2020 16:10:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[24-Aug-2020 21:24:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[24-Aug-2020 23:50:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[25-Aug-2020 00:13:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[25-Aug-2020 16:47:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[25-Aug-2020 16:48:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[25-Aug-2020 20:41:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:41:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:41:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:41:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:41:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:41:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:44:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:44:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:44:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:44:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:44:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:44:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:52:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:53:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:53:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:53:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:53:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:53:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:56:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:57:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:58:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:58:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:58:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:58:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:58:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:58:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:59:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:59:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:59:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:59:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 20:59:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:01:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:09 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:02:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:03:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:03:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:03:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:03:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:03:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:06:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:08:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:08:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:08:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:08:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:08:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:08:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:18:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:34:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:34:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:34:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:34:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:34:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:34:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 21:47:31 Asia/Kolkata] PHP Fatal error:  Call to a member function get_event_list() on null in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Dashboard.php on line 54
+[25-Aug-2020 21:49:21 Asia/Kolkata] PHP Fatal error:  Call to a member function get_event_list() on null in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Dashboard.php on line 58
+[25-Aug-2020 21:49:55 Asia/Kolkata] PHP Fatal error:  Call to a member function get_event_list() on null in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Dashboard.php on line 58
+[25-Aug-2020 21:51:05 Asia/Kolkata] PHP Fatal error:  Call to a member function get_event_list() on null in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Dashboard.php on line 58
+[25-Aug-2020 21:51:48 Asia/Kolkata] PHP Fatal error:  Call to a member function get_event_list() on null in /home/fenicialounge/public_html/fenicia/application/controllers/admin/Dashboard.php on line 58
+[25-Aug-2020 22:09:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:09:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:09:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:09:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:09:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:09:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:23:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:23:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:23:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:23:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:23:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:23:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:32:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:34:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:35:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:35:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 22:35:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 23:04:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 23:04:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 23:04:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 23:04:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 23:04:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[25-Aug-2020 23:04:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:06:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:16:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:16:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:16:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:16:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:16:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:16:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:17:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:18:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 00:19:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:25:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:25:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:25:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:25:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:25:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:25:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:33:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:33:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:33:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:33:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 01:33:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 02:50:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:26:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 04:27:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:02:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:50:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:51:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:51:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:51:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:51:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 11:51:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:03:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:03:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:03:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:03:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:03:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:03:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:45:07 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:45:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:45:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:45:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:45:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 12:45:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:13:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:15:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:16:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:17:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:17:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:17:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:17:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:17:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:17:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:17:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:19:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:20:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:20:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:20:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:20:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:20:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:20:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:20:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'com' (T_STRING) in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 17
+[26-Aug-2020 13:32:00 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[26-Aug-2020 16:22:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[26-Aug-2020 17:38:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[27-Aug-2020 01:01:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[27-Aug-2020 02:10:07 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[27-Aug-2020 10:16:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[27-Aug-2020 15:28:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[27-Aug-2020 21:19:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[28-Aug-2020 15:44:43 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[28-Aug-2020 16:32:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[28-Aug-2020 19:46:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[28-Aug-2020 21:02:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[29-Aug-2020 05:50:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[29-Aug-2020 10:34:19 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[29-Aug-2020 22:05:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[30-Aug-2020 15:51:01 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 47
+[30-Aug-2020 15:51:01 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 47
+[30-Aug-2020 16:59:30 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 47
+[30-Aug-2020 16:59:30 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 47
+[30-Aug-2020 21:27:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[31-Aug-2020 00:30:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[31-Aug-2020 00:52:59 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[31-Aug-2020 14:56:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[01-Sep-2020 14:58:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[02-Sep-2020 20:28:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[02-Sep-2020 20:28:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[02-Sep-2020 20:32:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[02-Sep-2020 20:39:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[04-Sep-2020 18:47:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[06-Sep-2020 11:01:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[06-Sep-2020 17:34:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[07-Sep-2020 08:44:32 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[07-Sep-2020 18:39:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[07-Sep-2020 19:30:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[07-Sep-2020 20:11:45 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[07-Sep-2020 20:30:57 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[07-Sep-2020 21:03:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[08-Sep-2020 06:58:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[08-Sep-2020 12:10:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[08-Sep-2020 12:18:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getMembershipPaymentCheck() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 1959
+[08-Sep-2020 15:24:29 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[08-Sep-2020 18:05:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[10-Sep-2020 03:40:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[11-Sep-2020 00:11:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[11-Sep-2020 01:18:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[13-Sep-2020 16:09:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[13-Sep-2020 16:14:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[13-Sep-2020 17:00:38 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[13-Sep-2020 17:00:48 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[13-Sep-2020 17:06:02 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[13-Sep-2020 20:31:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[14-Sep-2020 07:58:49 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[14-Sep-2020 20:40:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[14-Sep-2020 21:00:12 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[14-Sep-2020 21:02:40 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[14-Sep-2020 22:11:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[16-Sep-2020 04:00:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[16-Sep-2020 15:06:23 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 456
+[16-Sep-2020 15:06:27 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 456
+[16-Sep-2020 15:06:36 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/fenicialounge/public_html/fenicia/application/models/Mcommon.php on line 456
+[18-Sep-2020 16:20:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[19-Sep-2020 00:00:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[19-Sep-2020 00:43:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[19-Sep-2020 01:31:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[19-Sep-2020 15:09:29 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[19-Sep-2020 21:09:29 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[19-Sep-2020 21:11:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[20-Sep-2020 01:11:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[20-Sep-2020 15:54:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[21-Sep-2020 08:07:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[21-Sep-2020 08:10:11 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[21-Sep-2020 15:29:10 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[21-Sep-2020 15:30:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[21-Sep-2020 15:36:43 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[21-Sep-2020 18:26:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4087
+[21-Sep-2020 23:53:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4114
+[23-Sep-2020 10:43:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4114
+[23-Sep-2020 10:43:24 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4114
+[23-Sep-2020 10:43:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method Mapi::getRequestForPhotographList() in /home/fenicialounge/public_html/fenicia/application/controllers/Api.php on line 4114

@@ -1,0 +1,18 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1441,Walk-in,"SANDEEP AGARWAL",,'919831001334',"Thursday 10 Sep 2020","09:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1440,Walk-in,"SK SABIRUDDIN",,'917686046638',"Thursday 10 Sep 2020","04:00 PM","Cabana 4",5000,5,Confirmed,
+1439,Phone,"RAJROOP SAHA",,'918017336627',"Thursday 10 Sep 2020","01:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1438,Walk-in,"A SARKAR",,'919339463438',"Thursday 10 Sep 2020","07:15 PM",DN-2,1,2,Confirmed,
+1437,Walk-in,"DIPANWITA ",,'919830981370',"Thursday 10 Sep 2020","08:15 PM",DN-1,1000,2,Confirmed,
+1436,Phone,"ZAHID AHMED",,'919883857748',"Thursday 10 Sep 2020","08:30 PM",G-2,1000,3,Confirmed,
+1435,Phone,"ABID ",,'919748948346',"Thursday 10 Sep 2020","08:30 PM","Bed Lounge3",2500,5,Confirmed,
+1434,Phone,"GAURAV BHUTORIA",,'919748077787',"Thursday 10 Sep 2020","08:00 PM","Cabana 1",10000,10,Confirmed,
+1431,Phone,"ESHA DAS",,'917278794474',"Thursday 10 Sep 2020","08:00 PM","Cabana 4",5000,5,Confirmed,
+1429,Phone,"syed HUSSAIN",,'919831129132',"Thursday 10 Sep 2020","07:30 PM","Glint | Luxury Lounge",1000,2,Cancelled,"CHANGE IN PLAN "
+1424,Walk-in,"MANISH JAISWAL",,'919836355559',"Thursday 10 Sep 2020","06:45 PM","Cabana 2",5000,5,Cancelled,"NO SHOW"
+1422,Phone,"MAHESH  PUNJABI",,'919831013111',"Thursday 10 Sep 2020","08:30 PM","Celebrity Cabana",15000,10,Confirmed,
+1412,Phone,"Rohit  Sultania",,'919903205355',"Thursday 10 Sep 2020","08:00 PM",Dome3,10000,5,Confirmed,
+1400,Phone,"ESHA DAS",,'917278794474',"Thursday 10 Sep 2020","08:00 PM","Cabana 3",5000,5,Cancelled,"DOUBLE ENTRY"
+1392,Phone,"SHRAVIKA RAMPURIA",,'918334937402',"Thursday 10 Sep 2020","07:30 PM",Dome1,7000,2,Confirmed,
+1389,Phone,"PRATIBHA RAJGHARIA",,'919874236824',"Thursday 10 Sep 2020","07:30 PM","VIP Dome",20000,12,Confirmed,
+1158,Phone,"MEGHA AGARWAL",,'919674016694',"Thursday 10 Sep 2020","07:00 PM",Dome3,7000,2,Cancelled,"not well suffering from fever"

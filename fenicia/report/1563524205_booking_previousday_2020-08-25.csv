@@ -1,0 +1,9 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1156,Phone,"Rohit  Sultania",,'919903205355',"Monday 24 Aug 2020","07:30 PM",Dome3,12000,6,Confirmed,
+1155,Walk-in,"A SARKAR",,'919339463438',"Monday 24 Aug 2020","06:30 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1154,Walk-in,"ASHAD ",,'919836941947',"Monday 24 Aug 2020","06:15 PM","Glint | Luxury Lounge",1000,3,Confirmed,
+1153,Walk-in,"MD EKRAMU;",,'919674822316',"Monday 24 Aug 2020","06:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1152,Walk-in,"SHAH ALAM",,'919874730937',"Monday 24 Aug 2020","06:30 PM",Dome1,10000,4,Confirmed,
+1151,Phone,"ASIF ",,'918981214603',"Monday 24 Aug 2020","05:00 PM","Bed Lounge3",2500,3,Confirmed,
+1150,Walk-in,"sarfaraj ",,'919903419105',"Monday 24 Aug 2020","06:30 PM","Cabana 2",6000,6,Confirmed,
+1136,Phone,"SIMRAN KAUR",harsimran.kaur2408@gmail.com,'919606262060',"Monday 24 Aug 2020","07:00 PM",Dome1,10000,4,Confirmed,

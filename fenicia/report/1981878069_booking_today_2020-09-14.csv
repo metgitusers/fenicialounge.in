@@ -1,0 +1,12 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+1525,Walk-in,"MD RIYAZ",,'919123708328',"Monday 14 Sep 2020","08:15 PM","Cabana 3",8000,8,Confirmed,
+1524,Walk-in,"SOMA GHOSH CHOWDHURY",,'919903999354',"Monday 14 Sep 2020","07:00 PM","Cabana 2",5000,5,Confirmed,
+1523,Walk-in,"KHUSBOO BAJAJ",,'9179801769671',"Monday 14 Sep 2020","06:30 PM",DN-1,1000,8,Confirmed,
+1522,Walk-in,"FIROZ AHMED",,'919874122072',"Monday 14 Sep 2020","04:15 PM",Dome2,7000,2,Confirmed,
+1521,Walk-in,"ARIJIT MAZUMDER",,'918981676388',"Monday 14 Sep 2020","04:00 PM","Bed Lounge1",1000,4,Cancelled,CANCELLED
+1519,Walk-in,"anjali kedia",,'916294123590',"Monday 14 Sep 2020","03:15 PM","Cabana 2",5000,5,Confirmed,
+1518,Walk-in,"ANUSKA bhat",,'918240739329',"Monday 14 Sep 2020","03:15 PM","Cabana 1",5000,5,Confirmed,
+1517,Walk-in,"Ms SRIJITA  Hazra",,'919007590256',"Monday 14 Sep 2020","03:00 PM","Glint | Luxury Lounge",1000,2,Confirmed,
+1516,Phone,"MD ARAFAT",,'918240885099',"Monday 14 Sep 2020","06:30 PM","VIP Dome",20000,10,Confirmed,
+1471,Phone,"AJAY LAKKAR",,'919874767111',"Monday 14 Sep 2020","08:00 PM",Dome3,7000,2,Confirmed,
+1461,Phone,"PRASENJIT ",,'919143537637',"Monday 14 Sep 2020","07:00 PM",Dome1,7000,2,Confirmed,

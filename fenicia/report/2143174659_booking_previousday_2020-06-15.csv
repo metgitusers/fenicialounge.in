@@ -1,0 +1,5 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+611,Walk-in,"SRIJIT AON",srijit.aon@gmail.com,'919831221535',"Sunday 14 Jun 2020","05:30 PM",PM-1,0,2,Confirmed,
+610,Phone,"SRIJIT KUMAR",,'919830077577',"Sunday 14 Jun 2020","01:00 PM",Dome3,7000,3,Confirmed,
+606,Phone,"SIMRAN KAUR",harsimran.kaur2408@gmail.com,'919606262060',"Sunday 14 Jun 2020","05:00 PM","Lords | Member's room",0,4,NO-show,
+604,Phone,"NASHIZA ",,'919073555403',"Sunday 14 Jun 2020","05:30 PM","Lords | Member's room",0,2,Confirmed,

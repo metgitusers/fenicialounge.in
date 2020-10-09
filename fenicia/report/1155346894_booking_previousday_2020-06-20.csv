@@ -1,0 +1,4 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+625,Walk-in,"PRITAM DEB",,'919769191204',"Friday 19 Jun 2020","05:00 PM",Dome3,7000,2,Confirmed,
+623,Phone,"APURVA AGARWAL",,'919903438977',"Friday 19 Jun 2020","06:00 PM",PM-1,0,2,Confirmed,
+620,Phone,"syed HUSSAIN",,'919831129132',"Friday 19 Jun 2020","05:00 PM",Dome3,10000,4,Cancelled,"GUEST CALLED TO CANCEL HIS RESERVATION"

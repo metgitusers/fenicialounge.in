@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+767,Phone,"S. DAS",,'919903679917',"Monday 13 Jul 2020","08:30 PM","Lords | Member's room",0,2,Confirmed,
+766,Phone,"ANUSKA BASU",,'918910287152',"Monday 13 Jul 2020","09:00 PM",Dome1,10000,4,Confirmed,
+764,Phone,"SONALI SAHA",,'919748442925',"Monday 13 Jul 2020","06:30 PM",Dome3,7000,2,Confirmed,
+763,Phone,"SONALI  SAHA",,'919748222925',"Monday 13 Jul 2020","05:00 PM",Dome1,7000,2,NO-show,
+696,Phone,"MANOJ GEOEL",,'919830417633',"Monday 13 Jul 2020","07:30 PM","VIP Dome",20000,10,Confirmed,

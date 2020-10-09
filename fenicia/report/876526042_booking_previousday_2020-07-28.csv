@@ -1,0 +1,6 @@
+"Reservation No","Reservation Type","Member Name",Email,Phone,"Reservation Date","Reservation Time",Zone,"Cover Charge","No. Of Guests",Status,"Reason For Cancellation"
+841,Walk-in,"MUSHARAF ALI",,'918777263410',"Monday 27 Jul 2020","07:00 PM",Dome3,7000,3,Confirmed,
+840,Phone,"FAIZ KARIMA",,'919836190535',"Monday 27 Jul 2020","05:00 PM",Dome3,10000,4,Confirmed,
+839,Walk-in,"NILESH  MASKARA ",,'919051066333',"Monday 27 Jul 2020","02:00 PM","Lords | Member's room",0,1,Confirmed,
+838,Walk-in,"FARIDA REHMAN",,'918017016745',"Monday 27 Jul 2020","01:30 PM","Cabana 2",5000,5,Confirmed,
+757,Phone,"Rohit  Sultania",,'919903205355',"Monday 27 Jul 2020","07:00 PM","Celebrity Cabana",15000,15,Confirmed,
