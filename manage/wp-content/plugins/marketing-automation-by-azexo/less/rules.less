@@ -1,0 +1,272 @@
+@black: #23282d;
+
+.azr-rule {
+    .azr-events, .azr-conditions, .azr-actions {
+        border: 1px solid @black;
+        padding: 40px 10px 10px 10px;
+        margin-bottom: 20px;
+        position: relative;
+        > .azr-title {
+            background: @black;
+            color: white;
+            font-weight: bold;
+            padding: 5px 10px;
+            position: absolute;
+            left: -1px;
+            top: -1px;
+            right: -1px;
+        }        
+    }
+    .azr-label {
+        font-weight: bold;
+    }
+    .azr-warning {
+        color: red;
+    }
+    .azr-not-valid {
+        outline: 1px solid red;
+    }
+    .azr-event, .azr-condition, .azr-action {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;                        
+        .azr-type {
+            width: 30%;
+            select {
+                vertical-align: top;
+            }
+            .azr-negate {
+                display: inline-block;
+                text-align: center;
+                margin-right: 10px;
+                margin-top: -5px;
+                span {
+                    display: block;
+                }
+            }
+        } 
+        .azr-parameters {
+            width: 60%;
+            [data-parameter] {
+                margin-bottom: 10px;
+            }
+        }
+        .azr-description {
+            font-style: italic;
+            padding-right: 10px;
+        }   
+        .azr-remove {
+            width: 10%;
+            font-weight: bold;
+            cursor: pointer;
+            color: red;
+            text-align: right;
+        }
+        &.azr-blocked {
+            border: 3px dashed lightgray;
+            .azr-type select {
+                pointer-events: none;
+            }
+            .azr-remove {
+                display: none;
+            }
+        }
+        select {
+            vertical-align: top;
+        }
+        select[multiple] {
+            min-height: 200px;
+        }
+        textarea {
+            width: 100%;
+            min-height: 200px;
+        }
+        .azr-helpers {
+            font-size: 10px;
+            .azr-tokens {
+                padding: 3px;
+                background-color: #f1f1f1;
+                display: inline-block;
+                input {                    
+                    font-size: 10px;
+                    background-color: #f5f5f5;
+                    padding: 2px;
+                }
+            }
+        }
+    }
+    .azr-list {
+        > .azr-event, > .azr-condition, > .azr-action {
+            padding: 10px;
+            &:nth-child(even) {
+                background-color: whitesmoke;
+            }
+        }
+    }
+    .azr-or, .azr-and {  
+        margin-bottom: 10px;  
+        position: relative;
+        &:last-child {
+            margin-bottom: 0;  
+        }
+        > .azr-title { 
+            color: blue;
+            font-weight: bold;
+            display: inline-block;
+            border: 1px solid lightgray;
+            padding: 5px 10px;
+            margin-bottom: -1px;
+            background-color: white;
+            border-bottom: 0
+        }
+        > .azr-remove {
+            font-weight: bold;
+            cursor: pointer;
+            color: red;
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+        > .azr-list { 
+            min-height: 30px;
+            border: 1px solid lightgray;
+            padding: 10px;
+        }
+    }
+    .azr-or, .azr-and, .azr-condition {
+        cursor: move;
+    }
+    .azr-add {
+        margin-top: 10px;
+        font-weight: bold;
+        cursor: pointer;
+        color: green;
+        display: inline-block;
+        margin-right: 20px;
+    }
+    .ui-sortable-placeholder {
+        background-image: 
+            -webkit-repeating-linear-gradient(45deg,
+            rgba(0,0,0,0.1) 0px, 
+            rgba(0,0,0,0.1) 5px, 
+            transparent 5px, 
+            transparent 10px) !important;
+        background-image: 
+            repeating-linear-gradient(45deg,
+            rgba(0,0,0,0.1) 0px, 
+            rgba(0,0,0,0.1) 5px, 
+            transparent 5px, 
+            transparent 10px) !important;
+        visibility: visible !important;
+    }
+    [data-parameter] {
+        table {
+            width: 100%;
+            table-layout: fixed;
+            /*border-collapse: collapse;*/
+            tbody {
+                tr:not(:first-child) {
+                    .azr-label {
+                        display: none;
+                    }
+                }
+                td {
+                    /*padding: 5px;*/
+                }
+            }
+            input {
+                max-width: 100%;
+            }
+            .select2-container {
+                min-width: 0;
+                width: 100% !important;
+            }
+            .azr-remove {
+                text-decoration: none;
+            }
+            [data-parameter] {
+                margin-bottom: 0 !important;
+            }
+        }
+    }
+}
+
+.azm-filters {
+    margin: 50px 20px 0 0;
+    background-color: white;
+    padding: 20px;
+    .azr-helpers {
+        .azr-tokens {
+            display: none !important;
+        }
+    }
+}
+
+.select2-container {
+    min-width: 250px; 
+    .select2-selection {
+        height: 32px;
+    }
+    ul {
+        li {
+            &[aria-disabled="true"] {
+                display: none;
+            }
+        }
+    }
+}
+.azexo-grouped-select2 {
+    .select2-results {
+        > .select2-results__options {
+            > .select2-results__option {
+                >.select2-results__options {
+                    display: none;
+                }
+                >.select2-results__group {
+                    background-color: #f6f6f6;
+                    &:before {
+                        content: '\f345';
+                        display: inline;
+                        font-size: 11px;
+                        font-weight: 900;
+                        font-family: dashicons;
+                        vertical-align: middle;
+                        text-align: center;
+                        margin-right: 3px;
+                    }
+                    &:hover {
+                        background-color: #eeeeee;
+                        cursor: pointer;
+                    }
+                }
+                &.azexo-group-expanded {
+                    > .select2-results__group:before {
+                        content: '\f347';
+                    }
+                }
+            }
+        }
+        li {
+            margin-bottom: 0;
+        }
+    }
+}
+.select2-container--default {
+    .azexo-grouped-select2 {
+        .select2-results {
+            >.select2-results__options {
+                max-height: 280px;
+            }
+        }
+        .select2-results__option[aria-selected=true] {
+            background-color: #0073aa;
+            color: white;
+        }
+    }
+}
+
+
+
+body.post-type-azr_rule #postdivrich {
+    display: none;
+}

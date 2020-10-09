@@ -1,0 +1,1269 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-11 15:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: rules.php:42
+msgid "Every one minute"
+msgstr ""
+
+#: rules.php:56
+msgid "Remove"
+msgstr ""
+
+#: rules.php:57
+msgid "Add condition"
+msgstr ""
+
+#: rules.php:58
+msgid "Add action"
+msgstr ""
+
+#: rules.php:59
+msgid "Add OR"
+msgstr ""
+
+#: rules.php:60
+msgid "Add AND"
+msgstr ""
+
+#: rules.php:61
+msgid "OR - any of the following conditions:"
+msgstr ""
+
+#: rules.php:62
+msgid "AND - all of the following conditions:"
+msgstr ""
+
+#: rules.php:63
+msgid "Event"
+msgstr ""
+
+#: rules.php:64
+msgid "CONDITIONS"
+msgstr ""
+
+#: rules.php:65
+msgid "ACTIONS (performed if conditions logical expression is true)"
+msgstr ""
+
+#: rules.php:66
+msgid "EVENT (moment when conditions will be checked)"
+msgstr ""
+
+#: rules.php:67
+msgid "WP users"
+msgstr ""
+
+#: rules.php:68 rules.php:609 rules.php:827
+msgid "Form"
+msgstr ""
+
+#: rules.php:69
+msgid "Email field"
+msgstr ""
+
+#: rules.php:186
+msgid "Scheduler"
+msgstr ""
+
+#: rules.php:187 rules.php:251
+msgid "Conditions  will be applied to all known site visitors"
+msgstr ""
+
+#: rules.php:192
+msgid "When"
+msgstr ""
+
+#: rules.php:194
+msgid "Immediately"
+msgstr ""
+
+#: rules.php:195
+msgid "Start at date"
+msgstr ""
+
+#: rules.php:196
+msgid "Every day"
+msgstr ""
+
+#: rules.php:197
+msgid "Every week day"
+msgstr ""
+
+#: rules.php:198
+msgid "Every month day"
+msgstr ""
+
+#: rules.php:204 rules.php:696 rules.php:780 rules.php:855 sms_rules.php:116
+msgid "Date"
+msgstr ""
+
+#: rules.php:211
+msgid "Week day"
+msgstr ""
+
+#: rules.php:227
+msgid "Month day"
+msgstr ""
+
+#: rules.php:236
+msgid "Form submit"
+msgstr ""
+
+#: rules.php:237 rules.php:265 rules.php:279
+#: integrations/woocommerce_rules.php:46 integrations/woocommerce_rules.php:60
+#: integrations/woocommerce_rules.php:74 integrations/woocommerce_rules.php:93
+#: integrations/woocommerce_rules.php:114
+#: integrations/woocommerce_rules.php:135
+msgid ""
+"All conditions will be linked with current site visitor and will be checked "
+"after this delay or immediately if it zero"
+msgstr ""
+
+#: rules.php:243 rules.php:271 rules.php:346
+#: integrations/woocommerce_rules.php:52 integrations/woocommerce_rules.php:66
+#: integrations/woocommerce_rules.php:85 integrations/woocommerce_rules.php:106
+#: integrations/woocommerce_rules.php:127
+#: integrations/woocommerce_rules.php:141
+msgid "Reaction delay (days)"
+msgstr ""
+
+#: rules.php:250
+msgid "New post"
+msgstr ""
+
+#: rules.php:257 rules.php:289 rules.php:310
+msgid "Post type"
+msgstr ""
+
+#: rules.php:264
+msgid "Visitor leave comment"
+msgstr ""
+
+#: rules.php:278
+msgid "Visit"
+msgstr ""
+
+#: rules.php:285
+msgid "Site place"
+msgstr ""
+
+#: rules.php:287
+msgid "Any place"
+msgstr ""
+
+#: rules.php:288 rules.php:637 rules.php:1035
+msgid "Page"
+msgstr ""
+
+#: rules.php:290 rules.php:319
+msgid "Post type archive"
+msgstr ""
+
+#: rules.php:291
+msgid "Home page"
+msgstr ""
+
+#: rules.php:292
+msgid "Blog page"
+msgstr ""
+
+#: rules.php:293 rules.php:328 integrations/woocommerce_rules.php:36
+#: integrations/woocommerce_rules.php:120
+#: integrations/woocommerce_rules.php:365
+#: integrations/woocommerce_rules.php:391
+msgid "Tags"
+msgstr ""
+
+#: rules.php:294 rules.php:337 integrations/woocommerce_rules.php:26
+#: integrations/woocommerce_rules.php:99
+msgid "Categories"
+msgstr ""
+
+#: rules.php:300 rules.php:642 rules.php:669
+msgid "Page name"
+msgstr ""
+
+#: rules.php:302 rules.php:644 rules.php:671 email_rules.php:463
+#: email_rules.php:523
+msgid "Please create a page"
+msgstr ""
+
+#: rules.php:364
+msgid "Performing period"
+msgstr ""
+
+#: rules.php:368
+msgid "From date"
+msgstr ""
+
+#: rules.php:372
+msgid "To date"
+msgstr ""
+
+#: rules.php:377
+msgid "Is registered user"
+msgstr ""
+
+#: rules.php:383
+msgid "Visitor has tag"
+msgstr ""
+
+#: rules.php:389 rules.php:962 rules.php:974
+msgid "Tag"
+msgstr ""
+
+#: rules.php:396
+msgid "Visitor points"
+msgstr ""
+
+#: rules.php:401 rules.php:884 integrations/woocommerce_rules.php:153
+#: integrations/woocommerce_rules.php:174
+#: integrations/woocommerce_rules.php:229
+#: integrations/woocommerce_rules.php:256
+#: integrations/woocommerce_rules.php:417
+#: integrations/woocommerce_rules.php:440
+#: integrations/woocommerce_rules.php:467
+#: integrations/woocommerce_rules.php:496
+#: integrations/woocommerce_rules.php:525
+msgid "Relation"
+msgstr ""
+
+#: rules.php:404 rules.php:491 rules.php:893
+#: integrations/woocommerce_rules.php:156
+#: integrations/woocommerce_rules.php:177
+#: integrations/woocommerce_rules.php:232
+#: integrations/woocommerce_rules.php:259
+#: integrations/woocommerce_rules.php:420
+#: integrations/woocommerce_rules.php:443
+#: integrations/woocommerce_rules.php:470
+#: integrations/woocommerce_rules.php:499
+#: integrations/woocommerce_rules.php:528
+msgid "Is greater than"
+msgstr ""
+
+#: rules.php:405 rules.php:492 rules.php:894
+#: integrations/woocommerce_rules.php:157
+#: integrations/woocommerce_rules.php:178
+#: integrations/woocommerce_rules.php:233
+#: integrations/woocommerce_rules.php:260
+#: integrations/woocommerce_rules.php:421
+#: integrations/woocommerce_rules.php:444
+#: integrations/woocommerce_rules.php:471
+#: integrations/woocommerce_rules.php:500
+#: integrations/woocommerce_rules.php:529
+msgid "Is less than"
+msgstr ""
+
+#: rules.php:415 rules.php:986
+msgid "Points"
+msgstr ""
+
+#: rules.php:421
+msgid "User has role"
+msgstr ""
+
+#: rules.php:427 rules.php:938 rules.php:950
+msgid "Role"
+msgstr ""
+
+#: rules.php:434
+msgid "User has meta-key"
+msgstr ""
+
+#: rules.php:440 rules.php:452 rules.php:1001
+msgid "Meta-key"
+msgstr ""
+
+#: rules.php:446
+msgid "User has meta-key/value pair"
+msgstr ""
+
+#: rules.php:457 rules.php:1006
+msgid "Meta-value"
+msgstr ""
+
+#: rules.php:463
+msgid "User comment"
+msgstr ""
+
+#: rules.php:468 rules.php:488 rules.php:622 rules.php:649 rules.php:725
+#: rules.php:1729 sms_rules.php:69
+msgid "Status"
+msgstr ""
+
+#: rules.php:471
+msgid "Leave at least one"
+msgstr ""
+
+#: rules.php:472
+msgid "Did not leave any"
+msgstr ""
+
+#: rules.php:483
+msgid "User comment count"
+msgstr ""
+
+#: rules.php:502 integrations/woocommerce_rules.php:450
+msgid "Count"
+msgstr ""
+
+#: rules.php:508
+msgid "Last user comment date"
+msgstr ""
+
+#: rules.php:513
+msgid "Comment date"
+msgstr ""
+
+#: rules.php:516 rules.php:682 rules.php:766 rules.php:805 rules.php:841
+#: sms_rules.php:102 integrations/woocommerce_rules.php:200
+msgid "Is within"
+msgstr ""
+
+#: rules.php:517 rules.php:683 rules.php:767 rules.php:806 rules.php:842
+#: sms_rules.php:103 integrations/woocommerce_rules.php:201
+msgid "Is not within"
+msgstr ""
+
+#: rules.php:527 rules.php:704 rules.php:788 rules.php:816 rules.php:863
+#: sms_rules.php:124 integrations/woocommerce_rules.php:211
+msgid "Days"
+msgstr ""
+
+#: rules.php:533
+msgid "Email subscription"
+msgstr ""
+
+#: rules.php:539 rules.php:577
+msgid "Subscription form"
+msgstr ""
+
+#: rules.php:541 rules.php:549 rules.php:579 rules.php:587 rules.php:616
+#: rules.php:829 rules.php:879
+msgid "Please create a form via AZEXO Builder"
+msgstr ""
+
+#: rules.php:547
+msgid "Field of this form which contain email of subscriber"
+msgstr ""
+
+#: rules.php:555 rules.php:593
+msgid "Subscription status"
+msgstr ""
+
+#: rules.php:557 rules.php:595
+msgid "Subscribed"
+msgstr ""
+
+#: rules.php:558 rules.php:596
+msgid "Unsubscribed"
+msgstr ""
+
+#: rules.php:559 rules.php:597
+msgid "Non-subscribed"
+msgstr ""
+
+#: rules.php:571
+msgid "Phone subscription"
+msgstr ""
+
+#: rules.php:585
+msgid "Field of this form which contain phone number of subscriber"
+msgstr ""
+
+#: rules.php:614
+msgid "Form title"
+msgstr ""
+
+#: rules.php:625
+msgid "Submited"
+msgstr ""
+
+#: rules.php:626
+msgid "Not submitted"
+msgstr ""
+
+#: rules.php:652 rules.php:676
+msgid "Visited"
+msgstr ""
+
+#: rules.php:653
+msgid "Not visited"
+msgstr ""
+
+#: rules.php:664
+msgid "Page visit date"
+msgstr ""
+
+#: rules.php:679 rules.php:763 rules.php:838 sms_rules.php:99
+msgid "Is after"
+msgstr ""
+
+#: rules.php:680 rules.php:764 rules.php:839 sms_rules.php:100
+msgid "Is before"
+msgstr ""
+
+#: rules.php:681 rules.php:765 rules.php:840 rules.php:887 sms_rules.php:101
+msgid "Is"
+msgstr ""
+
+#: rules.php:713
+msgid "Email campaign status"
+msgstr ""
+
+#: rules.php:718 rules.php:753 sms_rules.php:62 sms_rules.php:89
+msgid "Campaign name"
+msgstr ""
+
+#: rules.php:720 rules.php:755 sms_rules.php:64 sms_rules.php:91
+#, php-format
+msgid "Please <a href=\"%s\">create a campaign</a>"
+msgstr ""
+
+#: rules.php:728
+msgid "Opened"
+msgstr ""
+
+#: rules.php:729
+msgid "Clicked"
+msgstr ""
+
+#: rules.php:730 sms_rules.php:72
+msgid "Was sent"
+msgstr ""
+
+#: rules.php:731
+msgid "Did not open"
+msgstr ""
+
+#: rules.php:732
+msgid "Did not clicked"
+msgstr ""
+
+#: rules.php:733 sms_rules.php:73
+msgid "Was not sent"
+msgstr ""
+
+#: rules.php:748
+msgid "Email campaign sent date"
+msgstr ""
+
+#: rules.php:760 sms_rules.php:96
+msgid "Sent date"
+msgstr ""
+
+#: rules.php:797 rules.php:802
+msgid "Last visit"
+msgstr ""
+
+#: rules.php:822
+msgid "Form submission date"
+msgstr ""
+
+#: rules.php:835
+msgid "Submitted"
+msgstr ""
+
+#: rules.php:872
+msgid "Submitted form field"
+msgstr ""
+
+#: rules.php:877
+msgid "Field"
+msgstr ""
+
+#: rules.php:888
+msgid "Is not"
+msgstr ""
+
+#: rules.php:889
+msgid "Contains"
+msgstr ""
+
+#: rules.php:890
+msgid "Does not contain"
+msgstr ""
+
+#: rules.php:891
+msgid "Starts with"
+msgstr ""
+
+#: rules.php:892
+msgid "Ends with"
+msgstr ""
+
+#: rules.php:895
+msgid "Is blank"
+msgstr ""
+
+#: rules.php:896
+msgid "Is not blank"
+msgstr ""
+
+#: rules.php:914 rules.php:922
+msgid "Value"
+msgstr ""
+
+#: rules.php:933
+msgid "Add user role"
+msgstr ""
+
+#: rules.php:945
+msgid "Remove user role"
+msgstr ""
+
+#: rules.php:957
+msgid "Add visitor tag"
+msgstr ""
+
+#: rules.php:969
+msgid "Remove visitor tag"
+msgstr ""
+
+#: rules.php:981
+msgid "Add points to visitor"
+msgstr ""
+
+#: rules.php:992
+msgid "Reset visitor points"
+msgstr ""
+
+#: rules.php:996
+msgid "Update user meta"
+msgstr ""
+
+#: rules.php:1012
+msgid "Show AZH widget"
+msgstr ""
+
+#: rules.php:1016
+msgid ""
+"AZH widget will be hidden by default except this case. Make effect "
+"immediately on currently visited page"
+msgstr ""
+
+#: rules.php:1020
+msgid "AZH Widget"
+msgstr ""
+
+#: rules.php:1027
+msgid "Unlock page"
+msgstr ""
+
+#: rules.php:1031
+msgid ""
+"Page will be locked by default except this case. Make effect immediately on "
+"currently visited page."
+msgstr ""
+
+#: rules.php:1041
+msgid "Locking text"
+msgstr ""
+
+#: rules.php:1700 rules.php:1701
+msgid "Rule"
+msgstr ""
+
+#: rules.php:1702
+msgid "Add Rule"
+msgstr ""
+
+#: rules.php:1703
+msgid "Add New Rule"
+msgstr ""
+
+#: rules.php:1704
+msgid "Edit Rule"
+msgstr ""
+
+#: rules.php:1705
+msgid "New Rule"
+msgstr ""
+
+#: rules.php:1706
+msgid "View Rule"
+msgstr ""
+
+#: rules.php:1707
+msgid "Search Rules"
+msgstr ""
+
+#: rules.php:1708
+msgid "No Rule found"
+msgstr ""
+
+#: rules.php:1709
+msgid "No Rule found in Trash"
+msgstr ""
+
+#: rules.php:1710
+msgid "Parent Rule:"
+msgstr ""
+
+#: rules.php:1711
+msgid "Automation"
+msgstr ""
+
+#: rules.php:1730
+msgid "Results"
+msgstr ""
+
+#: rules.php:1741
+msgid "Draft"
+msgstr ""
+
+#: rules.php:1742
+msgid "Running"
+msgstr ""
+
+#: rules.php:1743
+msgid "Paused"
+msgstr ""
+
+#: rules.php:1744
+msgid "Finished"
+msgstr ""
+
+#: rules.php:1745
+msgid "Pause"
+msgstr ""
+
+#: rules.php:1746
+msgid "Run"
+msgstr ""
+
+#: rules.php:1764
+msgid "Rule settings"
+msgstr ""
+
+#: rules.php:1921
+msgid "AZH Widget impressions"
+msgstr ""
+
+#: rules.php:1922
+msgid "AZH Widget clicks"
+msgstr ""
+
+#: sms_rules.php:7
+msgid "Send SMS"
+msgstr ""
+
+#: sms_rules.php:13
+msgid "SMS template"
+msgstr ""
+
+#: sms_rules.php:18
+msgid "SMS number per batch"
+msgstr ""
+
+#: sms_rules.php:25 email_rules.php:485 email_rules.php:542
+msgid "Delay between batches (seconds)"
+msgstr ""
+
+#: sms_rules.php:32
+msgid "Delay between every SMS send (microseconds)"
+msgstr ""
+
+#: sms_rules.php:57
+msgid "SMS campaign status"
+msgstr ""
+
+#: sms_rules.php:84
+msgid "SMS campaign sent date"
+msgstr ""
+
+#: sms_rules.php:144 sms_rules.php:338 email_rules.php:568 email_rules.php:684
+msgid "Unknown"
+msgstr ""
+
+#: sms_rules.php:191
+msgid "SMS receivers"
+msgstr ""
+
+#: sms_rules.php:192
+msgid "SMS sent"
+msgstr ""
+
+#: sms_rules.php:313
+msgid "Test SMS was sent"
+msgstr ""
+
+#: azh_marketing_automation.php:48
+msgid ""
+"please install <a href=\"https://wordpress.org/plugins/page-builder-by-"
+"azexo/\">Page builder by AZEXO</a> plugin."
+msgstr ""
+
+#: azh_marketing_automation.php:48 azh_marketing_automation.php:52
+msgid "Dismiss this notice."
+msgstr ""
+
+#: azh_marketing_automation.php:52
+msgid ""
+"please install <a href=\"https://wordpress.org/plugins/cost-calculator-by-"
+"azexo/\">Form builder by AZEXO</a> plugin."
+msgstr ""
+
+#: azh_marketing_automation.php:61 azh_marketing_automation.php:81
+msgid "Upload Email Template"
+msgstr ""
+
+#: azh_marketing_automation.php:70
+msgid "Automation dashboard"
+msgstr ""
+
+#. Section ID
+#: azh_marketing_automation.php:103
+msgid "Upload StampReady Email Template"
+msgstr ""
+
+#. Field ID
+#: azh_marketing_automation.php:109
+msgid ""
+"ZIP file of email template in <a href=\"https://themeforest."
+"net/tags/stampready\" target=\"_blank\">StampReady</a> format"
+msgstr ""
+
+#: azh_marketing_automation.php:122
+msgid "Click to start upload"
+msgstr ""
+
+#: azh_marketing_automation.php:128
+msgid ""
+"Template will be uploaded right after choose a template zip-file.<br> ZIP-"
+"filename must contain single folder with index.html file.<br> ZIP-file and "
+"folder must have same name - <b>template name</b>."
+msgstr ""
+
+#: azh_marketing_automation.php:185
+msgid "Something went wrong"
+msgstr ""
+
+#: azh_marketing_automation.php:186
+msgid "Send test email to: "
+msgstr ""
+
+#: azh_marketing_automation.php:187
+msgid "Send test SMS"
+msgstr ""
+
+#: azh_marketing_automation.php:188
+msgid "Enter receiver phone number"
+msgstr ""
+
+#: azh_marketing_automation.php:189
+msgid "Done"
+msgstr ""
+
+#: azh_marketing_automation.php:488 azh_marketing_automation.php:489
+#: azh_marketing_automation.php:539 email_rules.php:473 email_rules.php:528
+msgid "Email template"
+msgstr ""
+
+#: azh_marketing_automation.php:490
+msgid "Add Email template"
+msgstr ""
+
+#: azh_marketing_automation.php:491
+msgid "Add New Email template"
+msgstr ""
+
+#: azh_marketing_automation.php:492
+msgid "Edit Email template"
+msgstr ""
+
+#: azh_marketing_automation.php:493
+msgid "New Email template"
+msgstr ""
+
+#: azh_marketing_automation.php:494
+msgid "View Email template"
+msgstr ""
+
+#: azh_marketing_automation.php:495
+msgid "Search Email templates"
+msgstr ""
+
+#: azh_marketing_automation.php:496
+msgid "No Email template found"
+msgstr ""
+
+#: azh_marketing_automation.php:497
+msgid "No Email template found in Trash"
+msgstr ""
+
+#: azh_marketing_automation.php:498
+msgid "Parent Email template:"
+msgstr ""
+
+#: azh_marketing_automation.php:499
+msgid "Email templates"
+msgstr ""
+
+#: azh_marketing_automation.php:562
+#, php-format
+msgid ""
+"For email template creation you need <a href=\"%s\">upload</a> base email "
+"template."
+msgstr ""
+
+#: azh_marketing_automation.php:635
+msgid "You subscribed successfully"
+msgstr ""
+
+#: azh_marketing_automation.php:640
+msgid "Your email"
+msgstr ""
+
+#: azh_marketing_automation.php:645
+msgid "Subscribe"
+msgstr ""
+
+#: azh_marketing_automation.php:651
+msgid "AZEXO Subscription Widget"
+msgstr ""
+
+#: bounce_handling.php:13
+msgid "Every five minutes"
+msgstr ""
+
+#: bounce_handling.php:35 bounce_handling.php:44
+msgid "Bouncing settings"
+msgstr ""
+
+#: bounce_handling.php:51 integrations/twilio.php:42
+msgid "Save Settings"
+msgstr ""
+
+#: bounce_handling.php:61
+msgid "Test bounce settings"
+msgstr ""
+
+#: bounce_handling.php:74
+msgid "Successful"
+msgstr ""
+
+#: bounce_handling.php:75
+msgid "Failed"
+msgstr ""
+
+#. Section ID
+#. Field ID
+#: bounce_handling.php:88 bounce_handling.php:94
+msgid "Bounce Email"
+msgstr ""
+
+#. Section ID
+#: bounce_handling.php:112
+msgid "POP3 credentials"
+msgstr ""
+
+#. Field ID
+#: bounce_handling.php:118
+msgid "Server Address"
+msgstr ""
+
+#. Field ID
+#: bounce_handling.php:128
+msgid "Port"
+msgstr ""
+
+#. Field ID
+#: bounce_handling.php:138
+msgid "SSL"
+msgstr ""
+
+#: bounce_handling.php:145
+msgid "Use SSL"
+msgstr ""
+
+#. Field ID
+#: bounce_handling.php:151
+msgid "Username"
+msgstr ""
+
+#. Field ID
+#: bounce_handling.php:161
+msgid "Password"
+msgstr ""
+
+#: bounce_handling.php:178
+msgid "Can not send email"
+msgstr ""
+
+#: bounce_handling.php:208
+msgid "Incorrect POP3 settings"
+msgstr ""
+
+#: bounce_handling.php:274
+msgid "Mailbox Full"
+msgstr ""
+
+#: bounce_handling.php:275
+msgid "When mailbox is full"
+msgstr ""
+
+#: bounce_handling.php:280
+msgid "Mailbox not available"
+msgstr ""
+
+#: bounce_handling.php:281
+msgid "When mailbox is not available"
+msgstr ""
+
+#: bounce_handling.php:286
+msgid "Message delayed"
+msgstr ""
+
+#: bounce_handling.php:287
+msgid "When message is delayed"
+msgstr ""
+
+#: bounce_handling.php:292
+msgid "Failed Permanently"
+msgstr ""
+
+#: bounce_handling.php:293
+msgid "When failed permanently"
+msgstr ""
+
+#: bounce_handling.php:298
+msgid "Action Required"
+msgstr ""
+
+#: bounce_handling.php:299
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr ""
+
+#: bounce_handling.php:304
+msgid "Blocked IP"
+msgstr ""
+
+#: bounce_handling.php:305
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr ""
+
+#: bounce_handling.php:310
+msgid "Final Rule"
+msgstr ""
+
+#: bounce_handling.php:311
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr ""
+
+#: email_rules.php:184 email_rules.php:222 email_rules.php:237
+msgid "Unsubscribe"
+msgstr ""
+
+#: email_rules.php:440
+msgid "Send text email"
+msgstr ""
+
+#: email_rules.php:446 email_rules.php:506
+msgid "From email"
+msgstr ""
+
+#: email_rules.php:451 email_rules.php:511
+msgid "From name"
+msgstr ""
+
+#: email_rules.php:456 email_rules.php:516
+msgid "Reply to"
+msgstr ""
+
+#: email_rules.php:461 email_rules.php:521
+msgid "Unsubscribe page"
+msgstr ""
+
+#: email_rules.php:468
+msgid "Email subject"
+msgstr ""
+
+#: email_rules.php:478 email_rules.php:535
+msgid "Emails number per batch"
+msgstr ""
+
+#: email_rules.php:492 email_rules.php:549
+msgid "Delay between every email send (microseconds)"
+msgstr ""
+
+#: email_rules.php:500
+msgid "Send HTML email"
+msgstr ""
+
+#: email_rules.php:530
+#, php-format
+msgid "Please <a href=\"%s\">create a email template</a> via AZEXO Builder"
+msgstr ""
+
+#: email_rules.php:657
+msgid "Email receivers"
+msgstr ""
+
+#: email_rules.php:658
+msgid "Email sent"
+msgstr ""
+
+#: email_rules.php:659
+msgid "Email open"
+msgstr ""
+
+#: email_rules.php:660
+msgid "Email clicks"
+msgstr ""
+
+#: email_rules.php:661
+msgid "Email unsubscribes"
+msgstr ""
+
+#: email_rules.php:662
+msgid "Email bounces"
+msgstr ""
+
+#: integrations/twilio.php:19
+msgid "Wrong Twilio account settings"
+msgstr ""
+
+#: integrations/twilio.php:26 integrations/twilio.php:35
+msgid "SMS settings"
+msgstr ""
+
+#. Section ID
+#: integrations/twilio.php:57
+msgid "Twilio settings"
+msgstr ""
+
+#. Field ID
+#: integrations/twilio.php:63
+msgid "Account SID"
+msgstr ""
+
+#: integrations/twilio.php:69 integrations/twilio.php:80
+msgid ""
+"To view API credentials visit <a href=\"https://www.twilio."
+"com/user/account/voice-sms-mms\">your twilio account</a>"
+msgstr ""
+
+#. Field ID
+#: integrations/twilio.php:74
+msgid "Auth-token"
+msgstr ""
+
+#. Field ID
+#: integrations/twilio.php:85
+msgid "Twilio Number"
+msgstr ""
+
+#: integrations/twilio.php:91
+msgid "Country code + 10-digit Twilio phone number (i.e. +16175551212)"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:21
+msgid "Product categories"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:22
+msgid "Product tags"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:23
+msgid "Shop page"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:29 integrations/woocommerce_rules.php:101
+#: integrations/woocommerce_rules.php:367
+#: integrations/woocommerce_rules.php:520
+msgid "Please install WooCommerce plugin or add categories"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:39 integrations/woocommerce_rules.php:122
+#: integrations/woocommerce_rules.php:393
+#: integrations/woocommerce_rules.php:491
+msgid "Please install WooCommerce plugin or add tags"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:45
+msgid "First Purchase"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:59
+msgid "Purchase"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:73
+msgid "Purchase specific product"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:80 integrations/woocommerce_rules.php:341
+#: integrations/woocommerce_rules.php:462
+msgid "Product ID"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:92
+msgid "Purchase product from categories"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:113
+msgid "Purchase product from tags"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:134
+msgid "New review posted"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:148
+msgid "Review rating"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:163
+msgid "Rating"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:169
+msgid "Order Total"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:185
+#: integrations/woocommerce_rules.php:244
+#: integrations/woocommerce_rules.php:428
+msgid "Amount"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:192
+msgid "Last purchase date"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:197
+msgid "Purchase date"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:218
+msgid "No purchases"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:224
+msgid "Total amount spent"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:251
+msgid "Number of orders"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:270
+msgid "Number"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:277
+msgid "Reward user by points based on order total"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:283
+msgid "Conversion ratio"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:291
+msgid "Cart calculate fees"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:292
+msgid "All conditions will be linked with current site visitor"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:296
+msgid "Apply discount to cart"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:302
+#: integrations/woocommerce_rules.php:321
+#: integrations/woocommerce_rules.php:346
+#: integrations/woocommerce_rules.php:372
+#: integrations/woocommerce_rules.php:398
+msgid "Name"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:308
+#: integrations/woocommerce_rules.php:352
+#: integrations/woocommerce_rules.php:378
+#: integrations/woocommerce_rules.php:404
+msgid "Discount (%)"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:315
+msgid "Apply points based discount to cart"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:328
+msgid "Conversion rate"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:335
+msgid "Apply discount to product in cart"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:359
+msgid "Apply discount to products with categories in cart"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:385
+msgid "Apply discount to products with tags in cart"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:412
+msgid "Cart Total"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:435
+msgid "Cart items count"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:457
+msgid "Cart contain product"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:477
+#: integrations/woocommerce_rules.php:506
+#: integrations/woocommerce_rules.php:535
+msgid "Quantity"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:484
+msgid "Cart contain product with tag"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:489
+msgid "Product tag"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:513
+msgid "Cart contain product with category"
+msgstr ""
+
+#: integrations/woocommerce_rules.php:518
+msgid "Product category"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Marketing Automation by AZEXO"
+msgstr ""
+
+#. Author of the plugin
+msgid "azexo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://azexo.com"
+msgstr ""

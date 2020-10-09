@@ -1,0 +1,462 @@
+#azm-email-template-upload {
+    position: fixed;
+    top:-1000px;
+}
+
+.azm-progress {
+    border: 1px solid grey;
+    display: inline-block;
+    height: 28px;
+    width: 150px;
+    position: relative;
+    vertical-align: middle;
+}
+
+.azm-status {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 0;
+    background-color: green;
+}
+
+.azm-templates {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.azm-templates .azm-template {
+    width: ~"calc(20% - 14px)";
+    padding: 5px;
+    background-color: whitesmoke;
+    margin: 2px;
+    text-decoration: none;
+    text-align: center;
+}
+.azm-templates .azm-template img {
+    max-width: 100%;
+}
+.azm-templates .azm-template.azm-active { 
+    background-color: blueviolet;
+}
+
+.azm-templates .azm-template:hover {
+    background-color: black;
+}
+
+.azm-templates .azm-template .azm-name {    
+    font-size: 20px;
+    padding: 10px;
+}
+
+.azm-templates .azm-template:hover .azm-name, .azm-templates .azm-template.azm-active .azm-name {
+    color: white;
+}
+
+body.post-type-azm_email_template:not(.azm-template) #postdivrich,
+body.post-type-azm_email_template:not(.azm-template) #azh-switch-mode,
+body.post-type-azm_email_template #normal-sortables,
+body.post-type-azm_email_template:not(.azm-template) #edit-slug-box,
+body.post-type-azm_email_template a.azh-switcher {
+    display: none;
+}
+
+body.post-type-azm_email_template:not(.azm-template) #titlediv {
+    margin-bottom: 0;
+}
+
+
+body.post-type-azr_rule {
+    .column-results {
+        [data-action] {
+            column-count: 2;
+        }
+    }
+}
+
+[data-status="paused"] .azm-pause,
+[data-status="paused"] .azm-running,
+[data-status="paused"] .azm-draft,
+[data-status="paused"] .azm-finished,
+[data-status="running"] .azm-run,
+[data-status="running"] .azm-paused,
+[data-status="running"] .azm-draft,
+[data-status="running"] .azm-finished,
+[data-status="finished"] .azm-pause,
+[data-status="finished"] .azm-paused,
+[data-status="finished"] .azm-draft,
+[data-status="finished"] .azm-running,
+[data-status=""] .azm-pause,
+[data-status=""] .azm-running,
+[data-status=""] .azm-paused,
+[data-status=""] .azm-finished
+{
+    display: none;
+}
+
+.azm-visitor-history {
+    max-height: 500px;
+    overflow-y: scroll;
+}
+
+
+#azm-leads-import {
+    position: fixed;
+    top:-1000px;
+}
+
+@import "variables.less";
+
+@brand-color: #20a8d8;
+@accent-color: #79c447;
+.font-settings() {
+    /*font-family: "Open Sans";*/ 
+    font-weight: 400;
+    font-size: 15px;
+    color: #222;
+    line-height: 1.33;   
+}
+.control() {
+    /*font-family: "Open Sans";*/
+    line-height: 30px;
+    height: 30px;
+    padding: 0 10px;
+    border: 1px solid #ddd;
+    background-color: transparent;
+    .placeholder(color, #ccc);
+    &:active, &:focus {
+        outline: 0;
+    }        
+}
+
+.horizontal-list(@width, @offset) {
+    font-size: 0;
+    margin-left: -@offset !important;
+    margin-right: -@offset !important;
+    &.p {
+        > * {
+            margin-bottom:  0;
+        }
+    }
+    > * {
+        box-sizing: border-box;
+        display: inline-block;
+        vertical-align: top;
+        width: @width;
+        padding-left: @offset !important;
+        padding-right: @offset !important;
+        font-size: 15px;
+    }
+    @media (max-width: 768px) {
+        display: block;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        > * {
+            display: block;
+            width: 100% !important;
+            padding-left: 0 !important;
+            padding-right: 0 !important;            
+            margin-bottom:  @offset * 2 !important;
+        }
+    }
+}
+
+.checkbox() {
+    input[type="checkbox"] {
+        position: absolute; 
+        clip: rect(0, 0, 0, 0);
+        + .azm-checkbox {
+            position: relative;
+            transition: all 0.4s ease-in-out;
+            background-color: #ddd;
+            display: inline-block;
+            height: 20px;
+            width: 35px;
+            border-radius: 10px;
+            label {
+                position: absolute;                                    
+                cursor: pointer;
+                display: block;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                &::before {
+                    content: "";
+                    position: absolute;  
+                    background-color: white;
+                    display: inline-block;
+                    transition: all 0.2s ease-in-out;
+                    border-radius: 10px;
+                    height: 16px;
+                    width: 16px;
+                    top: 2px;
+                    left: 2px;
+                }
+            }
+        }
+        &:checked + .azm-checkbox {
+            background-color: @brand-color;
+            label::before {
+                left: 17px;
+            }                                    
+        }
+    }
+}
+.radio() {
+    .azm-radio {
+        display: table;
+        margin-left: -13px;
+        label {
+            display: table-cell;
+            padding-left: 45px;
+            position: relative;
+            cursor: pointer;
+            &::before {
+                content: "";
+                position: absolute;
+                right: ~"calc(100% - 37px)";
+                top: 0;
+                height: 20px;
+                width: 20px;
+                border: 1px solid @brand-color;
+                border-radius: 100%;
+            }
+            &::after {
+                content: "";
+                position: absolute;
+                right: ~"calc(100% - 34px)";
+                top: 3px;
+                height: 16px;
+                width: 16px;
+                background-color: @brand-color;
+                border-radius: 100%;
+                transition: all 0.1s ease-in-out;
+                transform: scale(0);
+            }
+        }
+        input[type="radio"] {
+            position: absolute; 
+            clip: rect(0, 0, 0, 0);
+            &:checked + label {
+                &::after {
+                    transform: scale(1);
+                }
+            }
+        }
+    }
+}
+
+.table() {
+    border-collapse: collapse;
+    width: 100%;
+    thead {
+        tr {
+            th {
+                font-size: 14px;
+                font-weight: 600;
+                color: #222;
+                text-align: center;
+                vertical-align: middle;
+                padding: 12px;
+                border: 1px solid #ddd; 
+            }
+        }
+    }
+    tbody {
+        tr {
+            transition: all 0.4s;
+            &:hover {
+                background-color: #f9f9f9;
+            } 
+            &.azm-selected {
+                background-color: #eee;
+            }
+            td {
+                vertical-align: middle;
+                padding: 12px;
+                border: 1px solid #ddd;
+            }
+        }            
+    }    
+}
+
+#simplemodal-overlay {
+    opacity: .4 !important;
+}
+
+.azm-modal {
+    .font-settings();
+    background-color: white;
+    box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2);
+    padding: 30px;
+    input, select, textarea { 
+        .control();
+        width: 100%;
+        box-sizing: border-box;
+        &[multiple] {
+            padding: 10px;
+            height: 120px;
+        }
+    }
+    .checkbox();
+    table {
+        .table();
+        font-size: 12px;
+        thead {
+            tr {
+                th {
+                    > * {
+                        margin-bottom: 5px;
+                    }                    
+                }                                
+            }
+        }
+    }
+    .azm-modal-title {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        white-space: nowrap;
+    }
+
+    .azm-modal-desc {
+        margin-bottom: 20px;
+    }
+
+    .azm-modal-label {
+        font-size: 13px;
+        color: #222;
+        position: relative;
+        font-weight: 600;
+        margin-bottom: 5px;
+    }
+
+    .azm-modal-label:after {
+        content: ':';
+    }
+
+    .azm-modal-control {
+        margin-bottom: 10px;
+    }
+
+    .azm-modal-actions {
+        margin-top: 30px;
+    }
+    .azm-modal-actions > div{
+        cursor: pointer;
+        text-transform: uppercase;
+        font-weight: bold;
+        color: @brand-color;
+        display: inline-block;
+        margin-right: 30px;
+        transition: all 0.4s;
+        &:hover {
+            color: #222;
+        }
+    }    
+    .azm-import-options {
+        margin-top: 30px;
+        .azm-option {            
+            .azm-option-title {
+                margin-bottom: 10px;
+                font-weight: 600;
+            }
+            .radio();
+        }
+    }
+    .azm-mapping {
+        max-width: 1000px;
+        overflow-x: scroll;
+        table {
+            thead {
+                tr {
+                    th {
+                        min-width: 170px;
+                    }
+                }                
+            }
+        }
+    }
+    .azm-id-field {
+        > * {
+            vertical-align: middle;
+        }        
+        .azm-label {
+            margin-left: 10px;
+        }
+    }
+    .azm-templates {
+        width: 1000px;
+        .horizontal-list(~"calc(33.333% - 0.5px)", 15px);
+        .azm-template {       
+            cursor: pointer;
+            padding-top: 15px;
+            padding-bottom: 12px;
+            transition: all 0.4s;
+            &:hover {
+                background-color: @brand-color;
+                .azm-name {
+                    color: white;
+                }
+            }
+            .azm-preview {
+                height: 180px;
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+            .azm-name {
+                transition: all 0.4s;
+                font-weight: 600;
+                margin-top: 10px;
+                text-align: center;
+            }
+        }
+    }
+}
+
+.azm-import-export {
+    .azm-progress {
+        display: none;
+        position: fixed;
+        z-index: 100500;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: white;
+        .azm-bar {
+            position: absolute;
+            top: ~"calc(50% - 25px)";
+            left: ~"calc(50% - 150px)";
+            width: 300px;
+            height: 50px;
+            border: 1px solid #eee;
+            .azm-operation {
+                position: absolute;
+                bottom: ~"calc(100% + 5px)";
+                left: 0;
+            }
+            .azm-status {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                width: 50%;
+                background-color: @brand-color;
+            }        
+        }
+    }
+}
+
+body.wp-admin {
+    .azm-import-export {
+        .azm-progress {
+            max-height: 500px;
+        }    
+    }
+}

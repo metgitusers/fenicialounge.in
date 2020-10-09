@@ -1,0 +1,466 @@
+html,body{
+height: 100%;
+}
+body {
+padding-top: 0px;
+padding-bottom: 0px;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+position:relative;
+background: #181818;
+}
+a,
+a:active,
+a:focus,
+button,
+button:focus,
+button:active,
+.btn,
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus,
+.btn.focus,
+.btn.focus:active,
+.btn.active.focus {
+outline: none;
+outline: 0;
+text-decoration: none !important;
+}
+input::-moz-focus-inner {
+border: 0;
+}
+@-webkit-keyframes bounce {
+0%       { bottom:0px; }
+50%      { bottom:15px; }
+100%     {bottom:30;}
+}
+@-moz-keyframes bounce {
+0%       { bottom:0px; }
+50%      { bottom:15px; }
+100%     {bottom:30;}
+}
+@-o-keyframes bounce {
+0%       { bottom:0px; }
+50%      { bottom:15px; }
+100%     {bottom:30;}
+}
+@keyframes bounce {
+0%       { bottom:0px; }
+50%      { bottom:15px; }
+100%     {bottom:30;}
+}
+.clr{
+clear: both;
+}
+@font-face {
+font-family: 'Alimony';
+src: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/fonts/Alimony.eot?#iefix) format('embedded-opentype'),  url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/fonts/Alimony.woff) format('woff'), url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/fonts/Alimony.ttf)  format('truetype'), url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/fonts/Alimony.svg#Alimony) format('svg');
+font-weight: normal;
+font-style: normal;
+}
+.inner_page.main_header {position: inherit;left:inherit;top:inherit;z-index: inherit;}
+.top_logo {width: auto;position: absolute;left: 41px;top: 10px;}
+.top_logo img {max-width: 89px;height: auto;}
+.main_header {width: 100%;padding: 26px 0;background: rgba(0, 0, 0, 0.7);position: absolute;left: 0;top: 0;z-index: 99; }
+.home .stellarnav ul li a {color:#fff!important;border-right: 1px solid #fff;}
+.header_navigation {width:100%;text-align: center;position: relative;}
+.top_social {width:auto;float: right;}
+.top_social a {display: inline-block;padding: 0 2px;}
+.top_social .fa {color:#bc7c1a;font-size: 20px;}
+.top_social .fa:hover {color:#fff;}
+.home .top_social .fa:hover {color:#fff;}
+.top_reserv {width:148px;position: absolute;right:0;top:0;background: #f9b92d;}
+.top_reserv a {font-family: 'Alimony';display: inline-block;line-height: 34px;text-transform: uppercase;font-size: 18px;color: #000;text-align: center;width: 100%;}
+.top_reserv span {background: #e9a324;line-height: 34px;color:#000;font-size: 16px;width:26px;float: right;text-align: center;}
+.stellarnav {width:auto!important;background: none !important;float: left;}
+.stellarnav ul li a {padding: 0 10px !important;font-family: 'Alimony' !important;font-weight: normal!important;text-transform: uppercase;color:#fff!important;font-size: 18px!important;border-right: 1px solid #fff;}
+.stellarnav ul li a:hover {color:#bc7c1a!important;}
+.stellarnav ul li.current-menu a {color:#bc7c1a!important;}
+.top_reserv:hover {background: #bc7c1a;}
+.home .top_reserv:hover {background: #bc7c1a;}
+.top_reserv:hover a {color:#fff;}
+.header_navigation_inner {width: 675px;margin: 0 auto;padding-top: 8px;}
+.stellarnav ul {text-align: left!important;}
+.stellarnav ul li:last-child a {border-right: none;}
+.body_wrapper {width: 100%;position: relative;}
+.body_wrapper .carousel .item img {width: 100%;display: block;height: 100%;object-fit: cover;}
+.body_wrapper .carousel .item {height: 531px;}
+.carousel-indicators li {display: block;width:23px;height: 1px;border-radius: 0;margin: 0 0 8px;padding: 0;}
+.carousel-indicators .active {width:16px;height: 1px;border-radius: 0;margin: 0 0 8px;padding: 0;text-align: right;position: relative;left: 6px;}
+.carousel-indicators {bottom:inherit;top:94px;left:inherit;right:15px;width:23px;text-align: right;margin: 0;}
+.bodylayer {width: 100%;height: 100%;position: absolute;left:0;top:0;}
+.body_navigation {width:998px;margin:  -175px 0 0;position: absolute;right: 15px;top: 50%;}
+.logowrap {width:324px;float:left;}
+.logo {background: #000;width:324px;text-align: center;display: table;}
+.logo a {width: 100%;height: 441px;display: table-cell;vertical-align: middle;}
+.nav_plates {width: 674px;float: right;position: relative;overflow: hidden;}
+.nav_plates b {width: 20%;float:left;text-align: center;-webkit-transition: all 0.4s ease 0s;-moz-transition: all 0.4s ease 0s;-ms-transition: all 0.4s ease 0s;-o-transition: all 0.4s ease 0s;transition: all 0.4s ease 0s;cursor: pointer;}
+.nav_plates_inner {width:100%;display: table;}
+.nav_plates_inner a {display: table-cell;vertical-align: middle;height: 441px;width: 172px;font-size: 20px;color:#fff;text-transform: uppercase;-webkit-transition: all 0.4s ease 0s;-moz-transition: all 0.4s ease 0s;-ms-transition: all 0.4s ease 0s;-o-transition: all 0.4s ease 0s;transition: all 0.4s ease 0s;}
+.nav_plates_inner a span{transform: rotate(90deg);}
+.nav_plates_inner b:nth-child(1) {background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn1.jpg) repeat 0 0;animation-duration: 2s;animation-name: flipInY;}
+.nav_plates_inner b:nth-child(2) {background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn2.jpg) repeat 0 0;animation-duration: 2.5s;animation-name: flipInY;}
+.nav_plates_inner b:nth-child(3) {background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn3.jpg) repeat 0 0;animation-duration: 3s;animation-name: flipInY;}
+.nav_plates_inner b:nth-child(4) {background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn4.jpg) repeat 0 0;animation-duration: 3.5s;animation-name: flipInY;}
+.nav_plates_inner b:nth-child(5) {background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn1.jpg) repeat 0 0;animation-duration: 4s;animation-name: flipInY;}
+.nav_plates_inner b:nth-child(6) {background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn2.jpg) repeat 0 0;animation-duration: 4.5s;animation-name: flipInY;}
+.nav_plates_inner span font {
+text-shadow:2px 0px 3px #000;
+font-weight: 700;
+}
+.homepage_version2 .nav_plates_inner a:nth-child(1) {background: #a67c00;}
+.homepage_version2 .nav_plates_inner a:nth-child(2) {background: #bf9b30;}
+.homepage_version2 .nav_plates_inner a:nth-child(3) {background: #ffbf00;}
+.homepage_version2 .nav_plates_inner a:nth-child(4) {background: #ffcf40;}
+.homepage_version2 .nav_plates_inner a:nth-child(5) {background: #ffdc73;}
+.homepage_version2 .nav_plates_inner a:nth-child(6) {background: #a67c00;}
+.footer {width: auto;position: absolute;bottom:4px;left:19px;}
+.footer p {margin: 0;font-size: 12px;color:#fff;text-transform: uppercase;}
+.footer p a {color:#fff;} .nav_plates_inner b.current font {display: block; }
+.expand_info {width: 100%;text-align: center;display: none;}
+.expand_info p {color:#fff;line-height: 18px;font-size: 13px;text-transform: none;padding: 0 8px;margin: 10px 0 0;}
+.expand_info p a {color:#fff;}
+.nav_plates_inner b.current .expand_info {display: block;}
+#site-wrapper {
+position: relative;
+overflow: hidden;
+width: 100%;
+}
+#site-canvas {
+width: 100%;
+height: 100%;
+position: relative;
+-webkit-transform: translateX(0);
+transform: translateX(0);
+-webkit-transition: .3s ease all;
+transition: .3s ease all;
+}
+#site-menu {
+width: 937px;
+height: 100%;
+position: absolute;
+top: 0;
+right: -937px;
+background: #181818;
+}
+#site-wrapper.show-nav #site-canvas {
+-webkit-transform: translateX(-937px);
+transform: translateX(-937px);
+}
+#site-canvas {
+-webkit-transform: translate3d(0);
+transform: translate3d(0);
+-webkit-backface-visibility: hidden;
+backface-visibility: hidden;
+}
+.show-nav #site-canvas {
+-webkit-transform: translate3d(937px);  
+transform: translate3d(937px);  
+} .page_left_menu {width:100%;}
+.page_left_menu_logo img {max-width: 100%;display: block;margin: 0 auto;}
+.page_left_menu_logo {width: 100%;background: #000;padding: 25px 0;}
+.page_left_menu_listing {width:100%;}
+.page_left_menu_listing ul {width:100%;margin: 0;padding: 0;overflow: hidden;}
+.page_left_menu_listing ul li {
+list-style: none;
+display: block;
+width: 100%;
+margin: 0; }
+.page_left_menu_listing ul li a {color:#fff;font-size: 26px;text-transform: uppercase;display: block;width:100%;background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/arrow-bullet.png) no-repeat 0 0;background-position:center right 40px;
+padding: 0 60px 0 15px;font-family: 'Alimony';
+line-height: 55px; } .input_seprt_edit {width: 100%;display: inline-block;}
+.input_seprt_left input {border: 1px solid #de931e;background: #323232;height: 34px;padding: 0 0 0 10px;color: #fff;font-size: 13px;width: 100%;}
+.contact_page {width: 100%;display: inline-block;}
+.contact_page span.tel_nine {width: 50px;float: left;}
+.contact_page span.tel {width:174px;float: right;}
+.page_left_footer {width:100%;background: #181818;padding: 13px 0;text-align: center;min-height: 46px;}
+.page_left_footer p {margin: 0;text-transform: uppercase;color:#fff;font-size: 10px;font-family: 'Roboto', sans-serif;font-weight: 400;}
+.page_left_footer p a {color:#fff;}
+.page_middle {width:100%;background: #181818;padding: 20px 25px;}
+.page_middle_breadcrumb {width:100%;margin: 0 0 30px;}
+.page_middle_breadcrumb ul {width: 100%;margin: 0;padding: 0;}
+.page_middle_breadcrumb ul li {list-style: none;display: inline-block;margin: 0;padding: 0;}
+.page_middle_breadcrumb ul li a {font-family: 'Alimony';display: block;text-transform: uppercase;color:#fff;font-size: 18px;border-right:1px solid #fff;line-height: 16px;padding: 0 7px 0 0;}
+.page_middle_breadcrumb ul li.selected a {color:#777777;}
+.page_middle_breadcrumb ul li:last-child a {border-right:none;}
+.forgap2 {padding: 0;}
+.page_middle iframe {margin: 0 0 30px;}
+.forgap1 {padding-right: 0;padding-left: 0;}
+.page_middle_info {width:100%;height: 440px;}
+.page_middle_info h1 {color:#fff;font-size: 29px;margin: 0 0 20px;font-family: 'Alimony';}
+.page_middle_info p {color:#b2b2b2;font-size: 16px;line-height: 22px;margin: 0 0 20px;font-family: 'Roboto', sans-serif;font-weight: 400;}
+.page_right {width:100%;height: 531px;}
+.page_right img {width: 100%;height: 100%;object-fit: cover;}
+.forgap3 {padding-left: 0;padding-right: 0;}
+.mobilefooter {display: none;}
+.form_box {width:100%;margin: 0 0 9px;}
+.form_box input {width: 100%;background: none;outline: none;height: 34px;border:1px solid #de931e;padding: 0 0 0 10px;color:#fff;font-size: 13px;}
+.page_middle_info h2 {color:#fff;font-size: 16px;margin: 0 0 20px;line-height: 22px;font-family: 'Alimony';}
+.page_middle_info a {color:#de931e;font-family: 'Roboto', sans-serif;font-weight: 400;}
+.form_box textarea {width: 100%;background: none;height: 160px;border:1px solid #de931e;padding: 10px 0 0 10px;color:#fff;font-size: 13px;resize: none;}
+.form_box input[type="submit"] {width: 100%;background: #de931e;height: 34px;border:none;padding: 0;color:#000;font-size: 18px;text-transform: uppercase;font-weight: bold;}
+.styled-select select {outline:none;background: transparent;width: 100%;padding: 0 0 0 10px;color:#b2b2b2;font-size: 13px;border-radius: 0;height: 34px;-webkit-appearance: none;border: 1px solid #de931e;}
+.styled-select {
+width: 100%;
+height: 34px;
+overflow: visible;
+background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/yellow-triangle.png) no-repeat 0 0 transparent;
+border: 1px solid #de931e;
+margin: 0 0 11px;
+background-position: 97%;
+}
+.contact_submit_box {width:100%;display: inline-block;}
+.contact_check {width: auto;float:left;color:#b2b2b2;font-size: 13px;}
+.contact_submit {width:239px; margin:0 auto;}
+.contact_submit input[type="submit"] {width: 100%;background: #de931e;height: 34px;border:none;padding: 0;color:#000;font-size: 18px;text-transform: uppercase;font-weight: bold;}
+.gallery_box {width: 100%;border:1px solid #646464;margin: 0 0 25px;}
+.gallery_box img {width:100%;display: block;}
+.gallery_box:hover {border:1px solid #de931e;}
+.reservation_left {width: 100%;margin: 0 0 30px;}
+.reservation_left h2 {font-family: 'Alimony';color:#c0c0c0;font-size: 17px;margin: 0 0 5px;}
+.reservation_left h1 {font-size: 29px;margin: 0 0 13px;font-family: 'Alimony';}
+.reservation_left h3 {font-size: 12px;color:#fff;font-family: 'Roboto', sans-serif;margin: 0 0 18px;}
+.reservation_left .styled-select {background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/gray-triangle.png) no-repeat 0 0 #323232;border:none;background-position: 97%;}
+.reservation_left .form_box input {background: #323232;border: 1px solid #de931e;}
+.reservation_left .form_box input.datepicker {background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/calendar-icon.png) no-repeat 0 0 #323232;background-position: 97%;}
+.input_seprt {width: 100%;}
+.input_seprt_left {width: 75px;float:left;}
+.input_seprt_right {width: 405px;float:right;}
+.input_seprt_left .styled-select {background-position: 90%;}
+.reservation_left .contact_submit {width: 100%;margin-top: 27px;}
+.resrv_radio {width: 100%;display: inline-block;margin: 7px 0 12px;color:#e5e5e5;font-size: 13px;}
+.resrv_radio span {float:left;width:auto;color:#e5e5e5;font-size: 13px;margin-right: 20px;}
+.resrv_radio input {margin-left: 30px;}
+.reservation_right {width: 100%;}
+.reservation_right h2 {font-size: 29px;margin: 0 0 13px;text-transform: uppercase;color: #fff;font-family: 'Alimony';}
+.hour_box {width: 100%;margin: 0 0 29px;}
+.hour_box h3 {font-size: 19px;color: #de931e;margin: 0 0 13px;font-family: 'Alimony';}
+.hour_box p {color: #c0c0c0;font-size: 13px;line-height: 23px;}
+.hour_box p span {font-style: italic;display: inline-block;font-size: 15px;margin-top: 10px;line-height: 16px;}
+.hour_box a {display: inline-block;font-size: 18px;color: #de931e;font-family: 'Alimony';}
+span.reserv_close {width: 40px;height:40px;position: absolute;right:20px;top:20px;border-radius: 50%;background: #de931e;text-align: center;}
+span.reserv_close .fa {color:#000;font-size: 22px;padding-top: 9px;}
+a#navt {position: absolute;right:13px;top:-33px;}
+.body_wrapper img {width: 100%;display: block;}
+.logo img {width: auto;max-width: 100%;display: block;margin: 0 auto;}
+.page_left_menu_logo img {width: auto;max-width: 100%;display: block;margin: 0 auto;}
+.page_left_menu_listing ul li.active_sidemenu {background: #794a01;}
+.reservation_left .form_box textarea {background: #323232;border: 1px solid #de931e;}
+.hour_box iframe {height: 200px;}
+a.current .expand_info {display: block;}
+.page_middle_info h1 span {font-size: 16px;}
+.contact_page select option {background: #181818;color:#fff;}
+.reservation_left select option {background: #323232;color:#fff;}
+div.wpcf7-validation-errors, div.wpcf7-acceptance-missing{
+display: inline-block;
+color: red;
+border: 2px solid red;
+font-weight: 700;
+}
+.error {
+color: red;
+font-weight: 700;
+font-size: 13px;
+line-height: 17px;
+}
+span.wpcf7-not-valid-tip{font-weight: 700;}
+div.wpcf7-mail-sent-ok{color: green; border: 2px solid green;display: inline-block;font-weight: 700;} 
+.eventtime{
+background: none!important;
+background-position: none!important;
+}
+.eventtime input[type="text"] {
+background: #323232!important;
+width: 100%;
+height: 37px;
+padding: 0 0 0 10px;
+color: #fff!important;
+outline: none;
+border: 1px solid #de931e;
+}
+.newsletter span.wpcf7-list-item{
+margin-left: 0;
+}
+.contact_check .wpcf7-form-control-wrap .wpcf7-list-item-label{
+position: relative;
+top: -3px;
+}
+.tnp-profile form .tnp-field label{color: #fff!important;}
+.tnp-profile form .tnp-field input[type="text"]{
+width: 300px;
+} .nav_plates_inner b:hover {
+-webkit-transform: scale(1.15);
+-moz-transform: scale(1.15);
+-o-transform: scale(1.15);
+-ms-transform: scale(1.15);
+transform: scale(1.15);
+}
+.page_left_menu_listing ul li:nth-child(1) {
+background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn1.jpg) repeat 0 0;
+}
+.page_left_menu_listing ul li:nth-child(2) {
+background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn2.jpg) repeat 0 0;
+}
+.page_left_menu_listing ul li:nth-child(3) {
+background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn3.jpg) repeat 0 0;
+}
+.page_left_menu_listing ul li:nth-child(4) {
+background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn4.jpg) repeat 0 0;
+}
+.page_left_menu_listing ul li:nth-child(5) {
+background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/bn1.jpg) repeat 0 0;
+}
+.page_left_menu_listing ul li:nth-child(6) {background: #bc7c1a;}
+.page_left_menu_listing ul li a{
+text-shadow:2px 0px 3px #000;
+font-weight: 700;
+}
+.page_left_menu_listing ul li{
+-webkit-transition: all 0.4s ease 0s;
+-moz-transition: all 0.4s ease 0s;
+-ms-transition: all 0.4s ease 0s;
+-o-transition: all 0.4s ease 0s;
+transition: all 0.4s ease 0s;
+}
+.page_left_menu_listing ul li:hover{
+-webkit-transform: scale(1.1);
+-moz-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+} .carousel-fade .carousel-inner .item {
+opacity: 0;
+transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+left: 0;
+opacity: 0;
+z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+opacity: 1;
+}
+.carousel-fade .carousel-control {
+z-index: 2;
+}
+@media all and (transform-3d), (-webkit-transform-3d) {
+.carousel-fade .carousel-inner > .item.next,
+.carousel-fade .carousel-inner > .item.active.right {
+opacity: 0;
+-webkit-transform: translate3d(0, 0, 0);
+transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-inner > .item.prev,
+.carousel-fade .carousel-inner > .item.active.left {
+opacity: 0;
+-webkit-transform: translate3d(0, 0, 0);
+transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-inner > .item.next.left,
+.carousel-fade .carousel-inner > .item.prev.right,
+.carousel-fade .carousel-inner > .item.active {
+opacity: 1;
+-webkit-transform: translate3d(0, 0, 0);
+transform: translate3d(0, 0, 0);
+}
+} .eventbox {
+margin-top: 50px;
+padding: 10px;
+border: 1px solid #808080;
+border-radius: 5px;
+}
+.eventbox h2{
+margin: 0 0 15px 0;
+padding: 0;font-family: 'Alimony';
+}
+.eventbox h2 a{
+font-size: 24px;
+color: #fff;
+font-family: 'Alimony';
+}
+.eventbox .eventtime {
+margin: 0 0 20px 0;
+padding: 0;
+clear: both;
+display: table;
+width: 100%;
+}
+.eventbox .eventtime li{
+float: left;
+padding: 0 15px;
+border-right: 1px solid #eee;
+list-style-type: none;
+line-height: 14px;
+}
+.eventbox .eventtime li:last-child{
+border-right: none;
+}
+.eventbox .eventtime li:first-child{
+padding-left: 0;
+}
+.eventbox .eventtime li{
+color: #fff;
+font-size: 12px;
+font-family: 'Roboto', sans-serif;font-weight: 400;
+}
+.eventbox .eventtime li i{
+color: #e9a324;
+font-size: 14px;
+margin-right: 10px;
+vertical-align: middle;
+}
+.eventboxinner .eventtime {
+padding: 0;
+clear: both;
+width: 100%;
+display: table;
+}
+.eventboxinner .eventtime li{
+float: left;
+padding: 0 15px;
+border-right: 1px solid #eee;
+list-style-type: none;
+line-height: 14px;
+}
+.eventboxinner .eventtime li:last-child{
+border-right: none;
+}
+.eventboxinner .eventtime li:first-child{
+padding-left: 0;
+}
+.eventboxinner .eventtime li{
+color: #fff;
+font-size: 12px;
+}
+.eventboxinner .eventtime li i{
+color: #e9a324;
+font-size: 14px;
+margin-right: 10px;
+vertical-align: middle;
+} #site-wrapper{
+height: 100vh;
+}
+.loader {
+position: fixed;
+left: 0px;
+top: 0px;
+width: 100%;
+height: 100%;
+z-index: 9999;
+background: url(//www.fenicialounge.in/manage/wp-content/themes/fenicia/assets/images/loader-logo.png) 50% 50% no-repeat #000;
+opacity: 1;
+}  
+.n2-ss-layer.n2-ow {
+width: 500px!important;
+margin: 0 auto !important;
+}
+div#n2-ss-2 .n2-ss-slider-2{height:100vh!important;}
+.page_middle_info p span {color: #fff;}
+.styled-select.eventtime {
+margin-bottom: 25px;
+}
