@@ -2083,8 +2083,8 @@ public function membershipDetails()
               $benefits_list_tandc                                                = $this->mapi->getRow('package_benefits',array('package_benefit_id' =>'18'));
               $voucher_list                                                       = $this->mapi->get_package_voucher_list($package_id);
               $voucher_list_tandc                                                 = $this->mapi->getRow('package_vouchers',array('package_voucher_id' =>'11'));
-              $benefits_list[]                                                    = array_merge($benefits_list,$benefits_list_tandc);
-              $voucher_list[]                                                     = array_merge($voucher_list,$voucher_list_tandc); 
+             // $benefits_list[]                                                    = array_merge($benefits_list,$benefits_list_tandc);
+              //$voucher_list[]                                                     = array_merge($voucher_list,$voucher_list_tandc); 
               //PR($benefits_list);
               $response['response']['membership_details']['benefits']             = $benefits_list; 
               $response['response']['membership_details']['gift_voucher_list']    = $voucher_list; 
