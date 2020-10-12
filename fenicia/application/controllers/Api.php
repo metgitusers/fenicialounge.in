@@ -82,20 +82,20 @@ class Api extends CI_Controller
             $this->displayOutput($response);
           }
         }
-        if (empty($this->input->post( 'dob' ))) {
-          $response['status']['error_code'] = 1;
-          $response['status']['message']    = 'Date of birth field is required';
-          //$response['response']   = $this->obj;
+        // if (empty($this->input->post( 'dob' ))) {
+        //   $response['status']['error_code'] = 1;
+        //   $response['status']['message']    = 'Date of birth field is required';
+        //   //$response['response']   = $this->obj;
           
-          $this->displayOutput($status);
-        }
-        if (empty($this->input->post( 'gender' ))) {
-          $response['status']['error_code'] = 1;
-          $response['status']['message']    = 'Gender of birth field is required';
-          //$response['response']   = $this->obj;
+        //   $this->displayOutput($status);
+        // }
+        // if (empty($this->input->post( 'gender' ))) {
+        //   $response['status']['error_code'] = 1;
+        //   $response['status']['message']    = 'Gender of birth field is required';
+        //   //$response['response']   = $this->obj;
           
-          $this->displayOutput($status);
-        }
+        //   $this->displayOutput($status);
+        // }
         if(empty($this->input->post('fb_id'))){
           $registration_type  = '2';
           if (empty($this->input->post('password'))) {
@@ -134,6 +134,27 @@ class Api extends CI_Controller
         else{
           $doa              = '';          
         }
+
+        if($this->input->post('dob') !=''){
+          $dob              = date('Y-m-d',strtotime(str_replace('/','-',$this->input->post( 'dob' ))));         
+        }
+        else{
+          $dob              = '';          
+        }
+
+        if($this->input->post('gender') !=''){
+          $gender              = $this->input->post('gender');         
+        }
+        else{
+          $gender              = '';          
+        }
+
+        if($this->input->post('marriage_status') !=''){
+          $marriage_status              = $this->input->post('marriage_status');         
+        }
+        else{
+          $marriage_status              = '';          
+        }
         $data = array(    
                
           'first_name'            => $this->input->post( 'first_name' ),  
@@ -144,9 +165,9 @@ class Api extends CI_Controller
           'password'              => sha1($this->input->post( 'password' )),
           'original_password'     => $this->input->post( 'password' ),
           'email'                 => $this->input->post( 'email' ), 
-          'gender'                => $this->input->post( 'gender' ),
-          'marriage_status'       => strtolower($this->input->post( 'marriage_status' )),
-          'dob'                   => date('Y-m-d',strtotime(str_replace('/','-',$this->input->post( 'dob' )))),
+          'gender'                => $gender,
+          'marriage_status'       => $marriage_status,
+          'dob'                   => $dob,
           'doa'                   => $doa,
           'profile_img'           => $img,
           'status'                => '1',
@@ -1050,8 +1071,8 @@ class Api extends CI_Controller
     $api_key = '45DA414F762394';
     //$contacts = '97656XXXXX,97612XXXXX,76012XXXXX,80012XXXXX,89456XXXXX,88010XXXXX,98442XXXXX';
     $contacts= $mobile;
-    //$from = 'FENCIA';
-    $from = 'TXTSMS';
+    $from = 'FENCIA';
+    //$from = 'TXTSMS';
     $sms_text = urlencode($message);
     //Submit to server
     $ch = curl_init();

@@ -782,8 +782,8 @@ class Reservation extends MY_Controller {
 	    $api_key = '45DA414F762394';
 	    //$contacts = '97656XXXXX,97612XXXXX,76012XXXXX,80012XXXXX,89456XXXXX,88010XXXXX,98442XXXXX';
 	    $contacts= $mobile;
-	    //$from = 'FENCIA';
-	    $from = 'TXTSMS';
+	    $from = 'FENCIA';
+	    //$from = 'TXTSMS';
 	    $sms_text = urlencode($message);
 	    //Submit to server
 	    $ch = curl_init();
