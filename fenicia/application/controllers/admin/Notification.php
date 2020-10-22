@@ -28,7 +28,7 @@ class Notification extends MY_Controller {
 	}
 	public function offer()
 	{
-		$condition=array('status'=>1,'is_delete'=> '0');
+		$condition=array('status'=>'1','is_delete'=> '0');
 		$data['user_list'] =$this->mcommon->getDetails('master_member',$condition);
 		//echo $this->db->last_query();
 		//print_r($data['user_list']); die;
