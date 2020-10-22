@@ -2019,23 +2019,11 @@ public function membershipList()
 	$ap = json_decode(file_get_contents('php://input'), true);
     if ($this->checkHttpMethods($this->http_methods[0])) {
       	if (sizeof($ap)) {	
-      		  /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+      		  $member_id     		= $ap['member_id'];
+            $access_token   		= $ap['access_token'];  
+            $device_type   			= $ap['device_type'];
+            $access_token_result 	= $this->check_access_token($access_token, $device_type,$member_id);
+            //pr($member_details);
             if (empty($access_token_result)) {
 	        	  $response['status']['error_code'] = 1;
 	            $response['status']['message']    = 'Unauthorize Token';				
@@ -2198,23 +2186,11 @@ public function PreferredZone()
 	$ap = json_decode(file_get_contents('php://input'), true);
     if ($this->checkHttpMethods($this->http_methods[0])) {
       	if (sizeof($ap)) {	
-      		 /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+      		$member_id     			  = $ap['member_id'];
+          $access_token   		  	  = $ap['access_token'];  
+          $device_type   			  = $ap['device_type'];
+          $access_token_result 	= $this->check_access_token($access_token, $device_type,$member_id);
+            //pr($member_details);
           if (empty($access_token_result)) {
         	  $response['status']['error_code'] = 1;
             $response['status']['message']    = 'Unauthorize Token';				
@@ -2253,23 +2229,11 @@ public function dashboardImages()
 	$ap = json_decode(file_get_contents('php://input'), true);
     if ($this->checkHttpMethods($this->http_methods[0])) {
       	if (sizeof($ap)) {	
-      		 /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+      		$member_id     			= $ap['member_id'];
+            $access_token   		= $ap['access_token'];  
+            $device_type   			= $ap['device_type'];
+            $access_token_result 	= $this->check_access_token($access_token, $device_type,$member_id);
+            //pr($member_details);
             if (empty($access_token_result)) {
 	        	$response['status']['error_code'] = 1;
 	            $response['status']['message']    = 'Unauthorize Token';				
@@ -2308,23 +2272,11 @@ public function feniciaSocial()
   $ap      = json_decode(file_get_contents('php://input'), true);
   if ($this->checkHttpMethods($this->http_methods[0])) {
     if (sizeof($ap)) {  
-         /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+      $member_id            = $ap['member_id'];
+      $access_token         = $ap['access_token'];  
+      $device_type          = $ap['device_type'];
+      $access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
+        //pr($member_details);
       if (empty($access_token_result)) {
         $response['status']['error_code'] = 1;
         $response['status']['message']    = 'Unauthorize Token';        
@@ -2433,27 +2385,12 @@ public function reservationCharge(){
   $ap      = json_decode(file_get_contents('php://input'), true);
   if ($this->checkHttpMethods($this->http_methods[0])) {
     if (sizeof($ap)) {  
-       /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/ 
-     
+      $member_id     = $ap['member_id'];
+      $access_token  = $ap['access_token'];  
+      $device_type   = $ap['device_type'];
       $zone_id       = $ap['zone_id'];
       $no_of_guests  = $ap['no_of_guests'];
-      //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
+      $access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
         //pr($member_details);
       if (empty($access_token_result)) {
         $response['status']['error_code'] = 1;
@@ -3545,24 +3482,11 @@ public function eventList()
   	$ap     = json_decode(file_get_contents('php://input'), true);
   	if ($this->checkHttpMethods($this->http_methods[0])) {
       if (sizeof($ap)) {
-
-        /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-      	if(isset($ap['access_token']))
-        {	
-      		$access_token         = $ap['access_token']; 
-        } 
+      		$member_id            = $ap['member_id'];
+      		$access_token         = $ap['access_token'];  
       		$device_type          = $ap['device_type'];
-      		//$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
+      		$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
       		//pr($member_details);
-          $access_token_result  = 1;
-        /********************************************/
       		if (empty($access_token_result)) {
       			$response['status']['error_code'] = 1;
       			$response['status']['message']    = 'Unauthorize Token';        
@@ -3677,23 +3601,11 @@ public function eventMonthList()
   $ap     = json_decode(file_get_contents('php://input'), true);
   if ($this->checkHttpMethods($this->http_methods[0])) {
     if (sizeof($ap)) {
-       /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+      $member_id            = $ap['member_id'];
+      $access_token         = $ap['access_token'];  
+      $device_type          = $ap['device_type'];
+      $access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
+        //pr($member_details);
       if (empty($access_token_result)) {
         $response['status']['error_code'] = 1;
         $response['status']['message']    = 'Unauthorize Token';        
@@ -3777,25 +3689,11 @@ public function eventSearch()
   $ap     = json_decode(file_get_contents('php://input'), true);
   	if ($this->checkHttpMethods($this->http_methods[0])) {
     	if (sizeof($ap)) {
-			 /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+			$member_id            = $ap['member_id'];
+			$access_token         = $ap['access_token'];  
+			$device_type          = $ap['device_type'];
 			$search_keyword       = trim($ap['search_keyword']);
-			//$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
+			$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
 	        //pr($member_details);
       //$access_token_result  = 1;
 			if (empty($access_token_result)) {
@@ -3871,23 +3769,10 @@ public function latestUpdatesImage()
   $ap     = json_decode(file_get_contents('php://input'), true);
   if ($this->checkHttpMethods($this->http_methods[0])) {
     if (sizeof($ap)) {
-       /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+      $member_id            = $ap['member_id'];
+      $access_token         = $ap['access_token'];  
+      $device_type          = $ap['device_type'];
+      $access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
         //pr($member_details);
       if (empty($access_token_result)) {
         $response['status']['error_code'] = 1;
@@ -3940,23 +3825,10 @@ public function allGalleryList()
   $ap         = json_decode(file_get_contents('php://input'), true);
   if ($this->checkHttpMethods($this->http_methods[0])) {
     if (sizeof($ap)) {
-       /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+      $member_id            = $ap['member_id'];
+      $access_token         = $ap['access_token'];  
+      $device_type          = $ap['device_type'];
+      $access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
         //pr($ap);
       if (empty($access_token_result)) {
         $response['status']['error_code'] = 1;
@@ -4349,23 +4221,9 @@ public function doInquiry(){
   $ap      = json_decode(file_get_contents('php://input'), true);
   if ($this->checkHttpMethods($this->http_methods[0])) {    
     if (sizeof($ap)) {  
-      /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+      $member_id          = $ap['member_id'];
+      $access_token       = $ap['access_token'];  
+      $device_type        = $ap['device_type'];
       $event_id           = $ap['event_id'];
       $name               = $ap['name'];
       $email              = $ap['email'];
@@ -4373,7 +4231,7 @@ public function doInquiry(){
       $phone_no           = $ap['phone_no'];
       $subject            = $ap['subject'];
       $message            = $ap['message'];
-      //$access_token_result    = $this->check_access_token($access_token, $device_type,$member_id);
+      $access_token_result    = $this->check_access_token($access_token, $device_type,$member_id);
         //pr($member_details);
       if (empty($access_token_result)) {
         $response['status']['error_code'] = 1;
@@ -4473,27 +4331,13 @@ public function synchronizeEventWithCalendar(){
   	$ap     = json_decode(file_get_contents('php://input'), true);
   	if ($this->checkHttpMethods($this->http_methods[0])) {
 	    if (sizeof($ap)) {
-		     /***********************modified on 16.10.2020 by ishani *******************************/
-        $member_id="";
-        $access_token="";
-        $device_type=""; 
-        if(isset($ap['member_id']))
-        {
-          $member_id            = $ap['member_id'];
-        }
-        if(isset($ap['access_token']))
-        { 
-          $access_token         = $ap['access_token']; 
-        } 
-          $device_type          = $ap['device_type'];
-          //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
-          //pr($member_details);
-          $access_token_result  = 1;
-        /*************************************************/
+		    $member_id            = $ap['member_id'];
+		    $access_token         = $ap['access_token'];  
+		    $device_type          = $ap['device_type'];
 		    $event_id             = $ap['event_id'];
 		    $caledar_event_id     = $ap['caledar_event_id'];
 		    $caledar_event_flag   = $ap['caledar_event_flag'];
-		    //$access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
+		    $access_token_result  = $this->check_access_token($access_token, $device_type,$member_id);
 		        //pr($member_details);
 		    if (empty($access_token_result)) {
 		      $response['status']['error_code'] = 1;
