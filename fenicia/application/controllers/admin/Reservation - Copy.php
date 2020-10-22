@@ -471,7 +471,7 @@ class Reservation extends MY_Controller {
 					/** modified by ishani on 09.09.2020 **/
 					$reservation_id=$result ;
 					$message  = "Thank you for confirming your Reservation at Club Fenicia. Your reservation details are here: \n";
-                  	$message .= "Booking ref no.".$reservation_id."\n Date: ".$this->input->post("reservation_date")."\n Time: ".$this->input->post("reservation_time")."\n No. of Guests: ".$this->input->post( 'no_of_guests' )."\n Status: Confirmed. \n";
+                  	$message .= "Booking ref no.".$reservation_id."\n Date: ".$mail['reservation_date']."\n Time: ".$mail['reservation_time']."\n No. of Guests: ".$mail['no_of_guest']."\n Status: Confirmed. \n";
                   	$message .= "WE WOULD BE HOLDING YOUR RESERVATION FOR 15 MINUTES FROM THE TIME OF RESERVATION AND IT WILL BE RELEASED WITHOUT ANY PRIOR INFORMATION.";
                   	$this->smsSend($mobile,$message);
 
