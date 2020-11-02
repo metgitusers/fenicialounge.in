@@ -475,6 +475,8 @@ class Reservation extends MY_Controller {
                   	$message .= "WE WOULD BE HOLDING YOUR RESERVATION FOR 15 MINUTES FROM THE TIME OF RESERVATION AND IT WILL BE RELEASED WITHOUT ANY PRIOR INFORMATION.";
                   	$this->smsSend($mobile,$message);
 
+                  	//echo $message; die;
+
                   	//////////////////////////////////////////////////////
 				}
               	$this->session->set_flashdata('error_msg','');
@@ -797,6 +799,16 @@ class Reservation extends MY_Controller {
 	    if(mb_substr($response, 0, 3)=='ERR'){
 	        return false;
 	    }else{
+
+	    	/***************insert into sms log table ****************************/
+	    	$sms_arr=array();
+	    	$sms_log_data = array('sms_txt' 	=> $message,
+							  'sms_urlencode' 	=> $sms_text
+							  
+							);
+	    	$this->mcommon->insert('sms_log',$sms_log_data);
+
+	    	/*******************************************************************/
 	        return $response;
 	    }
 	    //print_r($response);
