@@ -803,7 +803,8 @@ class Reservation extends MY_Controller {
 	    	/***************insert into sms log table ****************************/
 	    	$sms_arr=array();
 	    	$sms_log_data = array('sms_txt' 	=> $message,
-							  'sms_urlencode' 	=> $sms_text
+							  'sms_urlencode' 	=> $sms_text,
+							  'source_page'     => "backend_reservation"
 							  
 							);
 	    	$this->mcommon->insert('sms_log',$sms_log_data);

@@ -1086,6 +1086,17 @@ class Api extends CI_Controller
     if(mb_substr($response, 0, 3)=='ERR'){
         return false;
     }else{
+
+        /***************insert into sms log table ****************************/
+        $sms_arr=array();
+        $sms_log_data = array('sms_txt'   => $message,
+                'sms_urlencode'   => $sms_text,
+                'source_page'     => "API"
+                
+              );
+        $this->mcommon->insert('sms_log',$sms_log_data);
+
+        /*******************************************************************/
         return $response;
     }
     //print_r($response);
