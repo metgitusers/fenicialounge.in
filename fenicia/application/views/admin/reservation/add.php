@@ -59,8 +59,28 @@
                               <div class="form-group">
                                 <label>Preferred time of reservation <sup>*</sup></label>
                                 <div class="input-group time_pick">
-                                  <input class="form-control timepicker" value="" id="reservation_time" name="reservation_time" required/>
-                                  <?php echo form_error('Booking Time', '<div class="error">', '</div>'); ?>
+                                  <!-- <input class="form-control timepicker" value="" id="reservation_time" name="reservation_time" required/>-->
+                                   <select class="form-control" id="reservation_time" name="reservation_time" required>
+                                      <?php
+                                      $start = strtotime('12:00pm');
+                                      $end = strtotime('11:59pm');
+
+                                      for( $i = $start; $i <= $end; $i += 900) 
+                                      {
+                                          
+                                          echo '<option>' . date('g:i A', $i) . '</option>';
+                                      }
+
+                                      $start1 = strtotime('12:00am');
+                                      $end1 = strtotime('2:00am');
+
+                                      for( $i1 = $start1; $i1 <= $end1; $i1 += 900) 
+                                      {
+                                         
+                                          echo '<option>' . date('g:i A', $i1) . '</option>';
+                                      }
+                                      ?>
+                                  </select>
                                 </div>
                               </div>
                             </div>
@@ -210,7 +230,36 @@
                               <div class="form-group">
                                 <label>Preferred time of reservation <sup>*</sup></label>
                                 <div class="input-group time_pick">
-                                  <input class="form-control timepicker" id="reservation_time" name="reservation_time" required value="<?php echo date('h:i A',strtotime($reservation_list['reservation_time'])); ?>"/>
+                                  <!-- <input class="form-control timepicker" id="reservation_time" name="reservation_time" required value="<?php echo date('h:i A',strtotime($reservation_list['reservation_time'])); ?>"/> -->
+                                  <select class="form-control" id="reservation_time" name="reservation_time" required>
+                                      <?php
+                                      $start = strtotime('12:00pm');
+                                      $end = strtotime('11:59pm');
+
+                                      for( $i = $start; $i <= $end; $i += 900) 
+                                      {
+                                          $selected="";
+                                          if(strtotime($reservation_list['reservation_time'])== $i)
+                                          {
+                                            $selected="selected='selected'";
+                                          }
+                                          echo '<option '.$selected.'>' . date('g:i A', $i) . '</option>';
+                                      }
+
+                                      $start1 = strtotime('12:00am');
+                                      $end1 = strtotime('2:00am');
+
+                                      for( $i1 = $start1; $i1 <= $end1; $i1 += 900) 
+                                      {
+                                         $selected1="";
+                                          if(strtotime($reservation_list['reservation_time'])== $i1)
+                                          {
+                                            $selected1="selected='selected'";
+                                          }
+                                          echo '<option '.$selected1.'>' . date('g:i A', $i1) . '</option>';
+                                      }
+                                      ?>
+                                  </select>
                                 </div>
                               </div>
                             </div>
@@ -394,7 +443,7 @@ $(document).ready(function() {
   }
   $('.timepicker').pickatime({
     min: [12,0],
-    max: [23,59],
+    max: [1,59],
     interval: 15
   })
   $('#reservation_date').pickadate({
