@@ -38,7 +38,7 @@
                   <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="form-group emoji">
                       <label>Title*</label>
-                      <input type="text" name="message_title" id="message_title" class="form-control emoji_text" value="<?php echo set_value('message_title');?>" required>
+                      <input type="text" maxlength="25" name="message_title" id="message_title" class="form-control emoji_text" value="<?php echo set_value('message_title');?>" required>
                     </div>
                   </div>
                   <!-- <div class="col-md-6 col-sm-12 col-xs-12">
@@ -48,16 +48,16 @@
                       required>
                     </div>
                   </div> -->
-                  <div class="col-md-6 col-sm-12 col-xs-12">
+                  <!-- <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="form-group">
                       <label>Category</label>
                       <input type="text" name="category" id="category" class="form-control" value="<?php echo set_value('category');?>">
                     </div>
-                  </div>
+                  </div> -->
                   
                   <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="form-group">
-                      <label>Image <small>(Accept format .jpg)</small></label>
+                      <label>Image <small>(Accept format image only)</small></label>
                       <input type="file" name="file" id="file" class="form-control">
                     </div>
                   </div>
@@ -66,7 +66,7 @@
                       <label>Message*</label>
                       <!-- <input type="text" name="name" id="name" class="form-control" value="<?php echo set_value('name');?>" 
                       required> -->
-                      <textarea required="required" name="offer_text" id="offer_text" class="form-control emoji_text"></textarea>
+                      <textarea required="required" maxlength="30" name="offer_text" id="offer_text" class="form-control emoji_text"></textarea>
                     </div>
                   </div>
                 </div>
@@ -123,15 +123,15 @@
       <!-- End of Main Content -->
       <script type="text/javascript">
         $(document).ready(function() {
-          // $("#file").change(function () {
-          //     var validExtensions = ["jpg","jpeg"];
-          //     var file = $(this).val().split('.').pop();
-          //     if (validExtensions.indexOf(file) == -1) {
-          //         $("#file").val(null);
-          //         alert("Only formats are allowed : "+validExtensions.join(', '));
-          //     }
+          $("#file").change(function () {
+              var validExtensions = ["jpg","jpeg","png","gif"];
+              var file = $(this).val().split('.').pop();
+              if (validExtensions.indexOf(file) == -1) {
+                  $("#file").val(null);
+                  alert("Only formats are allowed : "+validExtensions.join(', '));
+              }
 
-          //     });
+              });
           //emoji
           $('.emoji_text').emoji({place: 'after'});
         })

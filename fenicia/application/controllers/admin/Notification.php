@@ -69,25 +69,10 @@ class Notification extends MY_Controller {
 					// $message_data = array('title' => $title,'message' => $message);
 					$title = $this->input->post('message_title')?$this->input->post('message_title'):"";
 					//$sub_text =  $this->input->post('sub_text');
-					$category =  $this->input->post('category')?$this->input->post('category'):"";
+					$category =  "";
 					$message = $this->input->post('offer_text');
 					$msg_img = "";
 					$image_title = "";
-					// if(!empty($_FILES['file']['name'])){
-					// 	$fileExt = pathinfo($_FILES["file"]["name"], PATHINFO_EXTENSION);
-					// 	if($fileExt == "jpg" || $$fileExt == "jpeg"){
-					// 		$image_path = '/public/upload_image/';
-					// 		$file 		= $this->imageupload->image_upload2($image_path,'file');
-					// 		if($file['status']==0){
-					// 			$this->session->set_flashdata('error_msg',$file['result']);
-					// 			redirect('admin/notification/offer');
-					// 		}	
-					// 		else{
-					// 			$image_title = time().mt_rand(111, 999).'.'.$fileExt; //$file['result'];
-					// 			$msg_img = base_url('public/upload_image/').$image_title; //$file['result'];
-					// 		}
-					// 	}
-					// }
 					
 					/*----------------*/ 
 					if($_FILES['file']['name']){
@@ -114,7 +99,9 @@ class Notification extends MY_Controller {
                           $member_datas  = $this->mcommon->getRow('master_member',array('member_id' => $member_id));
                             if($member_datas['notification_allow_type'] == '1'){								
 								if($user_fcm_token_data['device_type'] == 1){
-									$push_array = array("to" => $user_fcm_token_data['fcm_token'],
+									$push_array = array("to" => 
+														//"e50FefdZf0oHjpwyqBeNvr:APA91bHkBY-P_gawF2HgC5_M56nOj689NPa9EBUv2-1wpStu8zrrQwnVaoKDQRX_Q9YMSuJGszTLIwqQEhsOo0jCxE3qxDfTF8NCeDcf5w9-odjxGwFu9uR86zXqPKRTAd6k9P3ZeZ_W",
+														$user_fcm_token_data['fcm_token'],
 														"mutable_content"=>true,
 														"notification" => array(
 															"body" => $message,
@@ -143,25 +130,22 @@ class Notification extends MY_Controller {
 														"data"=>array (
 																"subText"=> $category
 															)
-													);
-									//print_r($push_array); die;				
+													);				
                                   	//$this->pushnotification->send_android_notification($user_fcm_token_data['fcm_token'], $message_data);
                                   	$this->pushnotification->send_android_notification($push_array);
                                 }
                             }
-
-                          }
+                        }
 				 	}
 			 	}
-
-          
+			
 			$idata = array(
 		 		'offer'   => $this->input->post('offer_text'),
 				'image'		=> $image_title,
 				'category'	=> $category,
 				'title'		=> $title,
 				'user_id' => $users,
-				'send_log'=> json_encode($push_array)
+				//'send_log'=> json_encode($push_array)
 		       // 'created_on' => date('Y-m-d H:i:s'),
             );
 
