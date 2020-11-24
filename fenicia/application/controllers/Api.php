@@ -119,7 +119,20 @@ class Api extends CI_Controller
         }       
         else{
           $registration_type  = '3';
-          $img = $this->input->post('profile_image');        
+          //$img = $this->input->post('profile_image');
+          if(!empty($_FILES['profile_image']['name'])){
+            $image_path = '/public/upload_image/profile_photo';
+            $file     = $this->imageupload->image_upload2($image_path,'profile_image');
+            if($file['status'] == 1){
+               $img = $file['result'];
+            }
+            else{
+              $img = '';
+            } 
+          }
+          else{
+              $img = '';
+          }     
         }
        /* if(!empty($_FILES['profile_img']['name'])){
           $image_path = '/public/upload_image/profile_photo';
