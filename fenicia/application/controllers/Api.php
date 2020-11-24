@@ -1971,7 +1971,6 @@ public function buyMembership(){
 /************ New Added on 02/03/2020 ******************/
 
 public function membershipPaymentCheck(){
-  ini_set('display_errors', 1);
     $ap = json_decode(file_get_contents('php://input'), true);
     if ($this->checkHttpMethods($this->http_methods[0])) {
       if (sizeof($ap)) {  
