@@ -373,4 +373,13 @@
         $result=$query1->row_array();
         return $result;
     }
+
+    public function getMembershipPaymentCheck($member_id){
+        $result=array();
+        $query = "select pmm.* from package_membership_mapping pmm left join package_membership_transaction pmt on pmm.member_id = pmt.member_id where pmm.member_id ='".$member_id."' and pmm.status ='1' and pmt.payment_status ='1'"; 
+        //echo $query;exit;
+        $query1 = $this->db->query($query);
+        $result=$query1->row_array();
+        return $result;
+    }
 }
