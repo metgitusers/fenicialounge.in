@@ -1630,13 +1630,14 @@ public function editProfile()
 	        }
 	        else{
 	          	$img = '';
-	        }
-	        if(empty($this->input->post('fb_id'))){
-	          $registration_type  = '2';
-	        }
-	        else{
-	          $registration_type  = '3';
-	        }
+          }
+          //comment on 27-11-2020
+	        // if(empty($this->input->post('fb_id'))){
+	        //   $registration_type  = '2';
+	        // }
+	        // else{
+	        //   $registration_type  = '3';
+	        // }
 	        if($this->input->post('doa') !=''){
 	          $doa = date('Y-m-d',strtotime(str_replace('/','-',$this->input->post('doa'))));         
 	        }
@@ -1654,7 +1655,6 @@ public function editProfile()
 				    $this->displayOutput($response);
 	        } 
           else{
-		        
             $update_arr['first_name']       = $this->input->post('first_name');
             $update_arr['last_name']        = $this->input->post('last_name');     
             $update_arr['country_code']     = $this->input->post('country_code');
@@ -1666,12 +1666,13 @@ public function editProfile()
             $update_arr['doa']              = $doa;
             if(!empty($img)){
               $update_arr['profile_img']    = $img;
-            }            
+            }
             $update_arr['status']           = '1';
-            $update_arr['registration_type']= $registration_type;
-            $update_arr['fb_id']            = $this->input->post('fb_id');
-            $update_arr['added_form']       = $this->input->post('fb_id');
-            $update_arr['login_status']     = $this->input->post('fb_id');
+            //comment on 27-11-2020
+            // $update_arr['registration_type']= $registration_type;
+            // $update_arr['fb_id']            = $this->input->post('fb_id');
+            // $update_arr['added_form']       = $this->input->post('fb_id');
+            // $update_arr['login_status']     = $this->input->post('fb_id');
             $update_arr['updated_by']       = $member_id;
             $update_arr['updated_ts']       = date('Y-m-d H:i:s');
 		        $condition  = array('member_id' => $this->input->post('member_id'));
