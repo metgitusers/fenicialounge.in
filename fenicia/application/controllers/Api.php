@@ -142,31 +142,31 @@ class Api extends CI_Controller
           } 
         }*/ 
         if($this->input->post('doa') !=''){
-          $doa              = date('Y-m-d',strtotime(str_replace('/','-',$this->input->post('doa'))));         
+          $doa = date('Y-m-d',strtotime(str_replace('/','-',$this->input->post('doa'))));         
         }
         else{
-          $doa              = '';          
+          $doa = '';          
         }
 
         if($this->input->post('dob') !=''){
-          $dob              = date('Y-m-d',strtotime(str_replace('/','-',$this->input->post( 'dob' ))));         
+          $dob = date('Y-m-d',strtotime(str_replace('/','-',$this->input->post( 'dob' ))));         
         }
         else{
-          $dob              = '';          
+          $dob = '';          
         }
 
         if($this->input->post('gender') !=''){
-          $gender              = $this->input->post('gender');         
+          $gender = $this->input->post('gender');
         }
         else{
-          $gender              = '';          
+          $gender = '';          
         }
 
         if($this->input->post('marriage_status') !=''){
           $marriage_status              = $this->input->post('marriage_status');         
         }
         else{
-          $marriage_status              = '';          
+          $marriage_status              = '';
         }
         $data = array(    
                
@@ -1604,20 +1604,20 @@ public function editProfile()
 	            $this->displayOutput($response);
 	          }
 	        }
-	        if (empty($this->input->post( 'dob' ))) {
-	          $response['status']['error_code'] = 1;
-	          $response['status']['message']    = 'Date of birth field is required';
-	          //$response['response']   = $this->obj;
+	        // if (empty($this->input->post( 'dob' ))) {
+	        //   $response['status']['error_code'] = 1;
+	        //   $response['status']['message']    = 'Date of birth field is required';
+	        //   //$response['response']   = $this->obj;
 	          
-	          $this->displayOutput($status);
-	        }
-	        if (empty($this->input->post( 'gender' ))) {
-	          $response['status']['error_code'] = 1;
-	          $response['status']['message']    = 'Gender of birth field is required';
-	          //$response['response']   = $this->obj;
+	        //   $this->displayOutput($status);
+	        // }
+	        // if (empty($this->input->post( 'gender' ))) {
+	        //   $response['status']['error_code'] = 1;
+	        //   $response['status']['message']    = 'Gender of birth field is required';
+	        //   //$response['response']   = $this->obj;
 	          
-	          $this->displayOutput($status);
-	        }	        
+	        //   $this->displayOutput($status);
+	        // }	        
 	       	if(!empty($_FILES['profile_image']['name'])){
 	          $image_path = '/public/upload_image/profile_photo';
 	          $file     = $this->imageupload->image_upload2($image_path,'profile_image');
@@ -1638,10 +1638,10 @@ public function editProfile()
 	          $registration_type  = '3';
 	        }
 	        if($this->input->post('doa') !=''){
-	          $doa              = date('Y-m-d',strtotime(str_replace('/','-',$this->input->post('doa'))));         
+	          $doa = date('Y-m-d',strtotime(str_replace('/','-',$this->input->post('doa'))));         
 	        }
 	        else{
-	          $doa              = '';
+	          $doa = '';
 	        }
 	          $member_id     			= $this->input->post( 'member_id' );
             $access_token   		= $this->input->post( 'access_token');  
