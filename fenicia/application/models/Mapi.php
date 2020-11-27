@@ -56,6 +56,16 @@
         //echo $this->db->last_query(); die();
         return $query->result_array(); 
     }
+    public function getRequestForPhotographList($member_id){
+        //pr($notif_cond);
+        $this->db->select("rfp.*,(IF(master_member.profile_img !='',CONCAT('".base_url()."public/upload_image/profile_photo/',master_member.profile_img),'".base_url()."public/upload_image/No_Image_Available.jpg')) as profile_image"); 
+        $this->db->join('master_member', 'master_member.member_id = rfp.member_id', 'inner');
+        $this->db->where('rfp.member_id',$member_id);
+        $this->db->order_by('rfp.request_for_photograph_id','desc');
+        $query=$this->db->get('request_for_photograph rfp');
+        //echo $this->db->last_query(); die();
+        return $query->result_array(); 
+    }
     
     public function getNotificationList($notif_cond){
         //pr($notif_cond);
