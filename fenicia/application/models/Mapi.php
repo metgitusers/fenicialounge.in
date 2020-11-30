@@ -319,7 +319,7 @@
      }
     public function getEventImgList($event_id){
         $result=array();
-        $query = "select (IF(event_img !='',CONCAT('".base_url()."public/upload_image/event_image/',event_img),'".base_url()."public/upload_image/No_Image_Available.jpg')) as event_img from event_images ei where ei.event_id = '".$event_id."'";
+        $query = "select (IF(event_img !='',CONCAT('".base_url()."public/upload_image/event_image/',event_img),'".base_url()."public/upload_image/No_Image_Available.jpg')) as event_img from event_images ei where ei.event_id = '".$event_id."' order by ei.event_img_id ASC";
         //echo $query;exit;
         $query1 = $this->db->query($query);
         $result=$query1->result_array();

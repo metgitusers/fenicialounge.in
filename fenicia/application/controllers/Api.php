@@ -3626,12 +3626,13 @@ public function eventList()
       				  $event_trending_image                             =  $this->mapi->getEventImgList($evnt2['event_id']);             
       				  if(!empty($event_trending_image)){
       				      foreach($event_trending_image as $trd_image){
-
-      				        $event_trending_data[$key2]['event_image']    = $trd_image['event_img'];
+                      $event_trending_data[$key2]['event_image']    = $trd_image['event_img'];
+                      $event_trending_data[$key2]['event_images'][]    = $trd_image['event_img'];
       				      }                 
       				  }
       				  else{
-      				      $event_trending_data[$key2]['event_image']    = "";
+                    $event_trending_data[$key2]['event_image']    = base_url("public/upload_image/No_Image_Available.jpg");
+                    $event_trending_data[$key2]['event_images']    = [base_url("public/upload_image/No_Image_Available.jpg")];
       				  }
       				}
       				$response['response']['event']['trending_events'] = $event_trending_data;              
@@ -3666,10 +3667,12 @@ public function eventList()
                         if(!empty($event_popular_image)){
                           foreach($event_popular_image as $popular_image){
                             $event_popular_data[$key]['event_image']    = $popular_image['event_img'];
+                            $event_popular_data[$key]['event_images'][]  = $popular_image['event_img'];
                           }
                         }
                         else{
-                            $event_popular_data[$key]['event_image']    = "";
+                            $event_popular_data[$key]['event_image']    = base_url("public/upload_image/No_Image_Available.jpg");
+                            $event_popular_data[$key]['event_images']   = [base_url("public/upload_image/No_Image_Available.jpg")];
                         }
                       }
                       $response['response']['event']['popular_events']   = $event_popular_data;
@@ -3766,11 +3769,13 @@ public function eventMonthList()
                           if(!empty($event_data_img)){
                             foreach($event_data_img as $data_img){
                               $event_data[$key]['event_details'][$index]['event_image'] = $data_img['event_img'];
+                              $event_data[$key]['event_details'][$index]['event_images'][] = $data_img['event_img'];
                             }  
                             
                           }
                           else{
-                              $event_data[$key]['event_details'][$index]['event_image']  = '';
+                              $event_data[$key]['event_details'][$index]['event_image']  = base_url("public/upload_image/No_Image_Available.jpg");
+                              $event_data[$key]['event_details'][$index]['event_images']  = [base_url("public/upload_image/No_Image_Available.jpg")];
                           }
                         }
                     }
@@ -3865,10 +3870,12 @@ public function eventSearch()
               if(!empty($event_image)){
                 foreach($event_image as $evnt_image){
                   $event_data[$key]['event_image']    = $evnt_image['event_img'];
+                  $event_data[$key]['event_images'][]    = $evnt_image['event_img'];
                 }
               }
               else{
-                  $event_data[$key]['event_image']    = '';
+                  $event_data[$key]['event_image']    =  base_url("public/upload_image/No_Image_Available.jpg");
+                  $event_data[$key]['event_images']    = [base_url("public/upload_image/No_Image_Available.jpg")];
               }
             }
             $response['response']['events_list']   = $event_data;
