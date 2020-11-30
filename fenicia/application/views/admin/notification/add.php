@@ -38,7 +38,7 @@
                   <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="form-group emoji">
                       <label>Title*</label>
-                      <input type="text" maxlength="25" name="message_title" id="message_title" class="form-control emoji_text" value="<?php echo set_value('message_title');?>" required>
+                      <input type="text" maxlength="150" name="message_title" id="message_title" class="form-control emoji_text" value="<?php echo set_value('message_title');?>" required>
                     </div>
                   </div>
                   <!-- <div class="col-md-6 col-sm-12 col-xs-12">
@@ -66,8 +66,14 @@
                       <label>Message*</label>
                       <!-- <input type="text" name="name" id="name" class="form-control" value="<?php echo set_value('name');?>" 
                       required> -->
-                      <textarea required="required" maxlength="30" name="offer_text" id="offer_text" class="form-control emoji_text"></textarea>
+                      <textarea required="required" maxlength="250" name="offer_text" id="offer_text" class="form-control emoji_text"></textarea>
                     </div>
+                  </div>
+                  <div class="col-md-2 col-xs-2 col-xs-2">
+                    <div class="form-group">
+                       <button type="submit" class="btn btn-primary btn-user btn-block">Send </button>
+                          <!--  <input type="submit" name="submit" value="Submit"/> -->
+                       </div>
                   </div>
                 </div>
                <?php if(!empty($user_list)){ ?>
@@ -90,15 +96,6 @@
                     </div>
                 </div>
               <?php } ?>
-              
-              
-               
-                 <div class="col-md-2 col-xs-2 col-xs-2">
-                    <div class="form-group">
-                       <button type="submit" class="btn btn-primary btn-user btn-block">Send </button>
-                          <!--  <input type="submit" name="submit" value="Submit"/> -->
-                       </div>
-                  </div>
               
               </div>          
             </div>
@@ -130,7 +127,10 @@
                   $("#file").val(null);
                   alert("Only formats are allowed : "+validExtensions.join(', '));
               }
-
+              if (this.files[0].size >= 550000) {
+                  $("#file").val(null);
+                  alert("File size is to large. Accepted size below 500k: ");
+              }
               });
           //emoji
           $('.emoji_text').emoji({place: 'after'});
