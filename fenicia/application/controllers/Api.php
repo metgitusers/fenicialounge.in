@@ -4623,8 +4623,8 @@ public function synchronizeEventWithCalendar(){
     $this->email->message($data['message']);
 
     $this->email->send();
-    //echo $this->email->print_debugger(); die;
-    return true;
+    echo $this->email->print_debugger(); die;
+    //return true;
   }
 
   /////////////////////////////added by ishani on 04.02.2019/////////////////////////////////////
