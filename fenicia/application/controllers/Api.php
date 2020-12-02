@@ -5002,8 +5002,8 @@ public function synchronizeEventWithCalendar(){
         	$response['status']['error_code'] = 0;
            	$response['status']['message']    = '';
             $updateResponseArr['updateRequired']="Yes";
-           	if($versiondetails['is_mandatory']==1)
-           	//if(false)
+           	//if($versiondetails['is_mandatory']==1)
+           	if(false)
         	{
         		$updateResponseArr['severity']="critical";
             	$updateResponseArr['dialog_message']=$versiondetails['msg_mandatory'];
