@@ -297,7 +297,7 @@ if($last_string_url_link=="admin/index/App")
 										</a>
 										<div aria-labelledby="dropdownBasic3" class="dropdown-menu dropdown-menu-right">
 											<div class="arrow_box_right"> 
-												<a href="<?= base_url('admin/changeprofile') ?>" class="dropdown-item py-1"><i class="ft-edit mr-2"></i><span>My Profile</span></a>
+												<!-- <a href="<?= base_url('admin/changeprofile') ?>" class="dropdown-item py-1"><i class="ft-edit mr-2"></i><span>My Profile</span></a> -->
 												<div class="arrow_box_right"> <a href="<?= base_url('admin/changepassword') ?>" class="dropdown-item py-1"><i class="fa fa-unlock-alt mr-2"></i><span>Change Password</span></a>
 												<?php if($this->session->userdata('user_details') !=''){$user_details =  $this->session->userdata('user_details');} ?> 
 												<?php if($user_details['code'] !=''){ ?>
