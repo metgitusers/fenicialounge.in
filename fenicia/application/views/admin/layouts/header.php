@@ -301,7 +301,8 @@ if($last_string_url_link=="admin/index/App")
 												<div class="arrow_box_right"> <a href="<?= base_url('admin/changepassword') ?>" class="dropdown-item py-1"><i class="fa fa-unlock-alt mr-2"></i><span>Change Password</span></a>
 												<?php if($this->session->userdata('user_details') !=''){$user_details =  $this->session->userdata('user_details');} ?> 
 												<?php if($user_details['code'] !=''){ ?>
-													<div class="arrow_box_right"> <a href="" style="pointer-events: none;cursor: default;text-decoration: none;color: black;" class="dropdown-item py-1"><i class="fa fa-lock" aria-hidden="true"></i><span>PIN: <?php echo $user_details['code']; ?></span></a>
+													<div class="arrow_box_right">
+													<a href="" style="pointer-events: none;cursor: default;text-decoration: none;color: black;" class="dropdown-item py-1"><i class="fa fa-lock" aria-hidden="true"></i> <span>PIN: <?php echo $user_details['code']; ?></span></a>
 												<?php } ?>
 												<a href="<?= base_url('admin/logout') ?>" class="dropdown-item"><i class="ft-power mr-2"></i><span>Logout</span></a> </div>
 										</div>
