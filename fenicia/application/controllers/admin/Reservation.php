@@ -786,8 +786,8 @@ class Reservation extends MY_Controller {
 	}	
 	public function smsSend($mobile,$message){
 	    //echo $mobile."<br>".$message;exit;
-	    //$api_key = '45DB969F6550A9';
-	    $api_key = '45DA414F762394';
+	    $api_key = '45DB969F6550A9';
+	    //$api_key = '45DA414F762394';
 	    //$contacts = '97656XXXXX,97612XXXXX,76012XXXXX,80012XXXXX,89456XXXXX,88010XXXXX,98442XXXXX';
 	    $contacts= $mobile;
 	    $from = 'FENCIA';
