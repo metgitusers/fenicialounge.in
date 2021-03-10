@@ -348,8 +348,11 @@ class Api extends CI_Controller
             $from_email         = 'clubfenicia@fenicialounge.in';
             $this->sendMail($mail,'Club Fenicia',$from_email); 
 
-            $message  = "User Registration successful. \n";
-            $message .=  "User ID: ".$this->input->post( 'email' )."\n Team Club Fenicia";
+            // $message  = "User Registration successful. \n";
+            // $message .=  "User ID: ".$this->input->post( 'email' )."\n Team Club Fenicia";
+            $message  = "Dear ".$this->input->post( 'first_name' )." ".$this->input->post( 'last_name' )."\n";
+            $message  .= "User Registration successful. User ID: ".$this->input->post( 'email' )."\n";
+            $message  .= "FENICIA";
             $this->smsSend($this->input->post( 'mobile' ),$message);
         }
       }
@@ -650,8 +653,11 @@ class Api extends CI_Controller
             $from_email         = 'clubfenicia@fenicialounge.in';
             $this->sendMail($mail,'Club Fenicia',$from_email); 
 
-            $message  = "User Registration successful. \n";
-            $message .=  "User ID: ".$this->input->post( 'email' )."\n Team Club Fenicia";
+            // $message  = "User Registration successful. \n";
+            // $message .=  "User ID: ".$this->input->post( 'email' )."\n Team Club Fenicia";
+            $message  = "Dear ".$this->input->post( 'first_name' )." ".$this->input->post( 'last_name' )."\n";
+            $message  .= "User Registration successful. User ID: ".$this->input->post( 'email' )."\n";
+            $message  .= "FENICIA";
             $this->smsSend($this->input->post( 'mobile' ),$message);
         }
       }
@@ -1052,7 +1058,7 @@ class Api extends CI_Controller
         $member_data = $this->mapi->getRow('master_member',array('mobile' => $ap['mobile_no']));
         if(!empty($member_data)){
           
-          $message  = $otp." is the OTP."."\n Team Club Fenicia";
+          $message  = $otp." is the OTP."."\n FENICIA";
           $response_sms = $this->smsSend($ap['mobile_no'],$message);
 
           $update_arr = array('otp' =>$otp,'otp_generating_datetime' =>date('Y-m-d H:i'));
@@ -1959,9 +1965,11 @@ public function buyMembership(){
               $msg                =   registration_mail($params);
 
 
-              $message  = "Thank you for purchasing the Membership package of Club Fenicia \n . Your Membership activation is under process.";
+              //$message  = "Thank you for purchasing the Membership package of Club Fenicia \n . Your Membership activation is under process.";
               //$message  .=   "Membership name: ".$package_name.", Membership type: ".$package_type_name.", Membership Price: ".$package_price."Membership Status: Under process";
-              
+              $message  = "Dear ".$user_name."\n";
+              $message  .= "Thank you for purchasing the Membership package of Club Fenicia. Your Membership activation is under process.\n";
+              $message  .= "FENICIA";
               $this->smsSend($user_mobile,$message);
 
 			}
@@ -2989,9 +2997,15 @@ public function doReservation()
 
 		                      /********************************** Send reservation details in sms *************************************************/
 
-		                      $message  = "Thank you for confirming your Reservation at Club Fenicia. Your reservation details are: \n";
-		                      $message .= "Zone: ".$zone_name."\n Date: ".$reservation_date."\n Time: ".$reservation_time."\n No. of Guests: ".$no_of_guest."\n Status: Pending";
-		                      $message .= "WE WOULD BE HOLDING YOUR RESERVATION FOR 15 MINUTES FROM THE TIME OF RESERVATION AND IT WILL BE RELEASED WITHOUT ANY PRIOR INFORMATION.";
+		                      // $message  = "Thank you for confirming your Reservation at Club Fenicia. Your reservation details are: \n";
+		                      // $message .= "Zone: ".$zone_name."\n Date: ".$reservation_date."\n Time: ".$reservation_time."\n No. of Guests: ".$no_of_guest."\n Status: Pending";
+		                      // $message .= "WE WOULD BE HOLDING YOUR RESERVATION FOR 15 MINUTES FROM THE TIME OF RESERVATION AND IT WILL BE RELEASED WITHOUT ANY PRIOR INFORMATION.";
+                          
+                          $message  ="Thank you for confirming your Reservation at Club Fenicia. Your reservation details are: 
+                            Booking ref no. ".$reservation_id."  Date:  ".$reservation_date.". Time: ".$reservation_time.".
+                             No. of Guests: ".$no_of_guest.". Status: Pending. WE WOULD BE HOLDING YOUR RESERVATION FOR 15 MINUTES 
+                            FROM THE TIME OF RESERVATION AND IT WILL BE RELEASED WITHOUT ANY PRIOR INFORMATION.\n"; 
+                          $message  .= "FENICIA";
                           $this->smsSend($ap['phone_no'],$message);
 		                    }
 	                  	}
@@ -4757,7 +4771,8 @@ public function synchronizeEventWithCalendar(){
         
         $mobile   = $ap['country_code'].$ap['mobile_no'];
         $otp      = mt_rand(1000,9999);
-        $message="Your OTP - ".$otp;
+        $message=$otp."is the OTP \n";
+        $message.="FENICIA";
     
           $response_sms = $this->smsSend($ap['mobile_no'],$message);
           //echo $response_sms;exit;
